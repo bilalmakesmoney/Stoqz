@@ -1,0 +1,13 @@
+product_name,sku,category,sale_date,quantity_sold,price,current_stock,reorder_point
+Organic Bananas 3lb,PRO-002,Produce,2026-07-28,48,2.99,50,45
+Organic Whole Milk 1gal,DAI-001,Dairy,2026-07-28,32,4.49,42,40
+Greek Yogurt 32oz,DAI-005,Dairy,2026-07-28,18,5.29,38,20
+Sourdough Bread Loaf,SNA-003,Snacks,2026-07-28,25,4.99,55,25
+Sparkling Water 12pk,BEV-004,Beverages,2026-07-28,20,5.99,35,30
+Avocados 4pk,PRO-007,Produce,2026-07-28,24,3.99,30,25
+Paper Towels 6ct,HOU-008,Household,2026-07-28,15,8.99,28,15
+Cold Brew Coffee 32oz,BEV-009,Beverages,2026-07-28,22,4.99,52,20
+Organic Eggs 12ct,DAI-010,Dairy,2026-07-28,30,3.99,40,25
+Hand Soap 12oz,PER-011,Personal Care,2026-07-28,12,2.99,32,15
+Trash Bags 30ct,HOU-012,Household,2026-07-28,14,7.49,25,15
+Dark Chocolate Bar,SNA-015,Snacks,2026-07-28,28,2.49,60,20

@@ -1,0 +1,2161 @@
+date,product,quantity_sold,sku,category,current_stock,unit_cost,reorder_point
+2026-02-01,Organic Whole Milk 1gal,28,DAI-001,Dairy,222,3.2,30
+2026-02-01,Greek Yogurt 32oz,16,DAI-005,Dairy,164,2.8,20
+2026-02-01,Sourdough Bread Loaf,21,BAK-003,Bakery,139,2.5,25
+2026-02-01,Croissants 4pk,16,BAK-008,Bakery,104,3.0,15
+2026-02-01,Organic Bananas 3lb,37,PRO-002,Produce,313,1.2,45
+2026-02-01,Avocados 4pk,20,PRO-009,Produce,180,2.2,25
+2026-02-01,Sparkling Water 12pk,30,BEV-014,Beverages,190,4.0,30
+2026-02-01,Cold Brew Coffee 32oz,20,BEV-022,Beverages,130,3.5,20
+2026-02-01,Paper Towels 6pk,9,HOU-005,Household,121,6.0,15
+2026-02-01,Dish Soap 24oz,9,HOU-012,Household,91,2.4,10
+2026-02-01,Hand Soap 12oz,6,PER-006,Personal Care,84,1.8,10
+2026-02-01,Moisturizing Lotion 16oz,5,PER-019,Personal Care,70,5.5,8
+2026-02-02,Organic Whole Milk 1gal,21,DAI-001,Dairy,201,3.2,30
+2026-02-02,Greek Yogurt 32oz,7,DAI-005,Dairy,157,2.8,20
+2026-02-02,Sourdough Bread Loaf,9,BAK-003,Bakery,130,2.5,25
+2026-02-02,Croissants 4pk,8,BAK-008,Bakery,96,3.0,15
+2026-02-02,Organic Bananas 3lb,24,PRO-002,Produce,289,1.2,45
+2026-02-02,Avocados 4pk,17,PRO-009,Produce,163,2.2,25
+2026-02-02,Sparkling Water 12pk,14,BEV-014,Beverages,176,4.0,30
+2026-02-02,Cold Brew Coffee 32oz,9,BEV-022,Beverages,121,3.5,20
+2026-02-02,Paper Towels 6pk,11,HOU-005,Household,110,6.0,15
+2026-02-02,Dish Soap 24oz,6,HOU-012,Household,85,2.4,10
+2026-02-02,Hand Soap 12oz,5,PER-006,Personal Care,79,1.8,10
+2026-02-02,Moisturizing Lotion 16oz,2,PER-019,Personal Care,68,5.5,8
+2026-02-03,Organic Whole Milk 1gal,18,DAI-001,Dairy,183,3.2,30
+2026-02-03,Greek Yogurt 32oz,13,DAI-005,Dairy,144,2.8,20
+2026-02-03,Sourdough Bread Loaf,11,BAK-003,Bakery,119,2.5,25
+2026-02-03,Croissants 4pk,11,BAK-008,Bakery,85,3.0,15
+2026-02-03,Organic Bananas 3lb,26,PRO-002,Produce,263,1.2,45
+2026-02-03,Avocados 4pk,15,PRO-009,Produce,148,2.2,25
+2026-02-03,Sparkling Water 12pk,15,BEV-014,Beverages,161,4.0,30
+2026-02-03,Cold Brew Coffee 32oz,19,BEV-022,Beverages,102,3.5,20
+2026-02-03,Paper Towels 6pk,8,HOU-005,Household,102,6.0,15
+2026-02-03,Dish Soap 24oz,4,HOU-012,Household,81,2.4,10
+2026-02-03,Hand Soap 12oz,6,PER-006,Personal Care,73,1.8,10
+2026-02-03,Moisturizing Lotion 16oz,3,PER-019,Personal Care,65,5.5,8
+2026-02-04,Organic Whole Milk 1gal,20,DAI-001,Dairy,163,3.2,30
+2026-02-04,Greek Yogurt 32oz,7,DAI-005,Dairy,137,2.8,20
+2026-02-04,Sourdough Bread Loaf,10,BAK-003,Bakery,109,2.5,25
+2026-02-04,Croissants 4pk,10,BAK-008,Bakery,75,3.0,15
+2026-02-04,Organic Bananas 3lb,33,PRO-002,Produce,230,1.2,45
+2026-02-04,Avocados 4pk,17,PRO-009,Produce,131,2.2,25
+2026-02-04,Sparkling Water 12pk,17,BEV-014,Beverages,144,4.0,30
+2026-02-04,Cold Brew Coffee 32oz,12,BEV-022,Beverages,90,3.5,20
+2026-02-04,Paper Towels 6pk,5,HOU-005,Household,97,6.0,15
+2026-02-04,Dish Soap 24oz,5,HOU-012,Household,76,2.4,10
+2026-02-04,Hand Soap 12oz,4,PER-006,Personal Care,69,1.8,10
+2026-02-04,Moisturizing Lotion 16oz,5,PER-019,Personal Care,60,5.5,8
+2026-02-05,Organic Whole Milk 1gal,21,DAI-001,Dairy,142,3.2,30
+2026-02-05,Greek Yogurt 32oz,7,DAI-005,Dairy,130,2.8,20
+2026-02-05,Sourdough Bread Loaf,15,BAK-003,Bakery,94,2.5,25
+2026-02-05,Croissants 4pk,9,BAK-008,Bakery,66,3.0,15
+2026-02-05,Organic Bananas 3lb,26,PRO-002,Produce,204,1.2,45
+2026-02-05,Avocados 4pk,18,PRO-009,Produce,113,2.2,25
+2026-02-05,Sparkling Water 12pk,22,BEV-014,Beverages,122,4.0,30
+2026-02-05,Cold Brew Coffee 32oz,16,BEV-022,Beverages,74,3.5,20
+2026-02-05,Paper Towels 6pk,6,HOU-005,Household,91,6.0,15
+2026-02-05,Dish Soap 24oz,5,HOU-012,Household,71,2.4,10
+2026-02-05,Hand Soap 12oz,5,PER-006,Personal Care,64,1.8,10
+2026-02-05,Moisturizing Lotion 16oz,5,PER-019,Personal Care,55,5.5,8
+2026-02-06,Organic Whole Milk 1gal,28,DAI-001,Dairy,114,3.2,30
+2026-02-06,Greek Yogurt 32oz,18,DAI-005,Dairy,112,2.8,20
+2026-02-06,Sourdough Bread Loaf,18,BAK-003,Bakery,76,2.5,25
+2026-02-06,Croissants 4pk,11,BAK-008,Bakery,55,3.0,15
+2026-02-06,Organic Bananas 3lb,47,PRO-002,Produce,157,1.2,45
+2026-02-06,Avocados 4pk,29,PRO-009,Produce,84,2.2,25
+2026-02-06,Sparkling Water 12pk,26,BEV-014,Beverages,96,4.0,30
+2026-02-06,Cold Brew Coffee 32oz,23,BEV-022,Beverages,51,3.5,20
+2026-02-06,Paper Towels 6pk,12,HOU-005,Household,79,6.0,15
+2026-02-06,Dish Soap 24oz,8,HOU-012,Household,63,2.4,10
+2026-02-06,Hand Soap 12oz,8,PER-006,Personal Care,56,1.8,10
+2026-02-06,Moisturizing Lotion 16oz,8,PER-019,Personal Care,47,5.5,8
+2026-02-07,Organic Whole Milk 1gal,29,DAI-001,Dairy,85,3.2,30
+2026-02-07,Greek Yogurt 32oz,23,DAI-005,Dairy,89,2.8,20
+2026-02-07,Sourdough Bread Loaf,13,BAK-003,Bakery,63,2.5,25
+2026-02-07,Croissants 4pk,16,BAK-008,Bakery,39,3.0,15
+2026-02-07,Organic Bananas 3lb,43,PRO-002,Produce,114,1.2,45
+2026-02-07,Avocados 4pk,23,PRO-009,Produce,61,2.2,25
+2026-02-07,Sparkling Water 12pk,27,BEV-014,Beverages,69,4.0,30
+2026-02-07,Cold Brew Coffee 32oz,13,BEV-022,Beverages,38,3.5,20
+2026-02-07,Paper Towels 6pk,11,HOU-005,Household,68,6.0,15
+2026-02-07,Dish Soap 24oz,10,HOU-012,Household,53,2.4,10
+2026-02-07,Hand Soap 12oz,10,PER-006,Personal Care,46,1.8,10
+2026-02-07,Moisturizing Lotion 16oz,6,PER-019,Personal Care,41,5.5,8
+2026-02-08,Organic Whole Milk 1gal,23,DAI-001,Dairy,62,3.2,30
+2026-02-08,Greek Yogurt 32oz,15,DAI-005,Dairy,74,2.8,20
+2026-02-08,Sourdough Bread Loaf,21,BAK-003,Bakery,42,2.5,25
+2026-02-08,Croissants 4pk,13,BAK-008,Bakery,26,3.0,15
+2026-02-08,Organic Bananas 3lb,35,PRO-002,Produce,79,1.2,45
+2026-02-08,Avocados 4pk,23,PRO-009,Produce,38,2.2,25
+2026-02-08,Sparkling Water 12pk,24,BEV-014,Beverages,45,4.0,30
+2026-02-08,Cold Brew Coffee 32oz,21,BEV-022,Beverages,92,3.5,20
+2026-02-08,Paper Towels 6pk,9,HOU-005,Household,59,6.0,15
+2026-02-08,Dish Soap 24oz,7,HOU-012,Household,46,2.4,10
+2026-02-08,Hand Soap 12oz,6,PER-006,Personal Care,40,1.8,10
+2026-02-08,Moisturizing Lotion 16oz,4,PER-019,Personal Care,37,5.5,8
+2026-02-09,Organic Whole Milk 1gal,21,DAI-001,Dairy,41,3.2,30
+2026-02-09,Greek Yogurt 32oz,13,DAI-005,Dairy,61,2.8,20
+2026-02-09,Sourdough Bread Loaf,14,BAK-003,Bakery,28,2.5,25
+2026-02-09,Croissants 4pk,9,BAK-008,Bakery,17,3.0,15
+2026-02-09,Organic Bananas 3lb,22,PRO-002,Produce,57,1.2,45
+2026-02-09,Avocados 4pk,14,PRO-009,Produce,124,2.2,25
+2026-02-09,Sparkling Water 12pk,16,BEV-014,Beverages,139,4.0,30
+2026-02-09,Cold Brew Coffee 32oz,11,BEV-022,Beverages,81,3.5,20
+2026-02-09,Paper Towels 6pk,7,HOU-005,Household,52,6.0,15
+2026-02-09,Dish Soap 24oz,7,HOU-012,Household,39,2.4,10
+2026-02-09,Hand Soap 12oz,8,PER-006,Personal Care,32,1.8,10
+2026-02-09,Moisturizing Lotion 16oz,4,PER-019,Personal Care,33,5.5,8
+2026-02-10,Organic Whole Milk 1gal,21,DAI-001,Dairy,145,3.2,30
+2026-02-10,Greek Yogurt 32oz,12,DAI-005,Dairy,49,2.8,20
+2026-02-10,Sourdough Bread Loaf,8,BAK-003,Bakery,100,2.5,25
+2026-02-10,Croissants 4pk,10,BAK-008,Bakery,67,3.0,15
+2026-02-10,Organic Bananas 3lb,29,PRO-002,Produce,203,1.2,45
+2026-02-10,Avocados 4pk,25,PRO-009,Produce,99,2.2,25
+2026-02-10,Sparkling Water 12pk,17,BEV-014,Beverages,122,4.0,30
+2026-02-10,Cold Brew Coffee 32oz,14,BEV-022,Beverages,67,3.5,20
+2026-02-10,Paper Towels 6pk,8,HOU-005,Household,44,6.0,15
+2026-02-10,Dish Soap 24oz,4,HOU-012,Household,35,2.4,10
+2026-02-10,Hand Soap 12oz,7,PER-006,Personal Care,25,1.8,10
+2026-02-10,Moisturizing Lotion 16oz,5,PER-019,Personal Care,28,5.5,8
+2026-02-11,Organic Whole Milk 1gal,23,DAI-001,Dairy,122,3.2,30
+2026-02-11,Greek Yogurt 32oz,10,DAI-005,Dairy,39,2.8,20
+2026-02-11,Sourdough Bread Loaf,18,BAK-003,Bakery,82,2.5,25
+2026-02-11,Croissants 4pk,6,BAK-008,Bakery,61,3.0,15
+2026-02-11,Organic Bananas 3lb,32,PRO-002,Produce,171,1.2,45
+2026-02-11,Avocados 4pk,24,PRO-009,Produce,75,2.2,25
+2026-02-11,Sparkling Water 12pk,14,BEV-014,Beverages,108,4.0,30
+2026-02-11,Cold Brew Coffee 32oz,11,BEV-022,Beverages,56,3.5,20
+2026-02-11,Paper Towels 6pk,8,HOU-005,Household,36,6.0,15
+2026-02-11,Dish Soap 24oz,5,HOU-012,Household,30,2.4,10
+2026-02-11,Hand Soap 12oz,3,PER-006,Personal Care,22,1.8,10
+2026-02-11,Moisturizing Lotion 16oz,4,PER-019,Personal Care,24,5.5,8
+2026-02-12,Organic Whole Milk 1gal,16,DAI-001,Dairy,106,3.2,30
+2026-02-12,Greek Yogurt 32oz,14,DAI-005,Dairy,25,2.8,20
+2026-02-12,Sourdough Bread Loaf,11,BAK-003,Bakery,71,2.5,25
+2026-02-12,Croissants 4pk,13,BAK-008,Bakery,48,3.0,15
+2026-02-12,Organic Bananas 3lb,25,PRO-002,Produce,146,1.2,45
+2026-02-12,Avocados 4pk,15,PRO-009,Produce,60,2.2,25
+2026-02-12,Sparkling Water 12pk,21,BEV-014,Beverages,87,4.0,30
+2026-02-12,Cold Brew Coffee 32oz,9,BEV-022,Beverages,47,3.5,20
+2026-02-12,Paper Towels 6pk,8,HOU-005,Household,28,6.0,15
+2026-02-12,Dish Soap 24oz,8,HOU-012,Household,22,2.4,10
+2026-02-12,Hand Soap 12oz,3,PER-006,Personal Care,19,1.8,10
+2026-02-12,Moisturizing Lotion 16oz,4,PER-019,Personal Care,20,5.5,8
+2026-02-13,Organic Whole Milk 1gal,30,DAI-001,Dairy,76,3.2,30
+2026-02-13,Greek Yogurt 32oz,21,DAI-005,Dairy,94,2.8,20
+2026-02-13,Sourdough Bread Loaf,17,BAK-003,Bakery,54,2.5,25
+2026-02-13,Croissants 4pk,11,BAK-008,Bakery,37,3.0,15
+2026-02-13,Organic Bananas 3lb,45,PRO-002,Produce,101,1.2,45
+2026-02-13,Avocados 4pk,25,PRO-009,Produce,35,2.2,25
+2026-02-13,Sparkling Water 12pk,28,BEV-014,Beverages,59,4.0,30
+2026-02-13,Cold Brew Coffee 32oz,21,BEV-022,Beverages,26,3.5,20
+2026-02-13,Paper Towels 6pk,10,HOU-005,Household,18,6.0,15
+2026-02-13,Dish Soap 24oz,9,HOU-012,Household,13,2.4,10
+2026-02-13,Hand Soap 12oz,8,PER-006,Personal Care,11,1.8,10
+2026-02-13,Moisturizing Lotion 16oz,5,PER-019,Personal Care,15,5.5,8
+2026-02-14,Organic Whole Milk 1gal,36,DAI-001,Dairy,40,3.2,30
+2026-02-14,Greek Yogurt 32oz,20,DAI-005,Dairy,74,2.8,20
+2026-02-14,Sourdough Bread Loaf,18,BAK-003,Bakery,36,2.5,25
+2026-02-14,Croissants 4pk,16,BAK-008,Bakery,21,3.0,15
+2026-02-14,Organic Bananas 3lb,38,PRO-002,Produce,63,1.2,45
+2026-02-14,Avocados 4pk,27,PRO-009,Produce,108,2.2,25
+2026-02-14,Sparkling Water 12pk,31,BEV-014,Beverages,138,4.0,30
+2026-02-14,Cold Brew Coffee 32oz,17,BEV-022,Beverages,84,3.5,20
+2026-02-14,Paper Towels 6pk,14,HOU-005,Household,69,6.0,15
+2026-02-14,Dish Soap 24oz,10,HOU-012,Household,53,2.4,10
+2026-02-14,Hand Soap 12oz,9,PER-006,Personal Care,52,1.8,10
+2026-02-14,Moisturizing Lotion 16oz,9,PER-019,Personal Care,56,5.5,8
+2026-02-15,Organic Whole Milk 1gal,25,DAI-001,Dairy,140,3.2,30
+2026-02-15,Greek Yogurt 32oz,14,DAI-005,Dairy,60,2.8,20
+2026-02-15,Sourdough Bread Loaf,16,BAK-003,Bakery,100,2.5,25
+2026-02-15,Croissants 4pk,11,BAK-008,Bakery,70,3.0,15
+2026-02-15,Organic Bananas 3lb,38,PRO-002,Produce,200,1.2,45
+2026-02-15,Avocados 4pk,22,PRO-009,Produce,86,2.2,25
+2026-02-15,Sparkling Water 12pk,25,BEV-014,Beverages,113,4.0,30
+2026-02-15,Cold Brew Coffee 32oz,20,BEV-022,Beverages,64,3.5,20
+2026-02-15,Paper Towels 6pk,10,HOU-005,Household,59,6.0,15
+2026-02-15,Dish Soap 24oz,10,HOU-012,Household,43,2.4,10
+2026-02-15,Hand Soap 12oz,6,PER-006,Personal Care,46,1.8,10
+2026-02-15,Moisturizing Lotion 16oz,9,PER-019,Personal Care,47,5.5,8
+2026-02-16,Organic Whole Milk 1gal,22,DAI-001,Dairy,118,3.2,30
+2026-02-16,Greek Yogurt 32oz,10,DAI-005,Dairy,50,2.8,20
+2026-02-16,Sourdough Bread Loaf,11,BAK-003,Bakery,89,2.5,25
+2026-02-16,Croissants 4pk,11,BAK-008,Bakery,59,3.0,15
+2026-02-16,Organic Bananas 3lb,28,PRO-002,Produce,172,1.2,45
+2026-02-16,Avocados 4pk,19,PRO-009,Produce,67,2.2,25
+2026-02-16,Sparkling Water 12pk,20,BEV-014,Beverages,93,4.0,30
+2026-02-16,Cold Brew Coffee 32oz,13,BEV-022,Beverages,51,3.5,20
+2026-02-16,Paper Towels 6pk,6,HOU-005,Household,53,6.0,15
+2026-02-16,Dish Soap 24oz,4,HOU-012,Household,39,2.4,10
+2026-02-16,Hand Soap 12oz,4,PER-006,Personal Care,42,1.8,10
+2026-02-16,Moisturizing Lotion 16oz,5,PER-019,Personal Care,42,5.5,8
+2026-02-17,Organic Whole Milk 1gal,20,DAI-001,Dairy,98,3.2,30
+2026-02-17,Greek Yogurt 32oz,9,DAI-005,Dairy,41,2.8,20
+2026-02-17,Sourdough Bread Loaf,15,BAK-003,Bakery,74,2.5,25
+2026-02-17,Croissants 4pk,11,BAK-008,Bakery,48,3.0,15
+2026-02-17,Organic Bananas 3lb,25,PRO-002,Produce,147,1.2,45
+2026-02-17,Avocados 4pk,17,PRO-009,Produce,50,2.2,25
+2026-02-17,Sparkling Water 12pk,18,BEV-014,Beverages,75,4.0,30
+2026-02-17,Cold Brew Coffee 32oz,10,BEV-022,Beverages,41,3.5,20
+2026-02-17,Paper Towels 6pk,9,HOU-005,Household,44,6.0,15
+2026-02-17,Dish Soap 24oz,7,HOU-012,Household,32,2.4,10
+2026-02-17,Hand Soap 12oz,7,PER-006,Personal Care,35,1.8,10
+2026-02-17,Moisturizing Lotion 16oz,5,PER-019,Personal Care,37,5.5,8
+2026-02-18,Organic Whole Milk 1gal,15,DAI-001,Dairy,83,3.2,30
+2026-02-18,Greek Yogurt 32oz,10,DAI-005,Dairy,31,2.8,20
+2026-02-18,Sourdough Bread Loaf,16,BAK-003,Bakery,58,2.5,25
+2026-02-18,Croissants 4pk,11,BAK-008,Bakery,37,3.0,15
+2026-02-18,Organic Bananas 3lb,32,PRO-002,Produce,115,1.2,45
+2026-02-18,Avocados 4pk,31,PRO-009,Produce,119,2.2,25
+2026-02-18,Sparkling Water 12pk,20,BEV-014,Beverages,55,4.0,30
+2026-02-18,Cold Brew Coffee 32oz,17,BEV-022,Beverages,24,3.5,20
+2026-02-18,Paper Towels 6pk,10,HOU-005,Household,34,6.0,15
+2026-02-18,Dish Soap 24oz,7,HOU-012,Household,25,2.4,10
+2026-02-18,Hand Soap 12oz,5,PER-006,Personal Care,30,1.8,10
+2026-02-18,Moisturizing Lotion 16oz,5,PER-019,Personal Care,32,5.5,8
+2026-02-19,Organic Whole Milk 1gal,17,DAI-001,Dairy,66,3.2,30
+2026-02-19,Greek Yogurt 32oz,12,DAI-005,Dairy,109,2.8,20
+2026-02-19,Sourdough Bread Loaf,13,BAK-003,Bakery,45,2.5,25
+2026-02-19,Croissants 4pk,10,BAK-008,Bakery,27,3.0,15
+2026-02-19,Organic Bananas 3lb,41,PRO-002,Produce,74,1.2,45
+2026-02-19,Avocados 4pk,9,PRO-009,Produce,110,2.2,25
+2026-02-19,Sparkling Water 12pk,21,BEV-014,Beverages,34,4.0,30
+2026-02-19,Cold Brew Coffee 32oz,8,BEV-022,Beverages,91,3.5,20
+2026-02-19,Paper Towels 6pk,7,HOU-005,Household,27,6.0,15
+2026-02-19,Dish Soap 24oz,8,HOU-012,Household,17,2.4,10
+2026-02-19,Hand Soap 12oz,5,PER-006,Personal Care,25,1.8,10
+2026-02-19,Moisturizing Lotion 16oz,3,PER-019,Personal Care,29,5.5,8
+2026-02-20,Organic Whole Milk 1gal,27,DAI-001,Dairy,39,3.2,30
+2026-02-20,Greek Yogurt 32oz,20,DAI-005,Dairy,89,2.8,20
+2026-02-20,Sourdough Bread Loaf,19,BAK-003,Bakery,26,2.5,25
+2026-02-20,Croissants 4pk,15,BAK-008,Bakery,72,3.0,15
+2026-02-20,Organic Bananas 3lb,43,PRO-002,Produce,206,1.2,45
+2026-02-20,Avocados 4pk,21,PRO-009,Produce,89,2.2,25
+2026-02-20,Sparkling Water 12pk,34,BEV-014,Beverages,110,4.0,30
+2026-02-20,Cold Brew Coffee 32oz,22,BEV-022,Beverages,69,3.5,20
+2026-02-20,Paper Towels 6pk,7,HOU-005,Household,20,6.0,15
+2026-02-20,Dish Soap 24oz,9,HOU-012,Household,58,2.4,10
+2026-02-20,Hand Soap 12oz,7,PER-006,Personal Care,18,1.8,10
+2026-02-20,Moisturizing Lotion 16oz,7,PER-019,Personal Care,22,5.5,8
+2026-02-21,Organic Whole Milk 1gal,26,DAI-001,Dairy,138,3.2,30
+2026-02-21,Greek Yogurt 32oz,18,DAI-005,Dairy,71,2.8,20
+2026-02-21,Sourdough Bread Loaf,23,BAK-003,Bakery,83,2.5,25
+2026-02-21,Croissants 4pk,16,BAK-008,Bakery,56,3.0,15
+2026-02-21,Organic Bananas 3lb,37,PRO-002,Produce,169,1.2,45
+2026-02-21,Avocados 4pk,23,PRO-009,Produce,66,2.2,25
+2026-02-21,Sparkling Water 12pk,25,BEV-014,Beverages,85,4.0,30
+2026-02-21,Cold Brew Coffee 32oz,18,BEV-022,Beverages,51,3.5,20
+2026-02-21,Paper Towels 6pk,15,HOU-005,Household,70,6.0,15
+2026-02-21,Dish Soap 24oz,10,HOU-012,Household,48,2.4,10
+2026-02-21,Hand Soap 12oz,6,PER-006,Personal Care,12,1.8,10
+2026-02-21,Moisturizing Lotion 16oz,7,PER-019,Personal Care,15,5.5,8
+2026-02-22,Organic Whole Milk 1gal,33,DAI-001,Dairy,105,3.2,30
+2026-02-22,Greek Yogurt 32oz,19,DAI-005,Dairy,52,2.8,20
+2026-02-22,Sourdough Bread Loaf,14,BAK-003,Bakery,69,2.5,25
+2026-02-22,Croissants 4pk,12,BAK-008,Bakery,44,3.0,15
+2026-02-22,Organic Bananas 3lb,44,PRO-002,Produce,125,1.2,45
+2026-02-22,Avocados 4pk,18,PRO-009,Produce,48,2.2,25
+2026-02-22,Sparkling Water 12pk,25,BEV-014,Beverages,60,4.0,30
+2026-02-22,Cold Brew Coffee 32oz,20,BEV-022,Beverages,31,3.5,20
+2026-02-22,Paper Towels 6pk,8,HOU-005,Household,62,6.0,15
+2026-02-22,Dish Soap 24oz,8,HOU-012,Household,40,2.4,10
+2026-02-22,Hand Soap 12oz,2,PER-006,Personal Care,60,1.8,10
+2026-02-22,Moisturizing Lotion 16oz,4,PER-019,Personal Care,11,5.5,8
+2026-02-23,Organic Whole Milk 1gal,19,DAI-001,Dairy,86,3.2,30
+2026-02-23,Greek Yogurt 32oz,9,DAI-005,Dairy,43,2.8,20
+2026-02-23,Sourdough Bread Loaf,19,BAK-003,Bakery,50,2.5,25
+2026-02-23,Croissants 4pk,6,BAK-008,Bakery,38,3.0,15
+2026-02-23,Organic Bananas 3lb,27,PRO-002,Produce,98,1.2,45
+2026-02-23,Avocados 4pk,17,PRO-009,Produce,31,2.2,25
+2026-02-23,Sparkling Water 12pk,24,BEV-014,Beverages,36,4.0,30
+2026-02-23,Cold Brew Coffee 32oz,9,BEV-022,Beverages,22,3.5,20
+2026-02-23,Paper Towels 6pk,10,HOU-005,Household,52,6.0,15
+2026-02-23,Dish Soap 24oz,6,HOU-012,Household,34,2.4,10
+2026-02-23,Hand Soap 12oz,4,PER-006,Personal Care,56,1.8,10
+2026-02-23,Moisturizing Lotion 16oz,5,PER-019,Personal Care,56,5.5,8
+2026-02-24,Organic Whole Milk 1gal,20,DAI-001,Dairy,66,3.2,30
+2026-02-24,Greek Yogurt 32oz,11,DAI-005,Dairy,32,2.8,20
+2026-02-24,Sourdough Bread Loaf,14,BAK-003,Bakery,36,2.5,25
+2026-02-24,Croissants 4pk,9,BAK-008,Bakery,29,3.0,15
+2026-02-24,Organic Bananas 3lb,30,PRO-002,Produce,68,1.2,45
+2026-02-24,Avocados 4pk,19,PRO-009,Produce,112,2.2,25
+2026-02-24,Sparkling Water 12pk,25,BEV-014,Beverages,121,4.0,30
+2026-02-24,Cold Brew Coffee 32oz,9,BEV-022,Beverages,88,3.5,20
+2026-02-24,Paper Towels 6pk,12,HOU-005,Household,40,6.0,15
+2026-02-24,Dish Soap 24oz,3,HOU-012,Household,31,2.4,10
+2026-02-24,Hand Soap 12oz,5,PER-006,Personal Care,51,1.8,10
+2026-02-24,Moisturizing Lotion 16oz,5,PER-019,Personal Care,51,5.5,8
+2026-02-25,Organic Whole Milk 1gal,21,DAI-001,Dairy,45,3.2,30
+2026-02-25,Greek Yogurt 32oz,11,DAI-005,Dairy,21,2.8,20
+2026-02-25,Sourdough Bread Loaf,14,BAK-003,Bakery,102,2.5,25
+2026-02-25,Croissants 4pk,8,BAK-008,Bakery,21,3.0,15
+2026-02-25,Organic Bananas 3lb,26,PRO-002,Produce,217,1.2,45
+2026-02-25,Avocados 4pk,19,PRO-009,Produce,93,2.2,25
+2026-02-25,Sparkling Water 12pk,19,BEV-014,Beverages,102,4.0,30
+2026-02-25,Cold Brew Coffee 32oz,11,BEV-022,Beverages,77,3.5,20
+2026-02-25,Paper Towels 6pk,10,HOU-005,Household,30,6.0,15
+2026-02-25,Dish Soap 24oz,6,HOU-012,Household,25,2.4,10
+2026-02-25,Hand Soap 12oz,6,PER-006,Personal Care,45,1.8,10
+2026-02-25,Moisturizing Lotion 16oz,5,PER-019,Personal Care,46,5.5,8
+2026-02-26,Organic Whole Milk 1gal,17,DAI-001,Dairy,153,3.2,30
+2026-02-26,Greek Yogurt 32oz,11,DAI-005,Dairy,100,2.8,20
+2026-02-26,Sourdough Bread Loaf,16,BAK-003,Bakery,86,2.5,25
+2026-02-26,Croissants 4pk,11,BAK-008,Bakery,70,3.0,15
+2026-02-26,Organic Bananas 3lb,29,PRO-002,Produce,188,1.2,45
+2026-02-26,Avocados 4pk,17,PRO-009,Produce,76,2.2,25
+2026-02-26,Sparkling Water 12pk,23,BEV-014,Beverages,79,4.0,30
+2026-02-26,Cold Brew Coffee 32oz,11,BEV-022,Beverages,66,3.5,20
+2026-02-26,Paper Towels 6pk,9,HOU-005,Household,21,6.0,15
+2026-02-26,Dish Soap 24oz,6,HOU-012,Household,19,2.4,10
+2026-02-26,Hand Soap 12oz,5,PER-006,Personal Care,40,1.8,10
+2026-02-26,Moisturizing Lotion 16oz,5,PER-019,Personal Care,41,5.5,8
+2026-02-27,Organic Whole Milk 1gal,32,DAI-001,Dairy,121,3.2,30
+2026-02-27,Greek Yogurt 32oz,21,DAI-005,Dairy,79,2.8,20
+2026-02-27,Sourdough Bread Loaf,25,BAK-003,Bakery,61,2.5,25
+2026-02-27,Croissants 4pk,14,BAK-008,Bakery,56,3.0,15
+2026-02-27,Organic Bananas 3lb,46,PRO-002,Produce,142,1.2,45
+2026-02-27,Avocados 4pk,23,PRO-009,Produce,53,2.2,25
+2026-02-27,Sparkling Water 12pk,28,BEV-014,Beverages,51,4.0,30
+2026-02-27,Cold Brew Coffee 32oz,19,BEV-022,Beverages,47,3.5,20
+2026-02-27,Paper Towels 6pk,12,HOU-005,Household,74,6.0,15
+2026-02-27,Dish Soap 24oz,10,HOU-012,Household,59,2.4,10
+2026-02-27,Hand Soap 12oz,6,PER-006,Personal Care,34,1.8,10
+2026-02-27,Moisturizing Lotion 16oz,9,PER-019,Personal Care,32,5.5,8
+2026-02-28,Organic Whole Milk 1gal,26,DAI-001,Dairy,95,3.2,30
+2026-02-28,Greek Yogurt 32oz,15,DAI-005,Dairy,64,2.8,20
+2026-02-28,Sourdough Bread Loaf,25,BAK-003,Bakery,36,2.5,25
+2026-02-28,Croissants 4pk,16,BAK-008,Bakery,40,3.0,15
+2026-02-28,Organic Bananas 3lb,46,PRO-002,Produce,96,1.2,45
+2026-02-28,Avocados 4pk,26,PRO-009,Produce,27,2.2,25
+2026-02-28,Sparkling Water 12pk,26,BEV-014,Beverages,135,4.0,30
+2026-02-28,Cold Brew Coffee 32oz,17,BEV-022,Beverages,30,3.5,20
+2026-02-28,Paper Towels 6pk,12,HOU-005,Household,62,6.0,15
+2026-02-28,Dish Soap 24oz,8,HOU-012,Household,51,2.4,10
+2026-02-28,Hand Soap 12oz,9,PER-006,Personal Care,25,1.8,10
+2026-02-28,Moisturizing Lotion 16oz,6,PER-019,Personal Care,26,5.5,8
+2026-03-01,Organic Whole Milk 1gal,23,DAI-001,Dairy,72,3.2,30
+2026-03-01,Greek Yogurt 32oz,15,DAI-005,Dairy,49,2.8,20
+2026-03-01,Sourdough Bread Loaf,20,BAK-003,Bakery,96,2.5,25
+2026-03-01,Croissants 4pk,11,BAK-008,Bakery,29,3.0,15
+2026-03-01,Organic Bananas 3lb,34,PRO-002,Produce,62,1.2,45
+2026-03-01,Avocados 4pk,22,PRO-009,Produce,105,2.2,25
+2026-03-01,Sparkling Water 12pk,25,BEV-014,Beverages,110,4.0,30
+2026-03-01,Cold Brew Coffee 32oz,16,BEV-022,Beverages,89,3.5,20
+2026-03-01,Paper Towels 6pk,9,HOU-005,Household,53,6.0,15
+2026-03-01,Dish Soap 24oz,8,HOU-012,Household,43,2.4,10
+2026-03-01,Hand Soap 12oz,5,PER-006,Personal Care,20,1.8,10
+2026-03-01,Moisturizing Lotion 16oz,4,PER-019,Personal Care,22,5.5,8
+2026-03-02,Organic Whole Milk 1gal,17,DAI-001,Dairy,55,3.2,30
+2026-03-02,Greek Yogurt 32oz,12,DAI-005,Dairy,37,2.8,20
+2026-03-02,Sourdough Bread Loaf,15,BAK-003,Bakery,81,2.5,25
+2026-03-02,Croissants 4pk,13,BAK-008,Bakery,16,3.0,15
+2026-03-02,Organic Bananas 3lb,33,PRO-002,Produce,204,1.2,45
+2026-03-02,Avocados 4pk,15,PRO-009,Produce,90,2.2,25
+2026-03-02,Sparkling Water 12pk,18,BEV-014,Beverages,92,4.0,30
+2026-03-02,Cold Brew Coffee 32oz,10,BEV-022,Beverages,79,3.5,20
+2026-03-02,Paper Towels 6pk,8,HOU-005,Household,45,6.0,15
+2026-03-02,Dish Soap 24oz,5,HOU-012,Household,38,2.4,10
+2026-03-02,Hand Soap 12oz,5,PER-006,Personal Care,15,1.8,10
+2026-03-02,Moisturizing Lotion 16oz,3,PER-019,Personal Care,19,5.5,8
+2026-03-03,Organic Whole Milk 1gal,22,DAI-001,Dairy,33,3.2,30
+2026-03-03,Greek Yogurt 32oz,17,DAI-005,Dairy,110,2.8,20
+2026-03-03,Sourdough Bread Loaf,14,BAK-003,Bakery,67,2.5,25
+2026-03-03,Croissants 4pk,11,BAK-008,Bakery,65,3.0,15
+2026-03-03,Organic Bananas 3lb,32,PRO-002,Produce,172,1.2,45
+2026-03-03,Avocados 4pk,15,PRO-009,Produce,75,2.2,25
+2026-03-03,Sparkling Water 12pk,19,BEV-014,Beverages,73,4.0,30
+2026-03-03,Cold Brew Coffee 32oz,13,BEV-022,Beverages,66,3.5,20
+2026-03-03,Paper Towels 6pk,8,HOU-005,Household,37,6.0,15
+2026-03-03,Dish Soap 24oz,5,HOU-012,Household,33,2.4,10
+2026-03-03,Hand Soap 12oz,5,PER-006,Personal Care,60,1.8,10
+2026-03-03,Moisturizing Lotion 16oz,5,PER-019,Personal Care,14,5.5,8
+2026-03-04,Organic Whole Milk 1gal,25,DAI-001,Dairy,133,3.2,30
+2026-03-04,Greek Yogurt 32oz,15,DAI-005,Dairy,95,2.8,20
+2026-03-04,Sourdough Bread Loaf,21,BAK-003,Bakery,46,2.5,25
+2026-03-04,Croissants 4pk,8,BAK-008,Bakery,57,3.0,15
+2026-03-04,Organic Bananas 3lb,33,PRO-002,Produce,139,1.2,45
+2026-03-04,Avocados 4pk,17,PRO-009,Produce,58,2.2,25
+2026-03-04,Sparkling Water 12pk,27,BEV-014,Beverages,46,4.0,30
+2026-03-04,Cold Brew Coffee 32oz,11,BEV-022,Beverages,55,3.5,20
+2026-03-04,Paper Towels 6pk,6,HOU-005,Household,31,6.0,15
+2026-03-04,Dish Soap 24oz,5,HOU-012,Household,28,2.4,10
+2026-03-04,Hand Soap 12oz,2,PER-006,Personal Care,58,1.8,10
+2026-03-04,Moisturizing Lotion 16oz,3,PER-019,Personal Care,11,5.5,8
+2026-03-05,Organic Whole Milk 1gal,17,DAI-001,Dairy,116,3.2,30
+2026-03-05,Greek Yogurt 32oz,13,DAI-005,Dairy,82,2.8,20
+2026-03-05,Sourdough Bread Loaf,15,BAK-003,Bakery,31,2.5,25
+2026-03-05,Croissants 4pk,14,BAK-008,Bakery,43,3.0,15
+2026-03-05,Organic Bananas 3lb,34,PRO-002,Produce,105,1.2,45
+2026-03-05,Avocados 4pk,14,PRO-009,Produce,44,2.2,25
+2026-03-05,Sparkling Water 12pk,14,BEV-014,Beverages,32,4.0,30
+2026-03-05,Cold Brew Coffee 32oz,15,BEV-022,Beverages,40,3.5,20
+2026-03-05,Paper Towels 6pk,5,HOU-005,Household,26,6.0,15
+2026-03-05,Dish Soap 24oz,9,HOU-012,Household,19,2.4,10
+2026-03-05,Hand Soap 12oz,7,PER-006,Personal Care,51,1.8,10
+2026-03-05,Moisturizing Lotion 16oz,4,PER-019,Personal Care,57,5.5,8
+2026-03-06,Organic Whole Milk 1gal,23,DAI-001,Dairy,93,3.2,30
+2026-03-06,Greek Yogurt 32oz,22,DAI-005,Dairy,60,2.8,20
+2026-03-06,Sourdough Bread Loaf,21,BAK-003,Bakery,90,2.5,25
+2026-03-06,Croissants 4pk,17,BAK-008,Bakery,26,3.0,15
+2026-03-06,Organic Bananas 3lb,35,PRO-002,Produce,70,1.2,45
+2026-03-06,Avocados 4pk,22,PRO-009,Produce,122,2.2,25
+2026-03-06,Sparkling Water 12pk,27,BEV-014,Beverages,115,4.0,30
+2026-03-06,Cold Brew Coffee 32oz,20,BEV-022,Beverages,95,3.5,20
+2026-03-06,Paper Towels 6pk,11,HOU-005,Household,80,6.0,15
+2026-03-06,Dish Soap 24oz,10,HOU-012,Household,59,2.4,10
+2026-03-06,Hand Soap 12oz,6,PER-006,Personal Care,45,1.8,10
+2026-03-06,Moisturizing Lotion 16oz,6,PER-019,Personal Care,51,5.5,8
+2026-03-07,Organic Whole Milk 1gal,30,DAI-001,Dairy,63,3.2,30
+2026-03-07,Greek Yogurt 32oz,20,DAI-005,Dairy,40,2.8,20
+2026-03-07,Sourdough Bread Loaf,23,BAK-003,Bakery,67,2.5,25
+2026-03-07,Croissants 4pk,12,BAK-008,Bakery,74,3.0,15
+2026-03-07,Organic Bananas 3lb,35,PRO-002,Produce,210,1.2,45
+2026-03-07,Avocados 4pk,29,PRO-009,Produce,93,2.2,25
+2026-03-07,Sparkling Water 12pk,28,BEV-014,Beverages,87,4.0,30
+2026-03-07,Cold Brew Coffee 32oz,17,BEV-022,Beverages,78,3.5,20
+2026-03-07,Paper Towels 6pk,15,HOU-005,Household,65,6.0,15
+2026-03-07,Dish Soap 24oz,9,HOU-012,Household,50,2.4,10
+2026-03-07,Hand Soap 12oz,9,PER-006,Personal Care,36,1.8,10
+2026-03-07,Moisturizing Lotion 16oz,6,PER-019,Personal Care,45,5.5,8
+2026-03-08,Organic Whole Milk 1gal,33,DAI-001,Dairy,155,3.2,30
+2026-03-08,Greek Yogurt 32oz,21,DAI-005,Dairy,109,2.8,20
+2026-03-08,Sourdough Bread Loaf,18,BAK-003,Bakery,49,2.5,25
+2026-03-08,Croissants 4pk,15,BAK-008,Bakery,59,3.0,15
+2026-03-08,Organic Bananas 3lb,41,PRO-002,Produce,169,1.2,45
+2026-03-08,Avocados 4pk,26,PRO-009,Produce,67,2.2,25
+2026-03-08,Sparkling Water 12pk,19,BEV-014,Beverages,68,4.0,30
+2026-03-08,Cold Brew Coffee 32oz,20,BEV-022,Beverages,58,3.5,20
+2026-03-08,Paper Towels 6pk,13,HOU-005,Household,52,6.0,15
+2026-03-08,Dish Soap 24oz,5,HOU-012,Household,45,2.4,10
+2026-03-08,Hand Soap 12oz,5,PER-006,Personal Care,31,1.8,10
+2026-03-08,Moisturizing Lotion 16oz,3,PER-019,Personal Care,42,5.5,8
+2026-03-09,Organic Whole Milk 1gal,19,DAI-001,Dairy,136,3.2,30
+2026-03-09,Greek Yogurt 32oz,14,DAI-005,Dairy,95,2.8,20
+2026-03-09,Sourdough Bread Loaf,19,BAK-003,Bakery,30,2.5,25
+2026-03-09,Croissants 4pk,10,BAK-008,Bakery,49,3.0,15
+2026-03-09,Organic Bananas 3lb,37,PRO-002,Produce,132,1.2,45
+2026-03-09,Avocados 4pk,11,PRO-009,Produce,56,2.2,25
+2026-03-09,Sparkling Water 12pk,11,BEV-014,Beverages,57,4.0,30
+2026-03-09,Cold Brew Coffee 32oz,13,BEV-022,Beverages,45,3.5,20
+2026-03-09,Paper Towels 6pk,9,HOU-005,Household,43,6.0,15
+2026-03-09,Dish Soap 24oz,6,HOU-012,Household,39,2.4,10
+2026-03-09,Hand Soap 12oz,2,PER-006,Personal Care,29,1.8,10
+2026-03-09,Moisturizing Lotion 16oz,4,PER-019,Personal Care,38,5.5,8
+2026-03-10,Organic Whole Milk 1gal,15,DAI-001,Dairy,121,3.2,30
+2026-03-10,Greek Yogurt 32oz,14,DAI-005,Dairy,81,2.8,20
+2026-03-10,Sourdough Bread Loaf,15,BAK-003,Bakery,95,2.5,25
+2026-03-10,Croissants 4pk,7,BAK-008,Bakery,42,3.0,15
+2026-03-10,Organic Bananas 3lb,26,PRO-002,Produce,106,1.2,45
+2026-03-10,Avocados 4pk,12,PRO-009,Produce,44,2.2,25
+2026-03-10,Sparkling Water 12pk,18,BEV-014,Beverages,39,4.0,30
+2026-03-10,Cold Brew Coffee 32oz,16,BEV-022,Beverages,29,3.5,20
+2026-03-10,Paper Towels 6pk,6,HOU-005,Household,37,6.0,15
+2026-03-10,Dish Soap 24oz,7,HOU-012,Household,32,2.4,10
+2026-03-10,Hand Soap 12oz,4,PER-006,Personal Care,25,1.8,10
+2026-03-10,Moisturizing Lotion 16oz,3,PER-019,Personal Care,35,5.5,8
+2026-03-11,Organic Whole Milk 1gal,19,DAI-001,Dairy,102,3.2,30
+2026-03-11,Greek Yogurt 32oz,9,DAI-005,Dairy,72,2.8,20
+2026-03-11,Sourdough Bread Loaf,13,BAK-003,Bakery,82,2.5,25
+2026-03-11,Croissants 4pk,7,BAK-008,Bakery,35,3.0,15
+2026-03-11,Organic Bananas 3lb,39,PRO-002,Produce,67,1.2,45
+2026-03-11,Avocados 4pk,16,PRO-009,Produce,28,2.2,25
+2026-03-11,Sparkling Water 12pk,15,BEV-014,Beverages,134,4.0,30
+2026-03-11,Cold Brew Coffee 32oz,14,BEV-022,Beverages,90,3.5,20
+2026-03-11,Paper Towels 6pk,8,HOU-005,Household,29,6.0,15
+2026-03-11,Dish Soap 24oz,6,HOU-012,Household,26,2.4,10
+2026-03-11,Hand Soap 12oz,6,PER-006,Personal Care,19,1.8,10
+2026-03-11,Moisturizing Lotion 16oz,5,PER-019,Personal Care,30,5.5,8
+2026-03-12,Organic Whole Milk 1gal,18,DAI-001,Dairy,84,3.2,30
+2026-03-12,Greek Yogurt 32oz,11,DAI-005,Dairy,61,2.8,20
+2026-03-12,Sourdough Bread Loaf,13,BAK-003,Bakery,69,2.5,25
+2026-03-12,Croissants 4pk,4,BAK-008,Bakery,31,3.0,15
+2026-03-12,Organic Bananas 3lb,21,PRO-002,Produce,46,1.2,45
+2026-03-12,Avocados 4pk,21,PRO-009,Produce,107,2.2,25
+2026-03-12,Sparkling Water 12pk,25,BEV-014,Beverages,109,4.0,30
+2026-03-12,Cold Brew Coffee 32oz,13,BEV-022,Beverages,77,3.5,20
+2026-03-12,Paper Towels 6pk,9,HOU-005,Household,20,6.0,15
+2026-03-12,Dish Soap 24oz,6,HOU-012,Household,20,2.4,10
+2026-03-12,Hand Soap 12oz,9,PER-006,Personal Care,60,1.8,10
+2026-03-12,Moisturizing Lotion 16oz,5,PER-019,Personal Care,25,5.5,8
+2026-03-13,Organic Whole Milk 1gal,29,DAI-001,Dairy,55,3.2,30
+2026-03-13,Greek Yogurt 32oz,16,DAI-005,Dairy,45,2.8,20
+2026-03-13,Sourdough Bread Loaf,16,BAK-003,Bakery,53,2.5,25
+2026-03-13,Croissants 4pk,15,BAK-008,Bakery,16,3.0,15
+2026-03-13,Organic Bananas 3lb,39,PRO-002,Produce,182,1.2,45
+2026-03-13,Avocados 4pk,18,PRO-009,Produce,89,2.2,25
+2026-03-13,Sparkling Water 12pk,24,BEV-014,Beverages,85,4.0,30
+2026-03-13,Cold Brew Coffee 32oz,16,BEV-022,Beverages,61,3.5,20
+2026-03-13,Paper Towels 6pk,15,HOU-005,Household,70,6.0,15
+2026-03-13,Dish Soap 24oz,10,HOU-012,Household,60,2.4,10
+2026-03-13,Hand Soap 12oz,8,PER-006,Personal Care,52,1.8,10
+2026-03-13,Moisturizing Lotion 16oz,8,PER-019,Personal Care,17,5.5,8
+2026-03-14,Organic Whole Milk 1gal,29,DAI-001,Dairy,151,3.2,30
+2026-03-14,Greek Yogurt 32oz,16,DAI-005,Dairy,29,2.8,20
+2026-03-14,Sourdough Bread Loaf,26,BAK-003,Bakery,27,2.5,25
+2026-03-14,Croissants 4pk,16,BAK-008,Bakery,60,3.0,15
+2026-03-14,Organic Bananas 3lb,38,PRO-002,Produce,144,1.2,45
+2026-03-14,Avocados 4pk,23,PRO-009,Produce,66,2.2,25
+2026-03-14,Sparkling Water 12pk,23,BEV-014,Beverages,62,4.0,30
+2026-03-14,Cold Brew Coffee 32oz,15,BEV-022,Beverages,46,3.5,20
+2026-03-14,Paper Towels 6pk,14,HOU-005,Household,56,6.0,15
+2026-03-14,Dish Soap 24oz,12,HOU-012,Household,48,2.4,10
+2026-03-14,Hand Soap 12oz,6,PER-006,Personal Care,46,1.8,10
+2026-03-14,Moisturizing Lotion 16oz,7,PER-019,Personal Care,10,5.5,8
+2026-03-15,Organic Whole Milk 1gal,24,DAI-001,Dairy,127,3.2,30
+2026-03-15,Greek Yogurt 32oz,15,DAI-005,Dairy,104,2.8,20
+2026-03-15,Sourdough Bread Loaf,17,BAK-003,Bakery,90,2.5,25
+2026-03-15,Croissants 4pk,11,BAK-008,Bakery,49,3.0,15
+2026-03-15,Organic Bananas 3lb,38,PRO-002,Produce,106,1.2,45
+2026-03-15,Avocados 4pk,18,PRO-009,Produce,48,2.2,25
+2026-03-15,Sparkling Water 12pk,25,BEV-014,Beverages,37,4.0,30
+2026-03-15,Cold Brew Coffee 32oz,17,BEV-022,Beverages,29,3.5,20
+2026-03-15,Paper Towels 6pk,10,HOU-005,Household,46,6.0,15
+2026-03-15,Dish Soap 24oz,6,HOU-012,Household,42,2.4,10
+2026-03-15,Hand Soap 12oz,6,PER-006,Personal Care,40,1.8,10
+2026-03-15,Moisturizing Lotion 16oz,6,PER-019,Personal Care,54,5.5,8
+2026-03-16,Organic Whole Milk 1gal,21,DAI-001,Dairy,106,3.2,30
+2026-03-16,Greek Yogurt 32oz,10,DAI-005,Dairy,94,2.8,20
+2026-03-16,Sourdough Bread Loaf,15,BAK-003,Bakery,75,2.5,25
+2026-03-16,Croissants 4pk,11,BAK-008,Bakery,38,3.0,15
+2026-03-16,Organic Bananas 3lb,21,PRO-002,Produce,85,1.2,45
+2026-03-16,Avocados 4pk,18,PRO-009,Produce,30,2.2,25
+2026-03-16,Sparkling Water 12pk,15,BEV-014,Beverages,132,4.0,30
+2026-03-16,Cold Brew Coffee 32oz,15,BEV-022,Beverages,89,3.5,20
+2026-03-16,Paper Towels 6pk,6,HOU-005,Household,40,6.0,15
+2026-03-16,Dish Soap 24oz,3,HOU-012,Household,39,2.4,10
+2026-03-16,Hand Soap 12oz,3,PER-006,Personal Care,37,1.8,10
+2026-03-16,Moisturizing Lotion 16oz,4,PER-019,Personal Care,50,5.5,8
+2026-03-17,Organic Whole Milk 1gal,21,DAI-001,Dairy,85,3.2,30
+2026-03-17,Greek Yogurt 32oz,10,DAI-005,Dairy,84,2.8,20
+2026-03-17,Sourdough Bread Loaf,16,BAK-003,Bakery,59,2.5,25
+2026-03-17,Croissants 4pk,6,BAK-008,Bakery,32,3.0,15
+2026-03-17,Organic Bananas 3lb,29,PRO-002,Produce,56,1.2,45
+2026-03-17,Avocados 4pk,11,PRO-009,Produce,119,2.2,25
+2026-03-17,Sparkling Water 12pk,15,BEV-014,Beverages,117,4.0,30
+2026-03-17,Cold Brew Coffee 32oz,13,BEV-022,Beverages,76,3.5,20
+2026-03-17,Paper Towels 6pk,6,HOU-005,Household,34,6.0,15
+2026-03-17,Dish Soap 24oz,5,HOU-012,Household,34,2.4,10
+2026-03-17,Hand Soap 12oz,6,PER-006,Personal Care,31,1.8,10
+2026-03-17,Moisturizing Lotion 16oz,3,PER-019,Personal Care,47,5.5,8
+2026-03-18,Organic Whole Milk 1gal,23,DAI-001,Dairy,62,3.2,30
+2026-03-18,Greek Yogurt 32oz,9,DAI-005,Dairy,75,2.8,20
+2026-03-18,Sourdough Bread Loaf,16,BAK-003,Bakery,43,2.5,25
+2026-03-18,Croissants 4pk,13,BAK-008,Bakery,19,3.0,15
+2026-03-18,Organic Bananas 3lb,17,PRO-002,Produce,214,1.2,45
+2026-03-18,Avocados 4pk,13,PRO-009,Produce,106,2.2,25
+2026-03-18,Sparkling Water 12pk,20,BEV-014,Beverages,97,4.0,30
+2026-03-18,Cold Brew Coffee 32oz,13,BEV-022,Beverages,63,3.5,20
+2026-03-18,Paper Towels 6pk,9,HOU-005,Household,25,6.0,15
+2026-03-18,Dish Soap 24oz,5,HOU-012,Household,29,2.4,10
+2026-03-18,Hand Soap 12oz,5,PER-006,Personal Care,26,1.8,10
+2026-03-18,Moisturizing Lotion 16oz,4,PER-019,Personal Care,43,5.5,8
+2026-03-19,Organic Whole Milk 1gal,24,DAI-001,Dairy,38,3.2,30
+2026-03-19,Greek Yogurt 32oz,13,DAI-005,Dairy,62,2.8,20
+2026-03-19,Sourdough Bread Loaf,15,BAK-003,Bakery,28,2.5,25
+2026-03-19,Croissants 4pk,9,BAK-008,Bakery,70,3.0,15
+2026-03-19,Organic Bananas 3lb,27,PRO-002,Produce,187,1.2,45
+2026-03-19,Avocados 4pk,14,PRO-009,Produce,92,2.2,25
+2026-03-19,Sparkling Water 12pk,20,BEV-014,Beverages,77,4.0,30
+2026-03-19,Cold Brew Coffee 32oz,12,BEV-022,Beverages,51,3.5,20
+2026-03-19,Paper Towels 6pk,8,HOU-005,Household,17,6.0,15
+2026-03-19,Dish Soap 24oz,9,HOU-012,Household,20,2.4,10
+2026-03-19,Hand Soap 12oz,6,PER-006,Personal Care,20,1.8,10
+2026-03-19,Moisturizing Lotion 16oz,4,PER-019,Personal Care,39,5.5,8
+2026-03-20,Organic Whole Milk 1gal,33,DAI-001,Dairy,130,3.2,30
+2026-03-20,Greek Yogurt 32oz,17,DAI-005,Dairy,45,2.8,20
+2026-03-20,Sourdough Bread Loaf,15,BAK-003,Bakery,93,2.5,25
+2026-03-20,Croissants 4pk,12,BAK-008,Bakery,58,3.0,15
+2026-03-20,Organic Bananas 3lb,33,PRO-002,Produce,154,1.2,45
+2026-03-20,Avocados 4pk,22,PRO-009,Produce,70,2.2,25
+2026-03-20,Sparkling Water 12pk,27,BEV-014,Beverages,50,4.0,30
+2026-03-20,Cold Brew Coffee 32oz,25,BEV-022,Beverages,26,3.5,20
+2026-03-20,Paper Towels 6pk,12,HOU-005,Household,70,6.0,15
+2026-03-20,Dish Soap 24oz,9,HOU-012,Household,11,2.4,10
+2026-03-20,Hand Soap 12oz,9,PER-006,Personal Care,11,1.8,10
+2026-03-20,Moisturizing Lotion 16oz,4,PER-019,Personal Care,35,5.5,8
+2026-03-21,Organic Whole Milk 1gal,30,DAI-001,Dairy,100,3.2,30
+2026-03-21,Greek Yogurt 32oz,21,DAI-005,Dairy,24,2.8,20
+2026-03-21,Sourdough Bread Loaf,17,BAK-003,Bakery,76,2.5,25
+2026-03-21,Croissants 4pk,17,BAK-008,Bakery,41,3.0,15
+2026-03-21,Organic Bananas 3lb,44,PRO-002,Produce,110,1.2,45
+2026-03-21,Avocados 4pk,22,PRO-009,Produce,48,2.2,25
+2026-03-21,Sparkling Water 12pk,29,BEV-014,Beverages,131,4.0,30
+2026-03-21,Cold Brew Coffee 32oz,26,BEV-022,Beverages,75,3.5,20
+2026-03-21,Paper Towels 6pk,12,HOU-005,Household,58,6.0,15
+2026-03-21,Dish Soap 24oz,9,HOU-012,Household,52,2.4,10
+2026-03-21,Hand Soap 12oz,7,PER-006,Personal Care,54,1.8,10
+2026-03-21,Moisturizing Lotion 16oz,5,PER-019,Personal Care,30,5.5,8
+2026-03-22,Organic Whole Milk 1gal,29,DAI-001,Dairy,71,3.2,30
+2026-03-22,Greek Yogurt 32oz,14,DAI-005,Dairy,100,2.8,20
+2026-03-22,Sourdough Bread Loaf,19,BAK-003,Bakery,57,2.5,25
+2026-03-22,Croissants 4pk,12,BAK-008,Bakery,29,3.0,15
+2026-03-22,Organic Bananas 3lb,40,PRO-002,Produce,70,1.2,45
+2026-03-22,Avocados 4pk,22,PRO-009,Produce,26,2.2,25
+2026-03-22,Sparkling Water 12pk,28,BEV-014,Beverages,103,4.0,30
+2026-03-22,Cold Brew Coffee 32oz,16,BEV-022,Beverages,59,3.5,20
+2026-03-22,Paper Towels 6pk,10,HOU-005,Household,48,6.0,15
+2026-03-22,Dish Soap 24oz,6,HOU-012,Household,46,2.4,10
+2026-03-22,Hand Soap 12oz,6,PER-006,Personal Care,48,1.8,10
+2026-03-22,Moisturizing Lotion 16oz,6,PER-019,Personal Care,24,5.5,8
+2026-03-23,Organic Whole Milk 1gal,22,DAI-001,Dairy,49,3.2,30
+2026-03-23,Greek Yogurt 32oz,10,DAI-005,Dairy,90,2.8,20
+2026-03-23,Sourdough Bread Loaf,17,BAK-003,Bakery,40,2.5,25
+2026-03-23,Croissants 4pk,13,BAK-008,Bakery,16,3.0,15
+2026-03-23,Organic Bananas 3lb,31,PRO-002,Produce,214,1.2,45
+2026-03-23,Avocados 4pk,23,PRO-009,Produce,103,2.2,25
+2026-03-23,Sparkling Water 12pk,15,BEV-014,Beverages,88,4.0,30
+2026-03-23,Cold Brew Coffee 32oz,9,BEV-022,Beverages,50,3.5,20
+2026-03-23,Paper Towels 6pk,4,HOU-005,Household,44,6.0,15
+2026-03-23,Dish Soap 24oz,8,HOU-012,Household,38,2.4,10
+2026-03-23,Hand Soap 12oz,6,PER-006,Personal Care,42,1.8,10
+2026-03-23,Moisturizing Lotion 16oz,4,PER-019,Personal Care,20,5.5,8
+2026-03-24,Organic Whole Milk 1gal,21,DAI-001,Dairy,153,3.2,30
+2026-03-24,Greek Yogurt 32oz,9,DAI-005,Dairy,81,2.8,20
+2026-03-24,Sourdough Bread Loaf,22,BAK-003,Bakery,98,2.5,25
+2026-03-24,Croissants 4pk,10,BAK-008,Bakery,66,3.0,15
+2026-03-24,Organic Bananas 3lb,29,PRO-002,Produce,185,1.2,45
+2026-03-24,Avocados 4pk,19,PRO-009,Produce,84,2.2,25
+2026-03-24,Sparkling Water 12pk,20,BEV-014,Beverages,68,4.0,30
+2026-03-24,Cold Brew Coffee 32oz,14,BEV-022,Beverages,36,3.5,20
+2026-03-24,Paper Towels 6pk,6,HOU-005,Household,38,6.0,15
+2026-03-24,Dish Soap 24oz,7,HOU-012,Household,31,2.4,10
+2026-03-24,Hand Soap 12oz,8,PER-006,Personal Care,34,1.8,10
+2026-03-24,Moisturizing Lotion 16oz,6,PER-019,Personal Care,14,5.5,8
+2026-03-25,Organic Whole Milk 1gal,25,DAI-001,Dairy,128,3.2,30
+2026-03-25,Greek Yogurt 32oz,11,DAI-005,Dairy,70,2.8,20
+2026-03-25,Sourdough Bread Loaf,11,BAK-003,Bakery,87,2.5,25
+2026-03-25,Croissants 4pk,9,BAK-008,Bakery,57,3.0,15
+2026-03-25,Organic Bananas 3lb,29,PRO-002,Produce,156,1.2,45
+2026-03-25,Avocados 4pk,20,PRO-009,Produce,64,2.2,25
+2026-03-25,Sparkling Water 12pk,11,BEV-014,Beverages,57,4.0,30
+2026-03-25,Cold Brew Coffee 32oz,18,BEV-022,Beverages,93,3.5,20
+2026-03-25,Paper Towels 6pk,7,HOU-005,Household,31,6.0,15
+2026-03-25,Dish Soap 24oz,5,HOU-012,Household,26,2.4,10
+2026-03-25,Hand Soap 12oz,4,PER-006,Personal Care,30,1.8,10
+2026-03-25,Moisturizing Lotion 16oz,2,PER-019,Personal Care,12,5.5,8
+2026-03-26,Organic Whole Milk 1gal,23,DAI-001,Dairy,105,3.2,30
+2026-03-26,Greek Yogurt 32oz,13,DAI-005,Dairy,57,2.8,20
+2026-03-26,Sourdough Bread Loaf,10,BAK-003,Bakery,77,2.5,25
+2026-03-26,Croissants 4pk,7,BAK-008,Bakery,50,3.0,15
+2026-03-26,Organic Bananas 3lb,27,PRO-002,Produce,129,1.2,45
+2026-03-26,Avocados 4pk,22,PRO-009,Produce,42,2.2,25
+2026-03-26,Sparkling Water 12pk,17,BEV-014,Beverages,40,4.0,30
+2026-03-26,Cold Brew Coffee 32oz,8,BEV-022,Beverages,85,3.5,20
+2026-03-26,Paper Towels 6pk,7,HOU-005,Household,24,6.0,15
+2026-03-26,Dish Soap 24oz,6,HOU-012,Household,20,2.4,10
+2026-03-26,Hand Soap 12oz,1,PER-006,Personal Care,29,1.8,10
+2026-03-26,Moisturizing Lotion 16oz,4,PER-019,Personal Care,58,5.5,8
+2026-03-27,Organic Whole Milk 1gal,28,DAI-001,Dairy,77,3.2,30
+2026-03-27,Greek Yogurt 32oz,20,DAI-005,Dairy,37,2.8,20
+2026-03-27,Sourdough Bread Loaf,27,BAK-003,Bakery,50,2.5,25
+2026-03-27,Croissants 4pk,17,BAK-008,Bakery,33,3.0,15
+2026-03-27,Organic Bananas 3lb,41,PRO-002,Produce,88,1.2,45
+2026-03-27,Avocados 4pk,20,PRO-009,Produce,122,2.2,25
+2026-03-27,Sparkling Water 12pk,37,BEV-014,Beverages,113,4.0,30
+2026-03-27,Cold Brew Coffee 32oz,20,BEV-022,Beverages,65,3.5,20
+2026-03-27,Paper Towels 6pk,12,HOU-005,Household,77,6.0,15
+2026-03-27,Dish Soap 24oz,9,HOU-012,Household,11,2.4,10
+2026-03-27,Hand Soap 12oz,8,PER-006,Personal Care,21,1.8,10
+2026-03-27,Moisturizing Lotion 16oz,6,PER-019,Personal Care,52,5.5,8
+2026-03-28,Organic Whole Milk 1gal,27,DAI-001,Dairy,50,3.2,30
+2026-03-28,Greek Yogurt 32oz,17,DAI-005,Dairy,110,2.8,20
+2026-03-28,Sourdough Bread Loaf,21,BAK-003,Bakery,29,2.5,25
+2026-03-28,Croissants 4pk,13,BAK-008,Bakery,20,3.0,15
+2026-03-28,Organic Bananas 3lb,39,PRO-002,Produce,49,1.2,45
+2026-03-28,Avocados 4pk,24,PRO-009,Produce,98,2.2,25
+2026-03-28,Sparkling Water 12pk,25,BEV-014,Beverages,88,4.0,30
+2026-03-28,Cold Brew Coffee 32oz,25,BEV-022,Beverages,40,3.5,20
+2026-03-28,Paper Towels 6pk,6,HOU-005,Household,71,6.0,15
+2026-03-28,Dish Soap 24oz,11,HOU-012,Household,50,2.4,10
+2026-03-28,Hand Soap 12oz,9,PER-006,Personal Care,12,1.8,10
+2026-03-28,Moisturizing Lotion 16oz,4,PER-019,Personal Care,48,5.5,8
+2026-03-29,Organic Whole Milk 1gal,25,DAI-001,Dairy,150,3.2,30
+2026-03-29,Greek Yogurt 32oz,15,DAI-005,Dairy,95,2.8,20
+2026-03-29,Sourdough Bread Loaf,14,BAK-003,Bakery,95,2.5,25
+2026-03-29,Croissants 4pk,11,BAK-008,Bakery,69,3.0,15
+2026-03-29,Organic Bananas 3lb,32,PRO-002,Produce,192,1.2,45
+2026-03-29,Avocados 4pk,28,PRO-009,Produce,70,2.2,25
+2026-03-29,Sparkling Water 12pk,27,BEV-014,Beverages,61,4.0,30
+2026-03-29,Cold Brew Coffee 32oz,22,BEV-022,Beverages,93,3.5,20
+2026-03-29,Paper Towels 6pk,12,HOU-005,Household,59,6.0,15
+2026-03-29,Dish Soap 24oz,6,HOU-012,Household,44,2.4,10
+2026-03-29,Hand Soap 12oz,6,PER-006,Personal Care,56,1.8,10
+2026-03-29,Moisturizing Lotion 16oz,6,PER-019,Personal Care,42,5.5,8
+2026-03-30,Organic Whole Milk 1gal,15,DAI-001,Dairy,135,3.2,30
+2026-03-30,Greek Yogurt 32oz,14,DAI-005,Dairy,81,2.8,20
+2026-03-30,Sourdough Bread Loaf,13,BAK-003,Bakery,82,2.5,25
+2026-03-30,Croissants 4pk,9,BAK-008,Bakery,60,3.0,15
+2026-03-30,Organic Bananas 3lb,32,PRO-002,Produce,160,1.2,45
+2026-03-30,Avocados 4pk,18,PRO-009,Produce,52,2.2,25
+2026-03-30,Sparkling Water 12pk,16,BEV-014,Beverages,45,4.0,30
+2026-03-30,Cold Brew Coffee 32oz,17,BEV-022,Beverages,76,3.5,20
+2026-03-30,Paper Towels 6pk,6,HOU-005,Household,53,6.0,15
+2026-03-30,Dish Soap 24oz,7,HOU-012,Household,37,2.4,10
+2026-03-30,Hand Soap 12oz,6,PER-006,Personal Care,50,1.8,10
+2026-03-30,Moisturizing Lotion 16oz,4,PER-019,Personal Care,38,5.5,8
+2026-03-31,Organic Whole Milk 1gal,21,DAI-001,Dairy,114,3.2,30
+2026-03-31,Greek Yogurt 32oz,9,DAI-005,Dairy,72,2.8,20
+2026-03-31,Sourdough Bread Loaf,17,BAK-003,Bakery,65,2.5,25
+2026-03-31,Croissants 4pk,9,BAK-008,Bakery,51,3.0,15
+2026-03-31,Organic Bananas 3lb,26,PRO-002,Produce,134,1.2,45
+2026-03-31,Avocados 4pk,20,PRO-009,Produce,32,2.2,25
+2026-03-31,Sparkling Water 12pk,15,BEV-014,Beverages,140,4.0,30
+2026-03-31,Cold Brew Coffee 32oz,9,BEV-022,Beverages,67,3.5,20
+2026-03-31,Paper Towels 6pk,5,HOU-005,Household,48,6.0,15
+2026-03-31,Dish Soap 24oz,7,HOU-012,Household,30,2.4,10
+2026-03-31,Hand Soap 12oz,3,PER-006,Personal Care,47,1.8,10
+2026-03-31,Moisturizing Lotion 16oz,6,PER-019,Personal Care,32,5.5,8
+2026-04-01,Organic Whole Milk 1gal,12,DAI-001,Dairy,102,3.2,30
+2026-04-01,Greek Yogurt 32oz,17,DAI-005,Dairy,55,2.8,20
+2026-04-01,Sourdough Bread Loaf,15,BAK-003,Bakery,50,2.5,25
+2026-04-01,Croissants 4pk,9,BAK-008,Bakery,42,3.0,15
+2026-04-01,Organic Bananas 3lb,26,PRO-002,Produce,108,1.2,45
+2026-04-01,Avocados 4pk,18,PRO-009,Produce,114,2.2,25
+2026-04-01,Sparkling Water 12pk,18,BEV-014,Beverages,122,4.0,30
+2026-04-01,Cold Brew Coffee 32oz,17,BEV-022,Beverages,50,3.5,20
+2026-04-01,Paper Towels 6pk,8,HOU-005,Household,40,6.0,15
+2026-04-01,Dish Soap 24oz,6,HOU-012,Household,24,2.4,10
+2026-04-01,Hand Soap 12oz,5,PER-006,Personal Care,42,1.8,10
+2026-04-01,Moisturizing Lotion 16oz,4,PER-019,Personal Care,28,5.5,8
+2026-04-02,Organic Whole Milk 1gal,21,DAI-001,Dairy,81,3.2,30
+2026-04-02,Greek Yogurt 32oz,8,DAI-005,Dairy,47,2.8,20
+2026-04-02,Sourdough Bread Loaf,10,BAK-003,Bakery,40,2.5,25
+2026-04-02,Croissants 4pk,11,BAK-008,Bakery,31,3.0,15
+2026-04-02,Organic Bananas 3lb,30,PRO-002,Produce,78,1.2,45
+2026-04-02,Avocados 4pk,15,PRO-009,Produce,99,2.2,25
+2026-04-02,Sparkling Water 12pk,18,BEV-014,Beverages,104,4.0,30
+2026-04-02,Cold Brew Coffee 32oz,14,BEV-022,Beverages,36,3.5,20
+2026-04-02,Paper Towels 6pk,7,HOU-005,Household,33,6.0,15
+2026-04-02,Dish Soap 24oz,5,HOU-012,Household,19,2.4,10
+2026-04-02,Hand Soap 12oz,5,PER-006,Personal Care,37,1.8,10
+2026-04-02,Moisturizing Lotion 16oz,3,PER-019,Personal Care,25,5.5,8
+2026-04-03,Organic Whole Milk 1gal,31,DAI-001,Dairy,50,3.2,30
+2026-04-03,Greek Yogurt 32oz,14,DAI-005,Dairy,33,2.8,20
+2026-04-03,Sourdough Bread Loaf,24,BAK-003,Bakery,96,2.5,25
+2026-04-03,Croissants 4pk,15,BAK-008,Bakery,16,3.0,15
+2026-04-03,Organic Bananas 3lb,44,PRO-002,Produce,209,1.2,45
+2026-04-03,Avocados 4pk,28,PRO-009,Produce,71,2.2,25
+2026-04-03,Sparkling Water 12pk,33,BEV-014,Beverages,71,4.0,30
+2026-04-03,Cold Brew Coffee 32oz,23,BEV-022,Beverages,88,3.5,20
+2026-04-03,Paper Towels 6pk,8,HOU-005,Household,25,6.0,15
+2026-04-03,Dish Soap 24oz,7,HOU-012,Household,12,2.4,10
+2026-04-03,Hand Soap 12oz,7,PER-006,Personal Care,30,1.8,10
+2026-04-03,Moisturizing Lotion 16oz,6,PER-019,Personal Care,19,5.5,8
+2026-04-04,Organic Whole Milk 1gal,31,DAI-001,Dairy,144,3.2,30
+2026-04-04,Greek Yogurt 32oz,16,DAI-005,Dairy,107,2.8,20
+2026-04-04,Sourdough Bread Loaf,22,BAK-003,Bakery,74,2.5,25
+2026-04-04,Croissants 4pk,13,BAK-008,Bakery,63,3.0,15
+2026-04-04,Organic Bananas 3lb,40,PRO-002,Produce,169,1.2,45
+2026-04-04,Avocados 4pk,18,PRO-009,Produce,53,2.2,25
+2026-04-04,Sparkling Water 12pk,23,BEV-014,Beverages,48,4.0,30
+2026-04-04,Cold Brew Coffee 32oz,15,BEV-022,Beverages,73,3.5,20
+2026-04-04,Paper Towels 6pk,10,HOU-005,Household,80,6.0,15
+2026-04-04,Dish Soap 24oz,11,HOU-012,Household,51,2.4,10
+2026-04-04,Hand Soap 12oz,6,PER-006,Personal Care,24,1.8,10
+2026-04-04,Moisturizing Lotion 16oz,9,PER-019,Personal Care,10,5.5,8
+2026-04-05,Organic Whole Milk 1gal,28,DAI-001,Dairy,116,3.2,30
+2026-04-05,Greek Yogurt 32oz,17,DAI-005,Dairy,90,2.8,20
+2026-04-05,Sourdough Bread Loaf,16,BAK-003,Bakery,58,2.5,25
+2026-04-05,Croissants 4pk,14,BAK-008,Bakery,49,3.0,15
+2026-04-05,Organic Bananas 3lb,35,PRO-002,Produce,134,1.2,45
+2026-04-05,Avocados 4pk,22,PRO-009,Produce,31,2.2,25
+2026-04-05,Sparkling Water 12pk,34,BEV-014,Beverages,124,4.0,30
+2026-04-05,Cold Brew Coffee 32oz,17,BEV-022,Beverages,56,3.5,20
+2026-04-05,Paper Towels 6pk,13,HOU-005,Household,67,6.0,15
+2026-04-05,Dish Soap 24oz,7,HOU-012,Household,44,2.4,10
+2026-04-05,Hand Soap 12oz,7,PER-006,Personal Care,17,1.8,10
+2026-04-05,Moisturizing Lotion 16oz,8,PER-019,Personal Care,52,5.5,8
+2026-04-06,Organic Whole Milk 1gal,18,DAI-001,Dairy,98,3.2,30
+2026-04-06,Greek Yogurt 32oz,17,DAI-005,Dairy,73,2.8,20
+2026-04-06,Sourdough Bread Loaf,16,BAK-003,Bakery,42,2.5,25
+2026-04-06,Croissants 4pk,8,BAK-008,Bakery,41,3.0,15
+2026-04-06,Organic Bananas 3lb,32,PRO-002,Produce,102,1.2,45
+2026-04-06,Avocados 4pk,20,PRO-009,Produce,111,2.2,25
+2026-04-06,Sparkling Water 12pk,21,BEV-014,Beverages,103,4.0,30
+2026-04-06,Cold Brew Coffee 32oz,8,BEV-022,Beverages,48,3.5,20
+2026-04-06,Paper Towels 6pk,6,HOU-005,Household,61,6.0,15
+2026-04-06,Dish Soap 24oz,6,HOU-012,Household,38,2.4,10
+2026-04-06,Hand Soap 12oz,5,PER-006,Personal Care,12,1.8,10
+2026-04-06,Moisturizing Lotion 16oz,5,PER-019,Personal Care,47,5.5,8
+2026-04-07,Organic Whole Milk 1gal,20,DAI-001,Dairy,78,3.2,30
+2026-04-07,Greek Yogurt 32oz,9,DAI-005,Dairy,64,2.8,20
+2026-04-07,Sourdough Bread Loaf,15,BAK-003,Bakery,27,2.5,25
+2026-04-07,Croissants 4pk,11,BAK-008,Bakery,30,3.0,15
+2026-04-07,Organic Bananas 3lb,32,PRO-002,Produce,70,1.2,45
+2026-04-07,Avocados 4pk,20,PRO-009,Produce,91,2.2,25
+2026-04-07,Sparkling Water 12pk,21,BEV-014,Beverages,82,4.0,30
+2026-04-07,Cold Brew Coffee 32oz,15,BEV-022,Beverages,33,3.5,20
+2026-04-07,Paper Towels 6pk,8,HOU-005,Household,53,6.0,15
+2026-04-07,Dish Soap 24oz,3,HOU-012,Household,35,2.4,10
+2026-04-07,Hand Soap 12oz,6,PER-006,Personal Care,56,1.8,10
+2026-04-07,Moisturizing Lotion 16oz,4,PER-019,Personal Care,43,5.5,8
+2026-04-08,Organic Whole Milk 1gal,21,DAI-001,Dairy,57,3.2,30
+2026-04-08,Greek Yogurt 32oz,9,DAI-005,Dairy,55,2.8,20
+2026-04-08,Sourdough Bread Loaf,11,BAK-003,Bakery,96,2.5,25
+2026-04-08,Croissants 4pk,12,BAK-008,Bakery,18,3.0,15
+2026-04-08,Organic Bananas 3lb,29,PRO-002,Produce,216,1.2,45
+2026-04-08,Avocados 4pk,19,PRO-009,Produce,72,2.2,25
+2026-04-08,Sparkling Water 12pk,18,BEV-014,Beverages,64,4.0,30
+2026-04-08,Cold Brew Coffee 32oz,13,BEV-022,Beverages,95,3.5,20
+2026-04-08,Paper Towels 6pk,10,HOU-005,Household,43,6.0,15
+2026-04-08,Dish Soap 24oz,5,HOU-012,Household,30,2.4,10
+2026-04-08,Hand Soap 12oz,5,PER-006,Personal Care,51,1.8,10
+2026-04-08,Moisturizing Lotion 16oz,4,PER-019,Personal Care,39,5.5,8
+2026-04-09,Organic Whole Milk 1gal,18,DAI-001,Dairy,39,3.2,30
+2026-04-09,Greek Yogurt 32oz,12,DAI-005,Dairy,43,2.8,20
+2026-04-09,Sourdough Bread Loaf,15,BAK-003,Bakery,81,2.5,25
+2026-04-09,Croissants 4pk,8,BAK-008,Bakery,70,3.0,15
+2026-04-09,Organic Bananas 3lb,35,PRO-002,Produce,181,1.2,45
+2026-04-09,Avocados 4pk,13,PRO-009,Produce,59,2.2,25
+2026-04-09,Sparkling Water 12pk,17,BEV-014,Beverages,47,4.0,30
+2026-04-09,Cold Brew Coffee 32oz,12,BEV-022,Beverages,83,3.5,20
+2026-04-09,Paper Towels 6pk,11,HOU-005,Household,32,6.0,15
+2026-04-09,Dish Soap 24oz,6,HOU-012,Household,24,2.4,10
+2026-04-09,Hand Soap 12oz,6,PER-006,Personal Care,45,1.8,10
+2026-04-09,Moisturizing Lotion 16oz,2,PER-019,Personal Care,37,5.5,8
+2026-04-10,Organic Whole Milk 1gal,30,DAI-001,Dairy,134,3.2,30
+2026-04-10,Greek Yogurt 32oz,21,DAI-005,Dairy,22,2.8,20
+2026-04-10,Sourdough Bread Loaf,21,BAK-003,Bakery,60,2.5,25
+2026-04-10,Croissants 4pk,17,BAK-008,Bakery,53,3.0,15
+2026-04-10,Organic Bananas 3lb,40,PRO-002,Produce,141,1.2,45
+2026-04-10,Avocados 4pk,29,PRO-009,Produce,30,2.2,25
+2026-04-10,Sparkling Water 12pk,36,BEV-014,Beverages,121,4.0,30
+2026-04-10,Cold Brew Coffee 32oz,19,BEV-022,Beverages,64,3.5,20
+2026-04-10,Paper Towels 6pk,11,HOU-005,Household,21,6.0,15
+2026-04-10,Dish Soap 24oz,11,HOU-012,Household,13,2.4,10
+2026-04-10,Hand Soap 12oz,10,PER-006,Personal Care,35,1.8,10
+2026-04-10,Moisturizing Lotion 16oz,6,PER-019,Personal Care,31,5.5,8
+2026-04-11,Organic Whole Milk 1gal,28,DAI-001,Dairy,106,3.2,30
+2026-04-11,Greek Yogurt 32oz,18,DAI-005,Dairy,94,2.8,20
+2026-04-11,Sourdough Bread Loaf,17,BAK-003,Bakery,43,2.5,25
+2026-04-11,Croissants 4pk,12,BAK-008,Bakery,41,3.0,15
+2026-04-11,Organic Bananas 3lb,38,PRO-002,Produce,103,1.2,45
+2026-04-11,Avocados 4pk,21,PRO-009,Produce,109,2.2,25
+2026-04-11,Sparkling Water 12pk,26,BEV-014,Beverages,95,4.0,30
+2026-04-11,Cold Brew Coffee 32oz,20,BEV-022,Beverages,44,3.5,20
+2026-04-11,Paper Towels 6pk,15,HOU-005,Household,71,6.0,15
+2026-04-11,Dish Soap 24oz,7,HOU-012,Household,56,2.4,10
+2026-04-11,Hand Soap 12oz,9,PER-006,Personal Care,26,1.8,10
+2026-04-11,Moisturizing Lotion 16oz,6,PER-019,Personal Care,25,5.5,8
+2026-04-12,Organic Whole Milk 1gal,26,DAI-001,Dairy,80,3.2,30
+2026-04-12,Greek Yogurt 32oz,18,DAI-005,Dairy,76,2.8,20
+2026-04-12,Sourdough Bread Loaf,15,BAK-003,Bakery,28,2.5,25
+2026-04-12,Croissants 4pk,14,BAK-008,Bakery,27,3.0,15
+2026-04-12,Organic Bananas 3lb,39,PRO-002,Produce,64,1.2,45
+2026-04-12,Avocados 4pk,23,PRO-009,Produce,86,2.2,25
+2026-04-12,Sparkling Water 12pk,25,BEV-014,Beverages,70,4.0,30
+2026-04-12,Cold Brew Coffee 32oz,25,BEV-022,Beverages,94,3.5,20
+2026-04-12,Paper Towels 6pk,9,HOU-005,Household,62,6.0,15
+2026-04-12,Dish Soap 24oz,7,HOU-012,Household,49,2.4,10
+2026-04-12,Hand Soap 12oz,6,PER-006,Personal Care,20,1.8,10
+2026-04-12,Moisturizing Lotion 16oz,5,PER-019,Personal Care,20,5.5,8
+2026-04-13,Organic Whole Milk 1gal,18,DAI-001,Dairy,62,3.2,30
+2026-04-13,Greek Yogurt 32oz,16,DAI-005,Dairy,60,2.8,20
+2026-04-13,Sourdough Bread Loaf,18,BAK-003,Bakery,90,2.5,25
+2026-04-13,Croissants 4pk,8,BAK-008,Bakery,19,3.0,15
+2026-04-13,Organic Bananas 3lb,25,PRO-002,Produce,214,1.2,45
+2026-04-13,Avocados 4pk,18,PRO-009,Produce,68,2.2,25
+2026-04-13,Sparkling Water 12pk,16,BEV-014,Beverages,54,4.0,30
+2026-04-13,Cold Brew Coffee 32oz,15,BEV-022,Beverages,79,3.5,20
+2026-04-13,Paper Towels 6pk,8,HOU-005,Household,54,6.0,15
+2026-04-13,Dish Soap 24oz,4,HOU-012,Household,45,2.4,10
+2026-04-13,Hand Soap 12oz,7,PER-006,Personal Care,13,1.8,10
+2026-04-13,Moisturizing Lotion 16oz,6,PER-019,Personal Care,14,5.5,8
+2026-04-14,Organic Whole Milk 1gal,18,DAI-001,Dairy,44,3.2,30
+2026-04-14,Greek Yogurt 32oz,11,DAI-005,Dairy,49,2.8,20
+2026-04-14,Sourdough Bread Loaf,15,BAK-003,Bakery,75,2.5,25
+2026-04-14,Croissants 4pk,10,BAK-008,Bakery,69,3.0,15
+2026-04-14,Organic Bananas 3lb,32,PRO-002,Produce,182,1.2,45
+2026-04-14,Avocados 4pk,24,PRO-009,Produce,44,2.2,25
+2026-04-14,Sparkling Water 12pk,17,BEV-014,Beverages,37,4.0,30
+2026-04-14,Cold Brew Coffee 32oz,11,BEV-022,Beverages,68,3.5,20
+2026-04-14,Paper Towels 6pk,5,HOU-005,Household,49,6.0,15
+2026-04-14,Dish Soap 24oz,5,HOU-012,Household,40,2.4,10
+2026-04-14,Hand Soap 12oz,5,PER-006,Personal Care,58,1.8,10
+2026-04-14,Moisturizing Lotion 16oz,6,PER-019,Personal Care,58,5.5,8
+2026-04-15,Organic Whole Milk 1gal,18,DAI-001,Dairy,151,3.2,30
+2026-04-15,Greek Yogurt 32oz,13,DAI-005,Dairy,36,2.8,20
+2026-04-15,Sourdough Bread Loaf,14,BAK-003,Bakery,61,2.5,25
+2026-04-15,Croissants 4pk,12,BAK-008,Bakery,57,3.0,15
+2026-04-15,Organic Bananas 3lb,42,PRO-002,Produce,140,1.2,45
+2026-04-15,Avocados 4pk,14,PRO-009,Produce,30,2.2,25
+2026-04-15,Sparkling Water 12pk,16,BEV-014,Beverages,131,4.0,30
+2026-04-15,Cold Brew Coffee 32oz,17,BEV-022,Beverages,51,3.5,20
+2026-04-15,Paper Towels 6pk,9,HOU-005,Household,40,6.0,15
+2026-04-15,Dish Soap 24oz,9,HOU-012,Household,31,2.4,10
+2026-04-15,Hand Soap 12oz,6,PER-006,Personal Care,52,1.8,10
+2026-04-15,Moisturizing Lotion 16oz,4,PER-019,Personal Care,54,5.5,8
+2026-04-16,Organic Whole Milk 1gal,22,DAI-001,Dairy,129,3.2,30
+2026-04-16,Greek Yogurt 32oz,15,DAI-005,Dairy,21,2.8,20
+2026-04-16,Sourdough Bread Loaf,17,BAK-003,Bakery,44,2.5,25
+2026-04-16,Croissants 4pk,11,BAK-008,Bakery,46,3.0,15
+2026-04-16,Organic Bananas 3lb,34,PRO-002,Produce,106,1.2,45
+2026-04-16,Avocados 4pk,21,PRO-009,Produce,109,2.2,25
+2026-04-16,Sparkling Water 12pk,24,BEV-014,Beverages,107,4.0,30
+2026-04-16,Cold Brew Coffee 32oz,15,BEV-022,Beverages,36,3.5,20
+2026-04-16,Paper Towels 6pk,7,HOU-005,Household,33,6.0,15
+2026-04-16,Dish Soap 24oz,6,HOU-012,Household,25,2.4,10
+2026-04-16,Hand Soap 12oz,7,PER-006,Personal Care,45,1.8,10
+2026-04-16,Moisturizing Lotion 16oz,3,PER-019,Personal Care,51,5.5,8
+2026-04-17,Organic Whole Milk 1gal,30,DAI-001,Dairy,99,3.2,30
+2026-04-17,Greek Yogurt 32oz,17,DAI-005,Dairy,94,2.8,20
+2026-04-17,Sourdough Bread Loaf,21,BAK-003,Bakery,103,2.5,25
+2026-04-17,Croissants 4pk,17,BAK-008,Bakery,29,3.0,15
+2026-04-17,Organic Bananas 3lb,44,PRO-002,Produce,62,1.2,45
+2026-04-17,Avocados 4pk,24,PRO-009,Produce,85,2.2,25
+2026-04-17,Sparkling Water 12pk,21,BEV-014,Beverages,86,4.0,30
+2026-04-17,Cold Brew Coffee 32oz,22,BEV-022,Beverages,89,3.5,20
+2026-04-17,Paper Towels 6pk,13,HOU-005,Household,20,6.0,15
+2026-04-17,Dish Soap 24oz,12,HOU-012,Household,13,2.4,10
+2026-04-17,Hand Soap 12oz,7,PER-006,Personal Care,38,1.8,10
+2026-04-17,Moisturizing Lotion 16oz,7,PER-019,Personal Care,44,5.5,8
+2026-04-18,Organic Whole Milk 1gal,30,DAI-001,Dairy,69,3.2,30
+2026-04-18,Greek Yogurt 32oz,23,DAI-005,Dairy,71,2.8,20
+2026-04-18,Sourdough Bread Loaf,21,BAK-003,Bakery,82,2.5,25
+2026-04-18,Croissants 4pk,15,BAK-008,Bakery,74,3.0,15
+2026-04-18,Organic Bananas 3lb,46,PRO-002,Produce,191,1.2,45
+2026-04-18,Avocados 4pk,25,PRO-009,Produce,60,2.2,25
+2026-04-18,Sparkling Water 12pk,25,BEV-014,Beverages,61,4.0,30
+2026-04-18,Cold Brew Coffee 32oz,20,BEV-022,Beverages,69,3.5,20
+2026-04-18,Paper Towels 6pk,14,HOU-005,Household,71,6.0,15
+2026-04-18,Dish Soap 24oz,7,HOU-012,Household,56,2.4,10
+2026-04-18,Hand Soap 12oz,8,PER-006,Personal Care,30,1.8,10
+2026-04-18,Moisturizing Lotion 16oz,5,PER-019,Personal Care,39,5.5,8
+2026-04-19,Organic Whole Milk 1gal,30,DAI-001,Dairy,39,3.2,30
+2026-04-19,Greek Yogurt 32oz,12,DAI-005,Dairy,59,2.8,20
+2026-04-19,Sourdough Bread Loaf,17,BAK-003,Bakery,65,2.5,25
+2026-04-19,Croissants 4pk,14,BAK-008,Bakery,60,3.0,15
+2026-04-19,Organic Bananas 3lb,46,PRO-002,Produce,145,1.2,45
+2026-04-19,Avocados 4pk,21,PRO-009,Produce,39,2.2,25
+2026-04-19,Sparkling Water 12pk,21,BEV-014,Beverages,40,4.0,30
+2026-04-19,Cold Brew Coffee 32oz,24,BEV-022,Beverages,45,3.5,20
+2026-04-19,Paper Towels 6pk,7,HOU-005,Household,64,6.0,15
+2026-04-19,Dish Soap 24oz,4,HOU-012,Household,52,2.4,10
+2026-04-19,Hand Soap 12oz,7,PER-006,Personal Care,23,1.8,10
+2026-04-19,Moisturizing Lotion 16oz,5,PER-019,Personal Care,34,5.5,8
+2026-04-20,Organic Whole Milk 1gal,16,DAI-001,Dairy,148,3.2,30
+2026-04-20,Greek Yogurt 32oz,14,DAI-005,Dairy,45,2.8,20
+2026-04-20,Sourdough Bread Loaf,15,BAK-003,Bakery,50,2.5,25
+2026-04-20,Croissants 4pk,8,BAK-008,Bakery,52,3.0,15
+2026-04-20,Organic Bananas 3lb,23,PRO-002,Produce,122,1.2,45
+2026-04-20,Avocados 4pk,19,PRO-009,Produce,120,2.2,25
+2026-04-20,Sparkling Water 12pk,21,BEV-014,Beverages,129,4.0,30
+2026-04-20,Cold Brew Coffee 32oz,13,BEV-022,Beverages,32,3.5,20
+2026-04-20,Paper Towels 6pk,12,HOU-005,Household,52,6.0,15
+2026-04-20,Dish Soap 24oz,4,HOU-012,Household,48,2.4,10
+2026-04-20,Hand Soap 12oz,3,PER-006,Personal Care,20,1.8,10
+2026-04-20,Moisturizing Lotion 16oz,3,PER-019,Personal Care,31,5.5,8
+2026-04-21,Organic Whole Milk 1gal,20,DAI-001,Dairy,128,3.2,30
+2026-04-21,Greek Yogurt 32oz,13,DAI-005,Dairy,32,2.8,20
+2026-04-21,Sourdough Bread Loaf,13,BAK-003,Bakery,37,2.5,25
+2026-04-21,Croissants 4pk,10,BAK-008,Bakery,42,3.0,15
+2026-04-21,Organic Bananas 3lb,23,PRO-002,Produce,99,1.2,45
+2026-04-21,Avocados 4pk,22,PRO-009,Produce,98,2.2,25
+2026-04-21,Sparkling Water 12pk,18,BEV-014,Beverages,111,4.0,30
+2026-04-21,Cold Brew Coffee 32oz,17,BEV-022,Beverages,90,3.5,20
+2026-04-21,Paper Towels 6pk,8,HOU-005,Household,44,6.0,15
+2026-04-21,Dish Soap 24oz,7,HOU-012,Household,41,2.4,10
+2026-04-21,Hand Soap 12oz,6,PER-006,Personal Care,14,1.8,10
+2026-04-21,Moisturizing Lotion 16oz,5,PER-019,Personal Care,26,5.5,8
+2026-04-22,Organic Whole Milk 1gal,22,DAI-001,Dairy,106,3.2,30
+2026-04-22,Greek Yogurt 32oz,16,DAI-005,Dairy,106,2.8,20
+2026-04-22,Sourdough Bread Loaf,15,BAK-003,Bakery,102,2.5,25
+2026-04-22,Croissants 4pk,11,BAK-008,Bakery,31,3.0,15
+2026-04-22,Organic Bananas 3lb,28,PRO-002,Produce,71,1.2,45
+2026-04-22,Avocados 4pk,22,PRO-009,Produce,76,2.2,25
+2026-04-22,Sparkling Water 12pk,15,BEV-014,Beverages,96,4.0,30
+2026-04-22,Cold Brew Coffee 32oz,19,BEV-022,Beverages,71,3.5,20
+2026-04-22,Paper Towels 6pk,8,HOU-005,Household,36,6.0,15
+2026-04-22,Dish Soap 24oz,4,HOU-012,Household,37,2.4,10
+2026-04-22,Hand Soap 12oz,5,PER-006,Personal Care,59,1.8,10
+2026-04-22,Moisturizing Lotion 16oz,3,PER-019,Personal Care,23,5.5,8
+2026-04-23,Organic Whole Milk 1gal,23,DAI-001,Dairy,83,3.2,30
+2026-04-23,Greek Yogurt 32oz,11,DAI-005,Dairy,95,2.8,20
+2026-04-23,Sourdough Bread Loaf,13,BAK-003,Bakery,89,2.5,25
+2026-04-23,Croissants 4pk,5,BAK-008,Bakery,26,3.0,15
+2026-04-23,Organic Bananas 3lb,27,PRO-002,Produce,219,1.2,45
+2026-04-23,Avocados 4pk,7,PRO-009,Produce,69,2.2,25
+2026-04-23,Sparkling Water 12pk,11,BEV-014,Beverages,85,4.0,30
+2026-04-23,Cold Brew Coffee 32oz,16,BEV-022,Beverages,55,3.5,20
+2026-04-23,Paper Towels 6pk,9,HOU-005,Household,27,6.0,15
+2026-04-23,Dish Soap 24oz,7,HOU-012,Household,30,2.4,10
+2026-04-23,Hand Soap 12oz,4,PER-006,Personal Care,55,1.8,10
+2026-04-23,Moisturizing Lotion 16oz,4,PER-019,Personal Care,19,5.5,8
+2026-04-24,Organic Whole Milk 1gal,29,DAI-001,Dairy,54,3.2,30
+2026-04-24,Greek Yogurt 32oz,15,DAI-005,Dairy,80,2.8,20
+2026-04-24,Sourdough Bread Loaf,26,BAK-003,Bakery,63,2.5,25
+2026-04-24,Croissants 4pk,16,BAK-008,Bakery,70,3.0,15
+2026-04-24,Organic Bananas 3lb,42,PRO-002,Produce,177,1.2,45
+2026-04-24,Avocados 4pk,24,PRO-009,Produce,45,2.2,25
+2026-04-24,Sparkling Water 12pk,27,BEV-014,Beverages,58,4.0,30
+2026-04-24,Cold Brew Coffee 32oz,13,BEV-022,Beverages,42,3.5,20
+2026-04-24,Paper Towels 6pk,11,HOU-005,Household,16,6.0,15
+2026-04-24,Dish Soap 24oz,8,HOU-012,Household,22,2.4,10
+2026-04-24,Hand Soap 12oz,6,PER-006,Personal Care,49,1.8,10
+2026-04-24,Moisturizing Lotion 16oz,6,PER-019,Personal Care,13,5.5,8
+2026-04-25,Organic Whole Milk 1gal,35,DAI-001,Dairy,144,3.2,30
+2026-04-25,Greek Yogurt 32oz,20,DAI-005,Dairy,60,2.8,20
+2026-04-25,Sourdough Bread Loaf,19,BAK-003,Bakery,44,2.5,25
+2026-04-25,Croissants 4pk,16,BAK-008,Bakery,54,3.0,15
+2026-04-25,Organic Bananas 3lb,50,PRO-002,Produce,127,1.2,45
+2026-04-25,Avocados 4pk,27,PRO-009,Produce,118,2.2,25
+2026-04-25,Sparkling Water 12pk,27,BEV-014,Beverages,31,4.0,30
+2026-04-25,Cold Brew Coffee 32oz,18,BEV-022,Beverages,24,3.5,20
+2026-04-25,Paper Towels 6pk,13,HOU-005,Household,68,6.0,15
+2026-04-25,Dish Soap 24oz,10,HOU-012,Household,12,2.4,10
+2026-04-25,Hand Soap 12oz,9,PER-006,Personal Care,40,1.8,10
+2026-04-25,Moisturizing Lotion 16oz,7,PER-019,Personal Care,56,5.5,8
+2026-04-26,Organic Whole Milk 1gal,30,DAI-001,Dairy,114,3.2,30
+2026-04-26,Greek Yogurt 32oz,15,DAI-005,Dairy,45,2.8,20
+2026-04-26,Sourdough Bread Loaf,23,BAK-003,Bakery,101,2.5,25
+2026-04-26,Croissants 4pk,13,BAK-008,Bakery,41,3.0,15
+2026-04-26,Organic Bananas 3lb,48,PRO-002,Produce,79,1.2,45
+2026-04-26,Avocados 4pk,18,PRO-009,Produce,100,2.2,25
+2026-04-26,Sparkling Water 12pk,31,BEV-014,Beverages,110,4.0,30
+2026-04-26,Cold Brew Coffee 32oz,18,BEV-022,Beverages,81,3.5,20
+2026-04-26,Paper Towels 6pk,9,HOU-005,Household,59,6.0,15
+2026-04-26,Dish Soap 24oz,7,HOU-012,Household,55,2.4,10
+2026-04-26,Hand Soap 12oz,6,PER-006,Personal Care,34,1.8,10
+2026-04-26,Moisturizing Lotion 16oz,6,PER-019,Personal Care,50,5.5,8
+2026-04-27,Organic Whole Milk 1gal,22,DAI-001,Dairy,92,3.2,30
+2026-04-27,Greek Yogurt 32oz,11,DAI-005,Dairy,34,2.8,20
+2026-04-27,Sourdough Bread Loaf,14,BAK-003,Bakery,87,2.5,25
+2026-04-27,Croissants 4pk,15,BAK-008,Bakery,26,3.0,15
+2026-04-27,Organic Bananas 3lb,38,PRO-002,Produce,216,1.2,45
+2026-04-27,Avocados 4pk,18,PRO-009,Produce,82,2.2,25
+2026-04-27,Sparkling Water 12pk,18,BEV-014,Beverages,92,4.0,30
+2026-04-27,Cold Brew Coffee 32oz,14,BEV-022,Beverages,67,3.5,20
+2026-04-27,Paper Towels 6pk,9,HOU-005,Household,50,6.0,15
+2026-04-27,Dish Soap 24oz,4,HOU-012,Household,51,2.4,10
+2026-04-27,Hand Soap 12oz,5,PER-006,Personal Care,29,1.8,10
+2026-04-27,Moisturizing Lotion 16oz,2,PER-019,Personal Care,48,5.5,8
+2026-04-28,Organic Whole Milk 1gal,21,DAI-001,Dairy,71,3.2,30
+2026-04-28,Greek Yogurt 32oz,14,DAI-005,Dairy,110,2.8,20
+2026-04-28,Sourdough Bread Loaf,13,BAK-003,Bakery,74,2.5,25
+2026-04-28,Croissants 4pk,13,BAK-008,Bakery,73,3.0,15
+2026-04-28,Organic Bananas 3lb,23,PRO-002,Produce,193,1.2,45
+2026-04-28,Avocados 4pk,10,PRO-009,Produce,72,2.2,25
+2026-04-28,Sparkling Water 12pk,19,BEV-014,Beverages,73,4.0,30
+2026-04-28,Cold Brew Coffee 32oz,17,BEV-022,Beverages,50,3.5,20
+2026-04-28,Paper Towels 6pk,11,HOU-005,Household,39,6.0,15
+2026-04-28,Dish Soap 24oz,5,HOU-012,Household,46,2.4,10
+2026-04-28,Hand Soap 12oz,7,PER-006,Personal Care,22,1.8,10
+2026-04-28,Moisturizing Lotion 16oz,4,PER-019,Personal Care,44,5.5,8
+2026-04-29,Organic Whole Milk 1gal,19,DAI-001,Dairy,52,3.2,30
+2026-04-29,Greek Yogurt 32oz,15,DAI-005,Dairy,95,2.8,20
+2026-04-29,Sourdough Bread Loaf,16,BAK-003,Bakery,58,2.5,25
+2026-04-29,Croissants 4pk,6,BAK-008,Bakery,67,3.0,15
+2026-04-29,Organic Bananas 3lb,36,PRO-002,Produce,157,1.2,45
+2026-04-29,Avocados 4pk,21,PRO-009,Produce,51,2.2,25
+2026-04-29,Sparkling Water 12pk,15,BEV-014,Beverages,58,4.0,30
+2026-04-29,Cold Brew Coffee 32oz,15,BEV-022,Beverages,35,3.5,20
+2026-04-29,Paper Towels 6pk,9,HOU-005,Household,30,6.0,15
+2026-04-29,Dish Soap 24oz,6,HOU-012,Household,40,2.4,10
+2026-04-29,Hand Soap 12oz,4,PER-006,Personal Care,18,1.8,10
+2026-04-29,Moisturizing Lotion 16oz,3,PER-019,Personal Care,41,5.5,8
+2026-04-30,Organic Whole Milk 1gal,20,DAI-001,Dairy,32,3.2,30
+2026-04-30,Greek Yogurt 32oz,16,DAI-005,Dairy,79,2.8,20
+2026-04-30,Sourdough Bread Loaf,16,BAK-003,Bakery,42,2.5,25
+2026-04-30,Croissants 4pk,9,BAK-008,Bakery,58,3.0,15
+2026-04-30,Organic Bananas 3lb,33,PRO-002,Produce,124,1.2,45
+2026-04-30,Avocados 4pk,5,PRO-009,Produce,46,2.2,25
+2026-04-30,Sparkling Water 12pk,23,BEV-014,Beverages,35,4.0,30
+2026-04-30,Cold Brew Coffee 32oz,8,BEV-022,Beverages,27,3.5,20
+2026-04-30,Paper Towels 6pk,7,HOU-005,Household,23,6.0,15
+2026-04-30,Dish Soap 24oz,4,HOU-012,Household,36,2.4,10
+2026-04-30,Hand Soap 12oz,3,PER-006,Personal Care,15,1.8,10
+2026-04-30,Moisturizing Lotion 16oz,5,PER-019,Personal Care,36,5.5,8
+2026-05-01,Organic Whole Milk 1gal,28,DAI-001,Dairy,129,3.2,30
+2026-05-01,Greek Yogurt 32oz,19,DAI-005,Dairy,60,2.8,20
+2026-05-01,Sourdough Bread Loaf,21,BAK-003,Bakery,101,2.5,25
+2026-05-01,Croissants 4pk,15,BAK-008,Bakery,43,3.0,15
+2026-05-01,Organic Bananas 3lb,43,PRO-002,Produce,81,1.2,45
+2026-05-01,Avocados 4pk,19,PRO-009,Produce,27,2.2,25
+2026-05-01,Sparkling Water 12pk,31,BEV-014,Beverages,114,4.0,30
+2026-05-01,Cold Brew Coffee 32oz,18,BEV-022,Beverages,84,3.5,20
+2026-05-01,Paper Towels 6pk,8,HOU-005,Household,80,6.0,15
+2026-05-01,Dish Soap 24oz,8,HOU-012,Household,28,2.4,10
+2026-05-01,Hand Soap 12oz,10,PER-006,Personal Care,55,1.8,10
+2026-05-01,Moisturizing Lotion 16oz,7,PER-019,Personal Care,29,5.5,8
+2026-05-02,Organic Whole Milk 1gal,28,DAI-001,Dairy,101,3.2,30
+2026-05-02,Greek Yogurt 32oz,17,DAI-005,Dairy,43,2.8,20
+2026-05-02,Sourdough Bread Loaf,20,BAK-003,Bakery,81,2.5,25
+2026-05-02,Croissants 4pk,19,BAK-008,Bakery,24,3.0,15
+2026-05-02,Organic Bananas 3lb,45,PRO-002,Produce,211,1.2,45
+2026-05-02,Avocados 4pk,25,PRO-009,Produce,102,2.2,25
+2026-05-02,Sparkling Water 12pk,31,BEV-014,Beverages,83,4.0,30
+2026-05-02,Cold Brew Coffee 32oz,21,BEV-022,Beverages,63,3.5,20
+2026-05-02,Paper Towels 6pk,11,HOU-005,Household,69,6.0,15
+2026-05-02,Dish Soap 24oz,9,HOU-012,Household,19,2.4,10
+2026-05-02,Hand Soap 12oz,7,PER-006,Personal Care,48,1.8,10
+2026-05-02,Moisturizing Lotion 16oz,6,PER-019,Personal Care,23,5.5,8
+2026-05-03,Organic Whole Milk 1gal,28,DAI-001,Dairy,73,3.2,30
+2026-05-03,Greek Yogurt 32oz,16,DAI-005,Dairy,27,2.8,20
+2026-05-03,Sourdough Bread Loaf,21,BAK-003,Bakery,60,2.5,25
+2026-05-03,Croissants 4pk,13,BAK-008,Bakery,71,3.0,15
+2026-05-03,Organic Bananas 3lb,38,PRO-002,Produce,173,1.2,45
+2026-05-03,Avocados 4pk,14,PRO-009,Produce,88,2.2,25
+2026-05-03,Sparkling Water 12pk,27,BEV-014,Beverages,56,4.0,30
+2026-05-03,Cold Brew Coffee 32oz,19,BEV-022,Beverages,44,3.5,20
+2026-05-03,Paper Towels 6pk,12,HOU-005,Household,57,6.0,15
+2026-05-03,Dish Soap 24oz,3,HOU-012,Household,16,2.4,10
+2026-05-03,Hand Soap 12oz,10,PER-006,Personal Care,38,1.8,10
+2026-05-03,Moisturizing Lotion 16oz,5,PER-019,Personal Care,18,5.5,8
+2026-05-04,Organic Whole Milk 1gal,24,DAI-001,Dairy,49,3.2,30
+2026-05-04,Greek Yogurt 32oz,9,DAI-005,Dairy,108,2.8,20
+2026-05-04,Sourdough Bread Loaf,16,BAK-003,Bakery,44,2.5,25
+2026-05-04,Croissants 4pk,7,BAK-008,Bakery,64,3.0,15
+2026-05-04,Organic Bananas 3lb,26,PRO-002,Produce,147,1.2,45
+2026-05-04,Avocados 4pk,23,PRO-009,Produce,65,2.2,25
+2026-05-04,Sparkling Water 12pk,17,BEV-014,Beverages,39,4.0,30
+2026-05-04,Cold Brew Coffee 32oz,14,BEV-022,Beverages,30,3.5,20
+2026-05-04,Paper Towels 6pk,10,HOU-005,Household,47,6.0,15
+2026-05-04,Dish Soap 24oz,7,HOU-012,Household,59,2.4,10
+2026-05-04,Hand Soap 12oz,5,PER-006,Personal Care,33,1.8,10
+2026-05-04,Moisturizing Lotion 16oz,5,PER-019,Personal Care,13,5.5,8
+2026-05-05,Organic Whole Milk 1gal,28,DAI-001,Dairy,146,3.2,30
+2026-05-05,Greek Yogurt 32oz,12,DAI-005,Dairy,96,2.8,20
+2026-05-05,Sourdough Bread Loaf,15,BAK-003,Bakery,29,2.5,25
+2026-05-05,Croissants 4pk,12,BAK-008,Bakery,52,3.0,15
+2026-05-05,Organic Bananas 3lb,34,PRO-002,Produce,113,1.2,45
+2026-05-05,Avocados 4pk,21,PRO-009,Produce,44,2.2,25
+2026-05-05,Sparkling Water 12pk,21,BEV-014,Beverages,128,4.0,30
+2026-05-05,Cold Brew Coffee 32oz,10,BEV-022,Beverages,95,3.5,20
+2026-05-05,Paper Towels 6pk,11,HOU-005,Household,36,6.0,15
+2026-05-05,Dish Soap 24oz,4,HOU-012,Household,55,2.4,10
+2026-05-05,Hand Soap 12oz,5,PER-006,Personal Care,28,1.8,10
+2026-05-05,Moisturizing Lotion 16oz,3,PER-019,Personal Care,10,5.5,8
+2026-05-06,Organic Whole Milk 1gal,20,DAI-001,Dairy,126,3.2,30
+2026-05-06,Greek Yogurt 32oz,13,DAI-005,Dairy,83,2.8,20
+2026-05-06,Sourdough Bread Loaf,15,BAK-003,Bakery,94,2.5,25
+2026-05-06,Croissants 4pk,11,BAK-008,Bakery,41,3.0,15
+2026-05-06,Organic Bananas 3lb,37,PRO-002,Produce,76,1.2,45
+2026-05-06,Avocados 4pk,18,PRO-009,Produce,26,2.2,25
+2026-05-06,Sparkling Water 12pk,17,BEV-014,Beverages,111,4.0,30
+2026-05-06,Cold Brew Coffee 32oz,16,BEV-022,Beverages,79,3.5,20
+2026-05-06,Paper Towels 6pk,10,HOU-005,Household,26,6.0,15
+2026-05-06,Dish Soap 24oz,4,HOU-012,Household,51,2.4,10
+2026-05-06,Hand Soap 12oz,6,PER-006,Personal Care,22,1.8,10
+2026-05-06,Moisturizing Lotion 16oz,5,PER-019,Personal Care,55,5.5,8
+2026-05-07,Organic Whole Milk 1gal,19,DAI-001,Dairy,107,3.2,30
+2026-05-07,Greek Yogurt 32oz,16,DAI-005,Dairy,67,2.8,20
+2026-05-07,Sourdough Bread Loaf,14,BAK-003,Bakery,80,2.5,25
+2026-05-07,Croissants 4pk,10,BAK-008,Bakery,31,3.0,15
+2026-05-07,Organic Bananas 3lb,28,PRO-002,Produce,48,1.2,45
+2026-05-07,Avocados 4pk,16,PRO-009,Produce,110,2.2,25
+2026-05-07,Sparkling Water 12pk,13,BEV-014,Beverages,98,4.0,30
+2026-05-07,Cold Brew Coffee 32oz,9,BEV-022,Beverages,70,3.5,20
+2026-05-07,Paper Towels 6pk,11,HOU-005,Household,80,6.0,15
+2026-05-07,Dish Soap 24oz,5,HOU-012,Household,46,2.4,10
+2026-05-07,Hand Soap 12oz,4,PER-006,Personal Care,18,1.8,10
+2026-05-07,Moisturizing Lotion 16oz,2,PER-019,Personal Care,53,5.5,8
+2026-05-08,Organic Whole Milk 1gal,27,DAI-001,Dairy,80,3.2,30
+2026-05-08,Greek Yogurt 32oz,15,DAI-005,Dairy,52,2.8,20
+2026-05-08,Sourdough Bread Loaf,26,BAK-003,Bakery,54,2.5,25
+2026-05-08,Croissants 4pk,17,BAK-008,Bakery,74,3.0,15
+2026-05-08,Organic Bananas 3lb,39,PRO-002,Produce,184,1.2,45
+2026-05-08,Avocados 4pk,32,PRO-009,Produce,78,2.2,25
+2026-05-08,Sparkling Water 12pk,31,BEV-014,Beverages,67,4.0,30
+2026-05-08,Cold Brew Coffee 32oz,19,BEV-022,Beverages,51,3.5,20
+2026-05-08,Paper Towels 6pk,6,HOU-005,Household,74,6.0,15
+2026-05-08,Dish Soap 24oz,13,HOU-012,Household,33,2.4,10
+2026-05-08,Hand Soap 12oz,6,PER-006,Personal Care,12,1.8,10
+2026-05-08,Moisturizing Lotion 16oz,4,PER-019,Personal Care,49,5.5,8
+2026-05-09,Organic Whole Milk 1gal,33,DAI-001,Dairy,47,3.2,30
+2026-05-09,Greek Yogurt 32oz,25,DAI-005,Dairy,27,2.8,20
+2026-05-09,Sourdough Bread Loaf,25,BAK-003,Bakery,29,2.5,25
+2026-05-09,Croissants 4pk,16,BAK-008,Bakery,58,3.0,15
+2026-05-09,Organic Bananas 3lb,46,PRO-002,Produce,138,1.2,45
+2026-05-09,Avocados 4pk,27,PRO-009,Produce,51,2.2,25
+2026-05-09,Sparkling Water 12pk,30,BEV-014,Beverages,37,4.0,30
+2026-05-09,Cold Brew Coffee 32oz,21,BEV-022,Beverages,30,3.5,20
+2026-05-09,Paper Towels 6pk,12,HOU-005,Household,62,6.0,15
+2026-05-09,Dish Soap 24oz,9,HOU-012,Household,24,2.4,10
+2026-05-09,Hand Soap 12oz,7,PER-006,Personal Care,55,1.8,10
+2026-05-09,Moisturizing Lotion 16oz,6,PER-019,Personal Care,43,5.5,8
+2026-05-10,Organic Whole Milk 1gal,20,DAI-001,Dairy,152,3.2,30
+2026-05-10,Greek Yogurt 32oz,16,DAI-005,Dairy,101,2.8,20
+2026-05-10,Sourdough Bread Loaf,16,BAK-003,Bakery,93,2.5,25
+2026-05-10,Croissants 4pk,10,BAK-008,Bakery,48,3.0,15
+2026-05-10,Organic Bananas 3lb,39,PRO-002,Produce,99,1.2,45
+2026-05-10,Avocados 4pk,26,PRO-009,Produce,125,2.2,25
+2026-05-10,Sparkling Water 12pk,27,BEV-014,Beverages,120,4.0,30
+2026-05-10,Cold Brew Coffee 32oz,12,BEV-022,Beverages,93,3.5,20
+2026-05-10,Paper Towels 6pk,8,HOU-005,Household,54,6.0,15
+2026-05-10,Dish Soap 24oz,9,HOU-012,Household,15,2.4,10
+2026-05-10,Hand Soap 12oz,5,PER-006,Personal Care,50,1.8,10
+2026-05-10,Moisturizing Lotion 16oz,5,PER-019,Personal Care,38,5.5,8
+2026-05-11,Organic Whole Milk 1gal,22,DAI-001,Dairy,130,3.2,30
+2026-05-11,Greek Yogurt 32oz,10,DAI-005,Dairy,91,2.8,20
+2026-05-11,Sourdough Bread Loaf,15,BAK-003,Bakery,78,2.5,25
+2026-05-11,Croissants 4pk,6,BAK-008,Bakery,42,3.0,15
+2026-05-11,Organic Bananas 3lb,26,PRO-002,Produce,73,1.2,45
+2026-05-11,Avocados 4pk,17,PRO-009,Produce,108,2.2,25
+2026-05-11,Sparkling Water 12pk,11,BEV-014,Beverages,109,4.0,30
+2026-05-11,Cold Brew Coffee 32oz,15,BEV-022,Beverages,78,3.5,20
+2026-05-11,Paper Towels 6pk,8,HOU-005,Household,46,6.0,15
+2026-05-11,Dish Soap 24oz,7,HOU-012,Household,58,2.4,10
+2026-05-11,Hand Soap 12oz,5,PER-006,Personal Care,45,1.8,10
+2026-05-11,Moisturizing Lotion 16oz,6,PER-019,Personal Care,32,5.5,8
+2026-05-12,Organic Whole Milk 1gal,20,DAI-001,Dairy,110,3.2,30
+2026-05-12,Greek Yogurt 32oz,11,DAI-005,Dairy,80,2.8,20
+2026-05-12,Sourdough Bread Loaf,15,BAK-003,Bakery,63,2.5,25
+2026-05-12,Croissants 4pk,11,BAK-008,Bakery,31,3.0,15
+2026-05-12,Organic Bananas 3lb,29,PRO-002,Produce,219,1.2,45
+2026-05-12,Avocados 4pk,16,PRO-009,Produce,92,2.2,25
+2026-05-12,Sparkling Water 12pk,15,BEV-014,Beverages,94,4.0,30
+2026-05-12,Cold Brew Coffee 32oz,11,BEV-022,Beverages,67,3.5,20
+2026-05-12,Paper Towels 6pk,5,HOU-005,Household,41,6.0,15
+2026-05-12,Dish Soap 24oz,9,HOU-012,Household,49,2.4,10
+2026-05-12,Hand Soap 12oz,3,PER-006,Personal Care,42,1.8,10
+2026-05-12,Moisturizing Lotion 16oz,3,PER-019,Personal Care,29,5.5,8
+2026-05-13,Organic Whole Milk 1gal,17,DAI-001,Dairy,93,3.2,30
+2026-05-13,Greek Yogurt 32oz,15,DAI-005,Dairy,65,2.8,20
+2026-05-13,Sourdough Bread Loaf,13,BAK-003,Bakery,50,2.5,25
+2026-05-13,Croissants 4pk,13,BAK-008,Bakery,18,3.0,15
+2026-05-13,Organic Bananas 3lb,26,PRO-002,Produce,193,1.2,45
+2026-05-13,Avocados 4pk,17,PRO-009,Produce,75,2.2,25
+2026-05-13,Sparkling Water 12pk,14,BEV-014,Beverages,80,4.0,30
+2026-05-13,Cold Brew Coffee 32oz,20,BEV-022,Beverages,47,3.5,20
+2026-05-13,Paper Towels 6pk,5,HOU-005,Household,36,6.0,15
+2026-05-13,Dish Soap 24oz,6,HOU-012,Household,43,2.4,10
+2026-05-13,Hand Soap 12oz,6,PER-006,Personal Care,36,1.8,10
+2026-05-13,Moisturizing Lotion 16oz,5,PER-019,Personal Care,24,5.5,8
+2026-05-14,Organic Whole Milk 1gal,19,DAI-001,Dairy,74,3.2,30
+2026-05-14,Greek Yogurt 32oz,12,DAI-005,Dairy,53,2.8,20
+2026-05-14,Sourdough Bread Loaf,14,BAK-003,Bakery,36,2.5,25
+2026-05-14,Croissants 4pk,9,BAK-008,Bakery,69,3.0,15
+2026-05-14,Organic Bananas 3lb,34,PRO-002,Produce,159,1.2,45
+2026-05-14,Avocados 4pk,24,PRO-009,Produce,51,2.2,25
+2026-05-14,Sparkling Water 12pk,16,BEV-014,Beverages,64,4.0,30
+2026-05-14,Cold Brew Coffee 32oz,9,BEV-022,Beverages,38,3.5,20
+2026-05-14,Paper Towels 6pk,8,HOU-005,Household,28,6.0,15
+2026-05-14,Dish Soap 24oz,10,HOU-012,Household,33,2.4,10
+2026-05-14,Hand Soap 12oz,4,PER-006,Personal Care,32,1.8,10
+2026-05-14,Moisturizing Lotion 16oz,6,PER-019,Personal Care,18,5.5,8
+2026-05-15,Organic Whole Milk 1gal,35,DAI-001,Dairy,39,3.2,30
+2026-05-15,Greek Yogurt 32oz,17,DAI-005,Dairy,36,2.8,20
+2026-05-15,Sourdough Bread Loaf,23,BAK-003,Bakery,93,2.5,25
+2026-05-15,Croissants 4pk,18,BAK-008,Bakery,51,3.0,15
+2026-05-15,Organic Bananas 3lb,41,PRO-002,Produce,118,1.2,45
+2026-05-15,Avocados 4pk,23,PRO-009,Produce,28,2.2,25
+2026-05-15,Sparkling Water 12pk,24,BEV-014,Beverages,40,4.0,30
+2026-05-15,Cold Brew Coffee 32oz,17,BEV-022,Beverages,21,3.5,20
+2026-05-15,Paper Towels 6pk,10,HOU-005,Household,18,6.0,15
+2026-05-15,Dish Soap 24oz,7,HOU-012,Household,26,2.4,10
+2026-05-15,Hand Soap 12oz,8,PER-006,Personal Care,24,1.8,10
+2026-05-15,Moisturizing Lotion 16oz,5,PER-019,Personal Care,13,5.5,8
+2026-05-16,Organic Whole Milk 1gal,30,DAI-001,Dairy,134,3.2,30
+2026-05-16,Greek Yogurt 32oz,14,DAI-005,Dairy,22,2.8,20
+2026-05-16,Sourdough Bread Loaf,22,BAK-003,Bakery,71,2.5,25
+2026-05-16,Croissants 4pk,16,BAK-008,Bakery,35,3.0,15
+2026-05-16,Organic Bananas 3lb,33,PRO-002,Produce,85,1.2,45
+2026-05-16,Avocados 4pk,25,PRO-009,Produce,103,2.2,25
+2026-05-16,Sparkling Water 12pk,32,BEV-014,Beverages,118,4.0,30
+2026-05-16,Cold Brew Coffee 32oz,16,BEV-022,Beverages,80,3.5,20
+2026-05-16,Paper Towels 6pk,15,HOU-005,Household,68,6.0,15
+2026-05-16,Dish Soap 24oz,10,HOU-012,Household,16,2.4,10
+2026-05-16,Hand Soap 12oz,7,PER-006,Personal Care,17,1.8,10
+2026-05-16,Moisturizing Lotion 16oz,6,PER-019,Personal Care,57,5.5,8
+2026-05-17,Organic Whole Milk 1gal,28,DAI-001,Dairy,106,3.2,30
+2026-05-17,Greek Yogurt 32oz,17,DAI-005,Dairy,95,2.8,20
+2026-05-17,Sourdough Bread Loaf,20,BAK-003,Bakery,51,2.5,25
+2026-05-17,Croissants 4pk,10,BAK-008,Bakery,25,3.0,15
+2026-05-17,Organic Bananas 3lb,39,PRO-002,Produce,46,1.2,45
+2026-05-17,Avocados 4pk,16,PRO-009,Produce,87,2.2,25
+2026-05-17,Sparkling Water 12pk,23,BEV-014,Beverages,95,4.0,30
+2026-05-17,Cold Brew Coffee 32oz,15,BEV-022,Beverages,65,3.5,20
+2026-05-17,Paper Towels 6pk,9,HOU-005,Household,59,6.0,15
+2026-05-17,Dish Soap 24oz,10,HOU-012,Household,56,2.4,10
+2026-05-17,Hand Soap 12oz,8,PER-006,Personal Care,59,1.8,10
+2026-05-17,Moisturizing Lotion 16oz,6,PER-019,Personal Care,51,5.5,8
+2026-05-18,Organic Whole Milk 1gal,16,DAI-001,Dairy,90,3.2,30
+2026-05-18,Greek Yogurt 32oz,11,DAI-005,Dairy,84,2.8,20
+2026-05-18,Sourdough Bread Loaf,18,BAK-003,Bakery,33,2.5,25
+2026-05-18,Croissants 4pk,10,BAK-008,Bakery,75,3.0,15
+2026-05-18,Organic Bananas 3lb,41,PRO-002,Produce,180,1.2,45
+2026-05-18,Avocados 4pk,18,PRO-009,Produce,69,2.2,25
+2026-05-18,Sparkling Water 12pk,19,BEV-014,Beverages,76,4.0,30
+2026-05-18,Cold Brew Coffee 32oz,12,BEV-022,Beverages,53,3.5,20
+2026-05-18,Paper Towels 6pk,8,HOU-005,Household,51,6.0,15
+2026-05-18,Dish Soap 24oz,6,HOU-012,Household,50,2.4,10
+2026-05-18,Hand Soap 12oz,6,PER-006,Personal Care,53,1.8,10
+2026-05-18,Moisturizing Lotion 16oz,5,PER-019,Personal Care,46,5.5,8
+2026-05-19,Organic Whole Milk 1gal,17,DAI-001,Dairy,73,3.2,30
+2026-05-19,Greek Yogurt 32oz,9,DAI-005,Dairy,75,2.8,20
+2026-05-19,Sourdough Bread Loaf,9,BAK-003,Bakery,104,2.5,25
+2026-05-19,Croissants 4pk,11,BAK-008,Bakery,64,3.0,15
+2026-05-19,Organic Bananas 3lb,23,PRO-002,Produce,157,1.2,45
+2026-05-19,Avocados 4pk,8,PRO-009,Produce,61,2.2,25
+2026-05-19,Sparkling Water 12pk,20,BEV-014,Beverages,56,4.0,30
+2026-05-19,Cold Brew Coffee 32oz,21,BEV-022,Beverages,32,3.5,20
+2026-05-19,Paper Towels 6pk,8,HOU-005,Household,43,6.0,15
+2026-05-19,Dish Soap 24oz,7,HOU-012,Household,43,2.4,10
+2026-05-19,Hand Soap 12oz,5,PER-006,Personal Care,48,1.8,10
+2026-05-19,Moisturizing Lotion 16oz,4,PER-019,Personal Care,42,5.5,8
+2026-05-20,Organic Whole Milk 1gal,23,DAI-001,Dairy,50,3.2,30
+2026-05-20,Greek Yogurt 32oz,12,DAI-005,Dairy,63,2.8,20
+2026-05-20,Sourdough Bread Loaf,15,BAK-003,Bakery,89,2.5,25
+2026-05-20,Croissants 4pk,10,BAK-008,Bakery,54,3.0,15
+2026-05-20,Organic Bananas 3lb,26,PRO-002,Produce,131,1.2,45
+2026-05-20,Avocados 4pk,20,PRO-009,Produce,41,2.2,25
+2026-05-20,Sparkling Water 12pk,17,BEV-014,Beverages,39,4.0,30
+2026-05-20,Cold Brew Coffee 32oz,11,BEV-022,Beverages,21,3.5,20
+2026-05-20,Paper Towels 6pk,9,HOU-005,Household,34,6.0,15
+2026-05-20,Dish Soap 24oz,5,HOU-012,Household,38,2.4,10
+2026-05-20,Hand Soap 12oz,5,PER-006,Personal Care,43,1.8,10
+2026-05-20,Moisturizing Lotion 16oz,4,PER-019,Personal Care,38,5.5,8
+2026-05-21,Organic Whole Milk 1gal,24,DAI-001,Dairy,151,3.2,30
+2026-05-21,Greek Yogurt 32oz,14,DAI-005,Dairy,49,2.8,20
+2026-05-21,Sourdough Bread Loaf,14,BAK-003,Bakery,75,2.5,25
+2026-05-21,Croissants 4pk,12,BAK-008,Bakery,42,3.0,15
+2026-05-21,Organic Bananas 3lb,36,PRO-002,Produce,95,1.2,45
+2026-05-21,Avocados 4pk,18,PRO-009,Produce,123,2.2,25
+2026-05-21,Sparkling Water 12pk,18,BEV-014,Beverages,131,4.0,30
+2026-05-21,Cold Brew Coffee 32oz,9,BEV-022,Beverages,87,3.5,20
+2026-05-21,Paper Towels 6pk,6,HOU-005,Household,28,6.0,15
+2026-05-21,Dish Soap 24oz,5,HOU-012,Household,33,2.4,10
+2026-05-21,Hand Soap 12oz,4,PER-006,Personal Care,39,1.8,10
+2026-05-21,Moisturizing Lotion 16oz,4,PER-019,Personal Care,34,5.5,8
+2026-05-22,Organic Whole Milk 1gal,44,DAI-001,Dairy,107,3.2,30
+2026-05-22,Greek Yogurt 32oz,29,DAI-005,Dairy,110,2.8,20
+2026-05-22,Sourdough Bread Loaf,32,BAK-003,Bakery,43,2.5,25
+2026-05-22,Croissants 4pk,23,BAK-008,Bakery,19,3.0,15
+2026-05-22,Organic Bananas 3lb,65,PRO-002,Produce,205,1.2,45
+2026-05-22,Avocados 4pk,28,PRO-009,Produce,95,2.2,25
+2026-05-22,Sparkling Water 12pk,36,BEV-014,Beverages,95,4.0,30
+2026-05-22,Cold Brew Coffee 32oz,29,BEV-022,Beverages,58,3.5,20
+2026-05-22,Paper Towels 6pk,15,HOU-005,Household,78,6.0,15
+2026-05-22,Dish Soap 24oz,15,HOU-012,Household,18,2.4,10
+2026-05-22,Hand Soap 12oz,14,PER-006,Personal Care,25,1.8,10
+2026-05-22,Moisturizing Lotion 16oz,11,PER-019,Personal Care,23,5.5,8
+2026-05-23,Organic Whole Milk 1gal,43,DAI-001,Dairy,64,3.2,30
+2026-05-23,Greek Yogurt 32oz,32,DAI-005,Dairy,78,2.8,20
+2026-05-23,Sourdough Bread Loaf,32,BAK-003,Bakery,91,2.5,25
+2026-05-23,Croissants 4pk,19,BAK-008,Bakery,60,3.0,15
+2026-05-23,Organic Bananas 3lb,61,PRO-002,Produce,144,1.2,45
+2026-05-23,Avocados 4pk,35,PRO-009,Produce,60,2.2,25
+2026-05-23,Sparkling Water 12pk,38,BEV-014,Beverages,57,4.0,30
+2026-05-23,Cold Brew Coffee 32oz,30,BEV-022,Beverages,28,3.5,20
+2026-05-23,Paper Towels 6pk,18,HOU-005,Household,60,6.0,15
+2026-05-23,Dish Soap 24oz,14,HOU-012,Household,54,2.4,10
+2026-05-23,Hand Soap 12oz,12,PER-006,Personal Care,13,1.8,10
+2026-05-23,Moisturizing Lotion 16oz,11,PER-019,Personal Care,12,5.5,8
+2026-05-24,Organic Whole Milk 1gal,42,DAI-001,Dairy,147,3.2,30
+2026-05-24,Greek Yogurt 32oz,21,DAI-005,Dairy,57,2.8,20
+2026-05-24,Sourdough Bread Loaf,21,BAK-003,Bakery,70,2.5,25
+2026-05-24,Croissants 4pk,22,BAK-008,Bakery,38,3.0,15
+2026-05-24,Organic Bananas 3lb,50,PRO-002,Produce,94,1.2,45
+2026-05-24,Avocados 4pk,31,PRO-009,Produce,29,2.2,25
+2026-05-24,Sparkling Water 12pk,31,BEV-014,Beverages,136,4.0,30
+2026-05-24,Cold Brew Coffee 32oz,21,BEV-022,Beverages,82,3.5,20
+2026-05-24,Paper Towels 6pk,17,HOU-005,Household,43,6.0,15
+2026-05-24,Dish Soap 24oz,13,HOU-012,Household,41,2.4,10
+2026-05-24,Hand Soap 12oz,9,PER-006,Personal Care,54,1.8,10
+2026-05-24,Moisturizing Lotion 16oz,5,PER-019,Personal Care,57,5.5,8
+2026-05-25,Organic Whole Milk 1gal,28,DAI-001,Dairy,119,3.2,30
+2026-05-25,Greek Yogurt 32oz,20,DAI-005,Dairy,37,2.8,20
+2026-05-25,Sourdough Bread Loaf,17,BAK-003,Bakery,53,2.5,25
+2026-05-25,Croissants 4pk,15,BAK-008,Bakery,23,3.0,15
+2026-05-25,Organic Bananas 3lb,44,PRO-002,Produce,50,1.2,45
+2026-05-25,Avocados 4pk,27,PRO-009,Produce,102,2.2,25
+2026-05-25,Sparkling Water 12pk,28,BEV-014,Beverages,108,4.0,30
+2026-05-25,Cold Brew Coffee 32oz,17,BEV-022,Beverages,65,3.5,20
+2026-05-25,Paper Towels 6pk,14,HOU-005,Household,29,6.0,15
+2026-05-25,Dish Soap 24oz,9,HOU-012,Household,32,2.4,10
+2026-05-25,Hand Soap 12oz,8,PER-006,Personal Care,46,1.8,10
+2026-05-25,Moisturizing Lotion 16oz,5,PER-019,Personal Care,52,5.5,8
+2026-05-26,Organic Whole Milk 1gal,28,DAI-001,Dairy,91,3.2,30
+2026-05-26,Greek Yogurt 32oz,16,DAI-005,Dairy,21,2.8,20
+2026-05-26,Sourdough Bread Loaf,21,BAK-003,Bakery,32,2.5,25
+2026-05-26,Croissants 4pk,19,BAK-008,Bakery,64,3.0,15
+2026-05-26,Organic Bananas 3lb,37,PRO-002,Produce,188,1.2,45
+2026-05-26,Avocados 4pk,18,PRO-009,Produce,84,2.2,25
+2026-05-26,Sparkling Water 12pk,33,BEV-014,Beverages,75,4.0,30
+2026-05-26,Cold Brew Coffee 32oz,20,BEV-022,Beverages,45,3.5,20
+2026-05-26,Paper Towels 6pk,11,HOU-005,Household,18,6.0,15
+2026-05-26,Dish Soap 24oz,11,HOU-012,Household,21,2.4,10
+2026-05-26,Hand Soap 12oz,7,PER-006,Personal Care,39,1.8,10
+2026-05-26,Moisturizing Lotion 16oz,9,PER-019,Personal Care,43,5.5,8
+2026-05-27,Organic Whole Milk 1gal,32,DAI-001,Dairy,59,3.2,30
+2026-05-27,Greek Yogurt 32oz,17,DAI-005,Dairy,94,2.8,20
+2026-05-27,Sourdough Bread Loaf,28,BAK-003,Bakery,84,2.5,25
+2026-05-27,Croissants 4pk,13,BAK-008,Bakery,51,3.0,15
+2026-05-27,Organic Bananas 3lb,47,PRO-002,Produce,141,1.2,45
+2026-05-27,Avocados 4pk,25,PRO-009,Produce,59,2.2,25
+2026-05-27,Sparkling Water 12pk,33,BEV-014,Beverages,42,4.0,30
+2026-05-27,Cold Brew Coffee 32oz,25,BEV-022,Beverages,95,3.5,20
+2026-05-27,Paper Towels 6pk,12,HOU-005,Household,71,6.0,15
+2026-05-27,Dish Soap 24oz,8,HOU-012,Household,13,2.4,10
+2026-05-27,Hand Soap 12oz,8,PER-006,Personal Care,31,1.8,10
+2026-05-27,Moisturizing Lotion 16oz,6,PER-019,Personal Care,37,5.5,8
+2026-05-28,Organic Whole Milk 1gal,37,DAI-001,Dairy,147,3.2,30
+2026-05-28,Greek Yogurt 32oz,19,DAI-005,Dairy,75,2.8,20
+2026-05-28,Sourdough Bread Loaf,20,BAK-003,Bakery,64,2.5,25
+2026-05-28,Croissants 4pk,15,BAK-008,Bakery,36,3.0,15
+2026-05-28,Organic Bananas 3lb,37,PRO-002,Produce,104,1.2,45
+2026-05-28,Avocados 4pk,21,PRO-009,Produce,38,2.2,25
+2026-05-28,Sparkling Water 12pk,32,BEV-014,Beverages,120,4.0,30
+2026-05-28,Cold Brew Coffee 32oz,18,BEV-022,Beverages,77,3.5,20
+2026-05-28,Paper Towels 6pk,10,HOU-005,Household,61,6.0,15
+2026-05-28,Dish Soap 24oz,10,HOU-012,Household,53,2.4,10
+2026-05-28,Hand Soap 12oz,9,PER-006,Personal Care,22,1.8,10
+2026-05-28,Moisturizing Lotion 16oz,7,PER-019,Personal Care,30,5.5,8
+2026-05-29,Organic Whole Milk 1gal,48,DAI-001,Dairy,99,3.2,30
+2026-05-29,Greek Yogurt 32oz,26,DAI-005,Dairy,49,2.8,20
+2026-05-29,Sourdough Bread Loaf,28,BAK-003,Bakery,36,2.5,25
+2026-05-29,Croissants 4pk,25,BAK-008,Bakery,71,3.0,15
+2026-05-29,Organic Bananas 3lb,63,PRO-002,Produce,216,1.2,45
+2026-05-29,Avocados 4pk,35,PRO-009,Produce,103,2.2,25
+2026-05-29,Sparkling Water 12pk,46,BEV-014,Beverages,74,4.0,30
+2026-05-29,Cold Brew Coffee 32oz,32,BEV-022,Beverages,45,3.5,20
+2026-05-29,Paper Towels 6pk,19,HOU-005,Household,42,6.0,15
+2026-05-29,Dish Soap 24oz,17,HOU-012,Household,36,2.4,10
+2026-05-29,Hand Soap 12oz,11,PER-006,Personal Care,11,1.8,10
+2026-05-29,Moisturizing Lotion 16oz,11,PER-019,Personal Care,19,5.5,8
+2026-05-30,Organic Whole Milk 1gal,44,DAI-001,Dairy,55,3.2,30
+2026-05-30,Greek Yogurt 32oz,29,DAI-005,Dairy,110,2.8,20
+2026-05-30,Sourdough Bread Loaf,36,BAK-003,Bakery,80,2.5,25
+2026-05-30,Croissants 4pk,23,BAK-008,Bakery,48,3.0,15
+2026-05-30,Organic Bananas 3lb,67,PRO-002,Produce,149,1.2,45
+2026-05-30,Avocados 4pk,40,PRO-009,Produce,63,2.2,25
+2026-05-30,Sparkling Water 12pk,38,BEV-014,Beverages,36,4.0,30
+2026-05-30,Cold Brew Coffee 32oz,27,BEV-022,Beverages,93,3.5,20
+2026-05-30,Paper Towels 6pk,16,HOU-005,Household,26,6.0,15
+2026-05-30,Dish Soap 24oz,11,HOU-012,Household,25,2.4,10
+2026-05-30,Hand Soap 12oz,11,PER-006,Personal Care,50,1.8,10
+2026-05-30,Moisturizing Lotion 16oz,8,PER-019,Personal Care,11,5.5,8
+2026-05-31,Organic Whole Milk 1gal,38,DAI-001,Dairy,142,3.2,30
+2026-05-31,Greek Yogurt 32oz,24,DAI-005,Dairy,86,2.8,20
+2026-05-31,Sourdough Bread Loaf,29,BAK-003,Bakery,51,2.5,25
+2026-05-31,Croissants 4pk,21,BAK-008,Bakery,27,3.0,15
+2026-05-31,Organic Bananas 3lb,61,PRO-002,Produce,88,1.2,45
+2026-05-31,Avocados 4pk,30,PRO-009,Produce,33,2.2,25
+2026-05-31,Sparkling Water 12pk,35,BEV-014,Beverages,111,4.0,30
+2026-05-31,Cold Brew Coffee 32oz,27,BEV-022,Beverages,66,3.5,20
+2026-05-31,Paper Towels 6pk,15,HOU-005,Household,76,6.0,15
+2026-05-31,Dish Soap 24oz,15,HOU-012,Household,60,2.4,10
+2026-05-31,Hand Soap 12oz,11,PER-006,Personal Care,39,1.8,10
+2026-05-31,Moisturizing Lotion 16oz,9,PER-019,Personal Care,52,5.5,8
+2026-06-01,Organic Whole Milk 1gal,22,DAI-001,Dairy,120,3.2,30
+2026-06-01,Greek Yogurt 32oz,16,DAI-005,Dairy,70,2.8,20
+2026-06-01,Sourdough Bread Loaf,15,BAK-003,Bakery,36,2.5,25
+2026-06-01,Croissants 4pk,7,BAK-008,Bakery,20,3.0,15
+2026-06-01,Organic Bananas 3lb,31,PRO-002,Produce,57,1.2,45
+2026-06-01,Avocados 4pk,14,PRO-009,Produce,119,2.2,25
+2026-06-01,Sparkling Water 12pk,16,BEV-014,Beverages,95,4.0,30
+2026-06-01,Cold Brew Coffee 32oz,15,BEV-022,Beverages,51,3.5,20
+2026-06-01,Paper Towels 6pk,10,HOU-005,Household,66,6.0,15
+2026-06-01,Dish Soap 24oz,6,HOU-012,Household,54,2.4,10
+2026-06-01,Hand Soap 12oz,5,PER-006,Personal Care,34,1.8,10
+2026-06-01,Moisturizing Lotion 16oz,6,PER-019,Personal Care,46,5.5,8
+2026-06-02,Organic Whole Milk 1gal,21,DAI-001,Dairy,99,3.2,30
+2026-06-02,Greek Yogurt 32oz,20,DAI-005,Dairy,50,2.8,20
+2026-06-02,Sourdough Bread Loaf,16,BAK-003,Bakery,100,2.5,25
+2026-06-02,Croissants 4pk,5,BAK-008,Bakery,75,3.0,15
+2026-06-02,Organic Bananas 3lb,33,PRO-002,Produce,199,1.2,45
+2026-06-02,Avocados 4pk,18,PRO-009,Produce,101,2.2,25
+2026-06-02,Sparkling Water 12pk,23,BEV-014,Beverages,72,4.0,30
+2026-06-02,Cold Brew Coffee 32oz,15,BEV-022,Beverages,36,3.5,20
+2026-06-02,Paper Towels 6pk,7,HOU-005,Household,59,6.0,15
+2026-06-02,Dish Soap 24oz,4,HOU-012,Household,50,2.4,10
+2026-06-02,Hand Soap 12oz,5,PER-006,Personal Care,29,1.8,10
+2026-06-02,Moisturizing Lotion 16oz,3,PER-019,Personal Care,43,5.5,8
+2026-06-03,Organic Whole Milk 1gal,18,DAI-001,Dairy,81,3.2,30
+2026-06-03,Greek Yogurt 32oz,14,DAI-005,Dairy,36,2.8,20
+2026-06-03,Sourdough Bread Loaf,19,BAK-003,Bakery,81,2.5,25
+2026-06-03,Croissants 4pk,11,BAK-008,Bakery,64,3.0,15
+2026-06-03,Organic Bananas 3lb,23,PRO-002,Produce,176,1.2,45
+2026-06-03,Avocados 4pk,18,PRO-009,Produce,83,2.2,25
+2026-06-03,Sparkling Water 12pk,23,BEV-014,Beverages,49,4.0,30
+2026-06-03,Cold Brew Coffee 32oz,11,BEV-022,Beverages,25,3.5,20
+2026-06-03,Paper Towels 6pk,7,HOU-005,Household,52,6.0,15
+2026-06-03,Dish Soap 24oz,6,HOU-012,Household,44,2.4,10
+2026-06-03,Hand Soap 12oz,4,PER-006,Personal Care,25,1.8,10
+2026-06-03,Moisturizing Lotion 16oz,5,PER-019,Personal Care,38,5.5,8
+2026-06-04,Organic Whole Milk 1gal,19,DAI-001,Dairy,62,3.2,30
+2026-06-04,Greek Yogurt 32oz,14,DAI-005,Dairy,22,2.8,20
+2026-06-04,Sourdough Bread Loaf,12,BAK-003,Bakery,69,2.5,25
+2026-06-04,Croissants 4pk,9,BAK-008,Bakery,55,3.0,15
+2026-06-04,Organic Bananas 3lb,33,PRO-002,Produce,143,1.2,45
+2026-06-04,Avocados 4pk,15,PRO-009,Produce,68,2.2,25
+2026-06-04,Sparkling Water 12pk,25,BEV-014,Beverages,134,4.0,30
+2026-06-04,Cold Brew Coffee 32oz,12,BEV-022,Beverages,88,3.5,20
+2026-06-04,Paper Towels 6pk,8,HOU-005,Household,44,6.0,15
+2026-06-04,Dish Soap 24oz,7,HOU-012,Household,37,2.4,10
+2026-06-04,Hand Soap 12oz,3,PER-006,Personal Care,22,1.8,10
+2026-06-04,Moisturizing Lotion 16oz,2,PER-019,Personal Care,36,5.5,8
+2026-06-05,Organic Whole Milk 1gal,24,DAI-001,Dairy,38,3.2,30
+2026-06-05,Greek Yogurt 32oz,22,DAI-005,Dairy,90,2.8,20
+2026-06-05,Sourdough Bread Loaf,19,BAK-003,Bakery,50,2.5,25
+2026-06-05,Croissants 4pk,20,BAK-008,Bakery,35,3.0,15
+2026-06-05,Organic Bananas 3lb,40,PRO-002,Produce,103,1.2,45
+2026-06-05,Avocados 4pk,25,PRO-009,Produce,43,2.2,25
+2026-06-05,Sparkling Water 12pk,33,BEV-014,Beverages,101,4.0,30
+2026-06-05,Cold Brew Coffee 32oz,26,BEV-022,Beverages,62,3.5,20
+2026-06-05,Paper Towels 6pk,16,HOU-005,Household,28,6.0,15
+2026-06-05,Dish Soap 24oz,11,HOU-012,Household,26,2.4,10
+2026-06-05,Hand Soap 12oz,9,PER-006,Personal Care,13,1.8,10
+2026-06-05,Moisturizing Lotion 16oz,7,PER-019,Personal Care,29,5.5,8
+2026-06-06,Organic Whole Milk 1gal,32,DAI-001,Dairy,131,3.2,30
+2026-06-06,Greek Yogurt 32oz,17,DAI-005,Dairy,73,2.8,20
+2026-06-06,Sourdough Bread Loaf,19,BAK-003,Bakery,31,2.5,25
+2026-06-06,Croissants 4pk,14,BAK-008,Bakery,21,3.0,15
+2026-06-06,Organic Bananas 3lb,42,PRO-002,Produce,61,1.2,45
+2026-06-06,Avocados 4pk,22,PRO-009,Produce,121,2.2,25
+2026-06-06,Sparkling Water 12pk,29,BEV-014,Beverages,72,4.0,30
+2026-06-06,Cold Brew Coffee 32oz,23,BEV-022,Beverages,39,3.5,20
+2026-06-06,Paper Towels 6pk,12,HOU-005,Household,16,6.0,15
+2026-06-06,Dish Soap 24oz,11,HOU-012,Household,15,2.4,10
+2026-06-06,Hand Soap 12oz,6,PER-006,Personal Care,57,1.8,10
+2026-06-06,Moisturizing Lotion 16oz,6,PER-019,Personal Care,23,5.5,8
+2026-06-07,Organic Whole Milk 1gal,23,DAI-001,Dairy,108,3.2,30
+2026-06-07,Greek Yogurt 32oz,11,DAI-005,Dairy,62,2.8,20
+2026-06-07,Sourdough Bread Loaf,18,BAK-003,Bakery,93,2.5,25
+2026-06-07,Croissants 4pk,12,BAK-008,Bakery,69,3.0,15
+2026-06-07,Organic Bananas 3lb,45,PRO-002,Produce,191,1.2,45
+2026-06-07,Avocados 4pk,23,PRO-009,Produce,98,2.2,25
+2026-06-07,Sparkling Water 12pk,19,BEV-014,Beverages,53,4.0,30
+2026-06-07,Cold Brew Coffee 32oz,23,BEV-022,Beverages,91,3.5,20
+2026-06-07,Paper Towels 6pk,13,HOU-005,Household,68,6.0,15
+2026-06-07,Dish Soap 24oz,9,HOU-012,Household,56,2.4,10
+2026-06-07,Hand Soap 12oz,6,PER-006,Personal Care,51,1.8,10
+2026-06-07,Moisturizing Lotion 16oz,4,PER-019,Personal Care,19,5.5,8
+2026-06-08,Organic Whole Milk 1gal,18,DAI-001,Dairy,90,3.2,30
+2026-06-08,Greek Yogurt 32oz,15,DAI-005,Dairy,47,2.8,20
+2026-06-08,Sourdough Bread Loaf,20,BAK-003,Bakery,73,2.5,25
+2026-06-08,Croissants 4pk,13,BAK-008,Bakery,56,3.0,15
+2026-06-08,Organic Bananas 3lb,26,PRO-002,Produce,165,1.2,45
+2026-06-08,Avocados 4pk,12,PRO-009,Produce,86,2.2,25
+2026-06-08,Sparkling Water 12pk,18,BEV-014,Beverages,35,4.0,30
+2026-06-08,Cold Brew Coffee 32oz,8,BEV-022,Beverages,83,3.5,20
+2026-06-08,Paper Towels 6pk,8,HOU-005,Household,60,6.0,15
+2026-06-08,Dish Soap 24oz,6,HOU-012,Household,50,2.4,10
+2026-06-08,Hand Soap 12oz,4,PER-006,Personal Care,47,1.8,10
+2026-06-08,Moisturizing Lotion 16oz,2,PER-019,Personal Care,17,5.5,8
+2026-06-09,Organic Whole Milk 1gal,22,DAI-001,Dairy,68,3.2,30
+2026-06-09,Greek Yogurt 32oz,11,DAI-005,Dairy,36,2.8,20
+2026-06-09,Sourdough Bread Loaf,11,BAK-003,Bakery,62,2.5,25
+2026-06-09,Croissants 4pk,3,BAK-008,Bakery,53,3.0,15
+2026-06-09,Organic Bananas 3lb,29,PRO-002,Produce,136,1.2,45
+2026-06-09,Avocados 4pk,23,PRO-009,Produce,63,2.2,25
+2026-06-09,Sparkling Water 12pk,25,BEV-014,Beverages,120,4.0,30
+2026-06-09,Cold Brew Coffee 32oz,12,BEV-022,Beverages,71,3.5,20
+2026-06-09,Paper Towels 6pk,7,HOU-005,Household,53,6.0,15
+2026-06-09,Dish Soap 24oz,7,HOU-012,Household,43,2.4,10
+2026-06-09,Hand Soap 12oz,4,PER-006,Personal Care,43,1.8,10
+2026-06-09,Moisturizing Lotion 16oz,4,PER-019,Personal Care,13,5.5,8
+2026-06-10,Organic Whole Milk 1gal,22,DAI-001,Dairy,46,3.2,30
+2026-06-10,Greek Yogurt 32oz,16,DAI-005,Dairy,110,2.8,20
+2026-06-10,Sourdough Bread Loaf,14,BAK-003,Bakery,48,2.5,25
+2026-06-10,Croissants 4pk,9,BAK-008,Bakery,44,3.0,15
+2026-06-10,Organic Bananas 3lb,25,PRO-002,Produce,111,1.2,45
+2026-06-10,Avocados 4pk,13,PRO-009,Produce,50,2.2,25
+2026-06-10,Sparkling Water 12pk,17,BEV-014,Beverages,103,4.0,30
+2026-06-10,Cold Brew Coffee 32oz,14,BEV-022,Beverages,57,3.5,20
+2026-06-10,Paper Towels 6pk,10,HOU-005,Household,43,6.0,15
+2026-06-10,Dish Soap 24oz,5,HOU-012,Household,38,2.4,10
+2026-06-10,Hand Soap 12oz,7,PER-006,Personal Care,36,1.8,10
+2026-06-10,Moisturizing Lotion 16oz,4,PER-019,Personal Care,9,5.5,8
+2026-06-11,Organic Whole Milk 1gal,20,DAI-001,Dairy,151,3.2,30
+2026-06-11,Greek Yogurt 32oz,10,DAI-005,Dairy,100,2.8,20
+2026-06-11,Sourdough Bread Loaf,7,BAK-003,Bakery,41,2.5,25
+2026-06-11,Croissants 4pk,12,BAK-008,Bakery,32,3.0,15
+2026-06-11,Organic Bananas 3lb,33,PRO-002,Produce,78,1.2,45
+2026-06-11,Avocados 4pk,15,PRO-009,Produce,35,2.2,25
+2026-06-11,Sparkling Water 12pk,18,BEV-014,Beverages,85,4.0,30
+2026-06-11,Cold Brew Coffee 32oz,15,BEV-022,Beverages,42,3.5,20
+2026-06-11,Paper Towels 6pk,4,HOU-005,Household,39,6.0,15
+2026-06-11,Dish Soap 24oz,5,HOU-012,Household,33,2.4,10
+2026-06-11,Hand Soap 12oz,6,PER-006,Personal Care,30,1.8,10
+2026-06-11,Moisturizing Lotion 16oz,3,PER-019,Personal Care,56,5.5,8
+2026-06-12,Organic Whole Milk 1gal,30,DAI-001,Dairy,121,3.2,30
+2026-06-12,Greek Yogurt 32oz,15,DAI-005,Dairy,85,2.8,20
+2026-06-12,Sourdough Bread Loaf,22,BAK-003,Bakery,99,2.5,25
+2026-06-12,Croissants 4pk,14,BAK-008,Bakery,18,3.0,15
+2026-06-12,Organic Bananas 3lb,35,PRO-002,Produce,218,1.2,45
+2026-06-12,Avocados 4pk,28,PRO-009,Produce,107,2.2,25
+2026-06-12,Sparkling Water 12pk,23,BEV-014,Beverages,62,4.0,30
+2026-06-12,Cold Brew Coffee 32oz,17,BEV-022,Beverages,25,3.5,20
+2026-06-12,Paper Towels 6pk,12,HOU-005,Household,27,6.0,15
+2026-06-12,Dish Soap 24oz,11,HOU-012,Household,22,2.4,10
+2026-06-12,Hand Soap 12oz,6,PER-006,Personal Care,24,1.8,10
+2026-06-12,Moisturizing Lotion 16oz,6,PER-019,Personal Care,50,5.5,8
+2026-06-13,Organic Whole Milk 1gal,31,DAI-001,Dairy,90,3.2,30
+2026-06-13,Greek Yogurt 32oz,20,DAI-005,Dairy,65,2.8,20
+2026-06-13,Sourdough Bread Loaf,22,BAK-003,Bakery,77,2.5,25
+2026-06-13,Croissants 4pk,13,BAK-008,Bakery,65,3.0,15
+2026-06-13,Organic Bananas 3lb,39,PRO-002,Produce,179,1.2,45
+2026-06-13,Avocados 4pk,24,PRO-009,Produce,83,2.2,25
+2026-06-13,Sparkling Water 12pk,22,BEV-014,Beverages,40,4.0,30
+2026-06-13,Cold Brew Coffee 32oz,10,BEV-022,Beverages,90,3.5,20
+2026-06-13,Paper Towels 6pk,13,HOU-005,Household,79,6.0,15
+2026-06-13,Dish Soap 24oz,10,HOU-012,Household,12,2.4,10
+2026-06-13,Hand Soap 12oz,4,PER-006,Personal Care,20,1.8,10
+2026-06-13,Moisturizing Lotion 16oz,5,PER-019,Personal Care,45,5.5,8
+2026-06-14,Organic Whole Milk 1gal,28,DAI-001,Dairy,62,3.2,30
+2026-06-14,Greek Yogurt 32oz,22,DAI-005,Dairy,43,2.8,20
+2026-06-14,Sourdough Bread Loaf,19,BAK-003,Bakery,58,2.5,25
+2026-06-14,Croissants 4pk,11,BAK-008,Bakery,54,3.0,15
+2026-06-14,Organic Bananas 3lb,37,PRO-002,Produce,142,1.2,45
+2026-06-14,Avocados 4pk,26,PRO-009,Produce,57,2.2,25
+2026-06-14,Sparkling Water 12pk,21,BEV-014,Beverages,129,4.0,30
+2026-06-14,Cold Brew Coffee 32oz,15,BEV-022,Beverages,75,3.5,20
+2026-06-14,Paper Towels 6pk,9,HOU-005,Household,70,6.0,15
+2026-06-14,Dish Soap 24oz,6,HOU-012,Household,56,2.4,10
+2026-06-14,Hand Soap 12oz,7,PER-006,Personal Care,13,1.8,10
+2026-06-14,Moisturizing Lotion 16oz,7,PER-019,Personal Care,38,5.5,8
+2026-06-15,Organic Whole Milk 1gal,21,DAI-001,Dairy,41,3.2,30
+2026-06-15,Greek Yogurt 32oz,12,DAI-005,Dairy,31,2.8,20
+2026-06-15,Sourdough Bread Loaf,13,BAK-003,Bakery,45,2.5,25
+2026-06-15,Croissants 4pk,6,BAK-008,Bakery,48,3.0,15
+2026-06-15,Organic Bananas 3lb,33,PRO-002,Produce,109,1.2,45
+2026-06-15,Avocados 4pk,16,PRO-009,Produce,41,2.2,25
+2026-06-15,Sparkling Water 12pk,17,BEV-014,Beverages,112,4.0,30
+2026-06-15,Cold Brew Coffee 32oz,24,BEV-022,Beverages,51,3.5,20
+2026-06-15,Paper Towels 6pk,8,HOU-005,Household,62,6.0,15
+2026-06-15,Dish Soap 24oz,5,HOU-012,Household,51,2.4,10
+2026-06-15,Hand Soap 12oz,4,PER-006,Personal Care,59,1.8,10
+2026-06-15,Moisturizing Lotion 16oz,5,PER-019,Personal Care,33,5.5,8
+2026-06-16,Organic Whole Milk 1gal,20,DAI-001,Dairy,146,3.2,30
+2026-06-16,Greek Yogurt 32oz,8,DAI-005,Dairy,23,2.8,20
+2026-06-16,Sourdough Bread Loaf,17,BAK-003,Bakery,28,2.5,25
+2026-06-16,Croissants 4pk,8,BAK-008,Bakery,40,3.0,15
+2026-06-16,Organic Bananas 3lb,38,PRO-002,Produce,71,1.2,45
+2026-06-16,Avocados 4pk,20,PRO-009,Produce,121,2.2,25
+2026-06-16,Sparkling Water 12pk,16,BEV-014,Beverages,96,4.0,30
+2026-06-16,Cold Brew Coffee 32oz,17,BEV-022,Beverages,34,3.5,20
+2026-06-16,Paper Towels 6pk,8,HOU-005,Household,54,6.0,15
+2026-06-16,Dish Soap 24oz,7,HOU-012,Household,44,2.4,10
+2026-06-16,Hand Soap 12oz,6,PER-006,Personal Care,53,1.8,10
+2026-06-16,Moisturizing Lotion 16oz,3,PER-019,Personal Care,30,5.5,8
+2026-06-17,Organic Whole Milk 1gal,17,DAI-001,Dairy,129,3.2,30
+2026-06-17,Greek Yogurt 32oz,15,DAI-005,Dairy,98,2.8,20
+2026-06-17,Sourdough Bread Loaf,13,BAK-003,Bakery,95,2.5,25
+2026-06-17,Croissants 4pk,9,BAK-008,Bakery,31,3.0,15
+2026-06-17,Organic Bananas 3lb,24,PRO-002,Produce,47,1.2,45
+2026-06-17,Avocados 4pk,18,PRO-009,Produce,103,2.2,25
+2026-06-17,Sparkling Water 12pk,27,BEV-014,Beverages,69,4.0,30
+2026-06-17,Cold Brew Coffee 32oz,10,BEV-022,Beverages,24,3.5,20
+2026-06-17,Paper Towels 6pk,8,HOU-005,Household,46,6.0,15
+2026-06-17,Dish Soap 24oz,8,HOU-012,Household,36,2.4,10
+2026-06-17,Hand Soap 12oz,5,PER-006,Personal Care,48,1.8,10
+2026-06-17,Moisturizing Lotion 16oz,5,PER-019,Personal Care,25,5.5,8
+2026-06-18,Organic Whole Milk 1gal,16,DAI-001,Dairy,113,3.2,30
+2026-06-18,Greek Yogurt 32oz,14,DAI-005,Dairy,84,2.8,20
+2026-06-18,Sourdough Bread Loaf,14,BAK-003,Bakery,81,2.5,25
+2026-06-18,Croissants 4pk,12,BAK-008,Bakery,19,3.0,15
+2026-06-18,Organic Bananas 3lb,35,PRO-002,Produce,187,1.2,45
+2026-06-18,Avocados 4pk,26,PRO-009,Produce,77,2.2,25
+2026-06-18,Sparkling Water 12pk,20,BEV-014,Beverages,49,4.0,30
+2026-06-18,Cold Brew Coffee 32oz,14,BEV-022,Beverages,85,3.5,20
+2026-06-18,Paper Towels 6pk,8,HOU-005,Household,38,6.0,15
+2026-06-18,Dish Soap 24oz,5,HOU-012,Household,31,2.4,10
+2026-06-18,Hand Soap 12oz,5,PER-006,Personal Care,43,1.8,10
+2026-06-18,Moisturizing Lotion 16oz,4,PER-019,Personal Care,21,5.5,8
+2026-06-19,Organic Whole Milk 1gal,30,DAI-001,Dairy,83,3.2,30
+2026-06-19,Greek Yogurt 32oz,22,DAI-005,Dairy,62,2.8,20
+2026-06-19,Sourdough Bread Loaf,18,BAK-003,Bakery,63,2.5,25
+2026-06-19,Croissants 4pk,17,BAK-008,Bakery,62,3.0,15
+2026-06-19,Organic Bananas 3lb,49,PRO-002,Produce,138,1.2,45
+2026-06-19,Avocados 4pk,23,PRO-009,Produce,54,2.2,25
+2026-06-19,Sparkling Water 12pk,18,BEV-014,Beverages,31,4.0,30
+2026-06-19,Cold Brew Coffee 32oz,18,BEV-022,Beverages,67,3.5,20
+2026-06-19,Paper Towels 6pk,14,HOU-005,Household,24,6.0,15
+2026-06-19,Dish Soap 24oz,9,HOU-012,Household,22,2.4,10
+2026-06-19,Hand Soap 12oz,6,PER-006,Personal Care,37,1.8,10
+2026-06-19,Moisturizing Lotion 16oz,6,PER-019,Personal Care,15,5.5,8
+2026-06-20,Organic Whole Milk 1gal,32,DAI-001,Dairy,51,3.2,30
+2026-06-20,Greek Yogurt 32oz,20,DAI-005,Dairy,42,2.8,20
+2026-06-20,Sourdough Bread Loaf,20,BAK-003,Bakery,43,2.5,25
+2026-06-20,Croissants 4pk,13,BAK-008,Bakery,49,3.0,15
+2026-06-20,Organic Bananas 3lb,41,PRO-002,Produce,97,1.2,45
+2026-06-20,Avocados 4pk,20,PRO-009,Produce,34,2.2,25
+2026-06-20,Sparkling Water 12pk,31,BEV-014,Beverages,110,4.0,30
+2026-06-20,Cold Brew Coffee 32oz,19,BEV-022,Beverages,48,3.5,20
+2026-06-20,Paper Towels 6pk,14,HOU-005,Household,75,6.0,15
+2026-06-20,Dish Soap 24oz,11,HOU-012,Household,11,2.4,10
+2026-06-20,Hand Soap 12oz,9,PER-006,Personal Care,28,1.8,10
+2026-06-20,Moisturizing Lotion 16oz,6,PER-019,Personal Care,9,5.5,8
+2026-06-21,Organic Whole Milk 1gal,27,DAI-001,Dairy,149,3.2,30
+2026-06-21,Greek Yogurt 32oz,16,DAI-005,Dairy,26,2.8,20
+2026-06-21,Sourdough Bread Loaf,16,BAK-003,Bakery,27,2.5,25
+2026-06-21,Croissants 4pk,13,BAK-008,Bakery,36,3.0,15
+2026-06-21,Organic Bananas 3lb,32,PRO-002,Produce,65,1.2,45
+2026-06-21,Avocados 4pk,26,PRO-009,Produce,108,2.2,25
+2026-06-21,Sparkling Water 12pk,22,BEV-014,Beverages,88,4.0,30
+2026-06-21,Cold Brew Coffee 32oz,18,BEV-022,Beverages,30,3.5,20
+2026-06-21,Paper Towels 6pk,11,HOU-005,Household,64,6.0,15
+2026-06-21,Dish Soap 24oz,7,HOU-012,Household,54,2.4,10
+2026-06-21,Hand Soap 12oz,8,PER-006,Personal Care,20,1.8,10
+2026-06-21,Moisturizing Lotion 16oz,5,PER-019,Personal Care,54,5.5,8
+2026-06-22,Organic Whole Milk 1gal,23,DAI-001,Dairy,126,3.2,30
+2026-06-22,Greek Yogurt 32oz,9,DAI-005,Dairy,107,2.8,20
+2026-06-22,Sourdough Bread Loaf,15,BAK-003,Bakery,92,2.5,25
+2026-06-22,Croissants 4pk,14,BAK-008,Bakery,22,3.0,15
+2026-06-22,Organic Bananas 3lb,24,PRO-002,Produce,216,1.2,45
+2026-06-22,Avocados 4pk,13,PRO-009,Produce,95,2.2,25
+2026-06-22,Sparkling Water 12pk,20,BEV-014,Beverages,68,4.0,30
+2026-06-22,Cold Brew Coffee 32oz,14,BEV-022,Beverages,91,3.5,20
+2026-06-22,Paper Towels 6pk,9,HOU-005,Household,55,6.0,15
+2026-06-22,Dish Soap 24oz,7,HOU-012,Household,47,2.4,10
+2026-06-22,Hand Soap 12oz,6,PER-006,Personal Care,14,1.8,10
+2026-06-22,Moisturizing Lotion 16oz,5,PER-019,Personal Care,49,5.5,8
+2026-06-23,Organic Whole Milk 1gal,21,DAI-001,Dairy,105,3.2,30
+2026-06-23,Greek Yogurt 32oz,12,DAI-005,Dairy,95,2.8,20
+2026-06-23,Sourdough Bread Loaf,16,BAK-003,Bakery,76,2.5,25
+2026-06-23,Croissants 4pk,14,BAK-008,Bakery,68,3.0,15
+2026-06-23,Organic Bananas 3lb,28,PRO-002,Produce,188,1.2,45
+2026-06-23,Avocados 4pk,12,PRO-009,Produce,83,2.2,25
+2026-06-23,Sparkling Water 12pk,23,BEV-014,Beverages,45,4.0,30
+2026-06-23,Cold Brew Coffee 32oz,13,BEV-022,Beverages,78,3.5,20
+2026-06-23,Paper Towels 6pk,3,HOU-005,Household,52,6.0,15
+2026-06-23,Dish Soap 24oz,7,HOU-012,Household,40,2.4,10
+2026-06-23,Hand Soap 12oz,4,PER-006,Personal Care,60,1.8,10
+2026-06-23,Moisturizing Lotion 16oz,4,PER-019,Personal Care,45,5.5,8
+2026-06-24,Organic Whole Milk 1gal,21,DAI-001,Dairy,84,3.2,30
+2026-06-24,Greek Yogurt 32oz,13,DAI-005,Dairy,82,2.8,20
+2026-06-24,Sourdough Bread Loaf,16,BAK-003,Bakery,60,2.5,25
+2026-06-24,Croissants 4pk,9,BAK-008,Bakery,59,3.0,15
+2026-06-24,Organic Bananas 3lb,32,PRO-002,Produce,156,1.2,45
+2026-06-24,Avocados 4pk,15,PRO-009,Produce,68,2.2,25
+2026-06-24,Sparkling Water 12pk,21,BEV-014,Beverages,134,4.0,30
+2026-06-24,Cold Brew Coffee 32oz,15,BEV-022,Beverages,63,3.5,20
+2026-06-24,Paper Towels 6pk,6,HOU-005,Household,46,6.0,15
+2026-06-24,Dish Soap 24oz,8,HOU-012,Household,32,2.4,10
+2026-06-24,Hand Soap 12oz,4,PER-006,Personal Care,56,1.8,10
+2026-06-24,Moisturizing Lotion 16oz,5,PER-019,Personal Care,40,5.5,8
+2026-06-25,Organic Whole Milk 1gal,21,DAI-001,Dairy,63,3.2,30
+2026-06-25,Greek Yogurt 32oz,18,DAI-005,Dairy,64,2.8,20
+2026-06-25,Sourdough Bread Loaf,14,BAK-003,Bakery,46,2.5,25
+2026-06-25,Croissants 4pk,9,BAK-008,Bakery,50,3.0,15
+2026-06-25,Organic Bananas 3lb,29,PRO-002,Produce,127,1.2,45
+2026-06-25,Avocados 4pk,15,PRO-009,Produce,53,2.2,25
+2026-06-25,Sparkling Water 12pk,21,BEV-014,Beverages,113,4.0,30
+2026-06-25,Cold Brew Coffee 32oz,8,BEV-022,Beverages,55,3.5,20
+2026-06-25,Paper Towels 6pk,6,HOU-005,Household,40,6.0,15
+2026-06-25,Dish Soap 24oz,4,HOU-012,Household,28,2.4,10
+2026-06-25,Hand Soap 12oz,6,PER-006,Personal Care,50,1.8,10
+2026-06-25,Moisturizing Lotion 16oz,6,PER-019,Personal Care,34,5.5,8
+2026-06-26,Organic Whole Milk 1gal,29,DAI-001,Dairy,34,3.2,30
+2026-06-26,Greek Yogurt 32oz,18,DAI-005,Dairy,46,2.8,20
+2026-06-26,Sourdough Bread Loaf,21,BAK-003,Bakery,105,2.5,25
+2026-06-26,Croissants 4pk,17,BAK-008,Bakery,33,3.0,15
+2026-06-26,Organic Bananas 3lb,38,PRO-002,Produce,89,1.2,45
+2026-06-26,Avocados 4pk,25,PRO-009,Produce,28,2.2,25
+2026-06-26,Sparkling Water 12pk,31,BEV-014,Beverages,82,4.0,30
+2026-06-26,Cold Brew Coffee 32oz,21,BEV-022,Beverages,34,3.5,20
+2026-06-26,Paper Towels 6pk,12,HOU-005,Household,28,6.0,15
+2026-06-26,Dish Soap 24oz,11,HOU-012,Household,17,2.4,10
+2026-06-26,Hand Soap 12oz,4,PER-006,Personal Care,46,1.8,10
+2026-06-26,Moisturizing Lotion 16oz,7,PER-019,Personal Care,27,5.5,8
+2026-06-27,Organic Whole Milk 1gal,27,DAI-001,Dairy,132,3.2,30
+2026-06-27,Greek Yogurt 32oz,13,DAI-005,Dairy,33,2.8,20
+2026-06-27,Sourdough Bread Loaf,23,BAK-003,Bakery,82,2.5,25
+2026-06-27,Croissants 4pk,18,BAK-008,Bakery,75,3.0,15
+2026-06-27,Organic Bananas 3lb,42,PRO-002,Produce,47,1.2,45
+2026-06-27,Avocados 4pk,27,PRO-009,Produce,101,2.2,25
+2026-06-27,Sparkling Water 12pk,33,BEV-014,Beverages,49,4.0,30
+2026-06-27,Cold Brew Coffee 32oz,24,BEV-022,Beverages,85,3.5,20
+2026-06-27,Paper Towels 6pk,15,HOU-005,Household,78,6.0,15
+2026-06-27,Dish Soap 24oz,10,HOU-012,Household,57,2.4,10
+2026-06-27,Hand Soap 12oz,8,PER-006,Personal Care,38,1.8,10
+2026-06-27,Moisturizing Lotion 16oz,4,PER-019,Personal Care,23,5.5,8
+2026-06-28,Organic Whole Milk 1gal,25,DAI-001,Dairy,107,3.2,30
+2026-06-28,Greek Yogurt 32oz,14,DAI-005,Dairy,109,2.8,20
+2026-06-28,Sourdough Bread Loaf,25,BAK-003,Bakery,57,2.5,25
+2026-06-28,Croissants 4pk,12,BAK-008,Bakery,63,3.0,15
+2026-06-28,Organic Bananas 3lb,39,PRO-002,Produce,183,1.2,45
+2026-06-28,Avocados 4pk,23,PRO-009,Produce,78,2.2,25
+2026-06-28,Sparkling Water 12pk,24,BEV-014,Beverages,135,4.0,30
+2026-06-28,Cold Brew Coffee 32oz,23,BEV-022,Beverages,62,3.5,20
+2026-06-28,Paper Towels 6pk,9,HOU-005,Household,69,6.0,15
+2026-06-28,Dish Soap 24oz,8,HOU-012,Household,49,2.4,10
+2026-06-28,Hand Soap 12oz,6,PER-006,Personal Care,32,1.8,10
+2026-06-28,Moisturizing Lotion 16oz,4,PER-019,Personal Care,19,5.5,8
+2026-06-29,Organic Whole Milk 1gal,18,DAI-001,Dairy,89,3.2,30
+2026-06-29,Greek Yogurt 32oz,12,DAI-005,Dairy,97,2.8,20
+2026-06-29,Sourdough Bread Loaf,13,BAK-003,Bakery,44,2.5,25
+2026-06-29,Croissants 4pk,8,BAK-008,Bakery,55,3.0,15
+2026-06-29,Organic Bananas 3lb,22,PRO-002,Produce,161,1.2,45
+2026-06-29,Avocados 4pk,16,PRO-009,Produce,62,2.2,25
+2026-06-29,Sparkling Water 12pk,12,BEV-014,Beverages,123,4.0,30
+2026-06-29,Cold Brew Coffee 32oz,16,BEV-022,Beverages,46,3.5,20
+2026-06-29,Paper Towels 6pk,8,HOU-005,Household,61,6.0,15
+2026-06-29,Dish Soap 24oz,4,HOU-012,Household,45,2.4,10
+2026-06-29,Hand Soap 12oz,5,PER-006,Personal Care,27,1.8,10
+2026-06-29,Moisturizing Lotion 16oz,3,PER-019,Personal Care,16,5.5,8
+2026-06-30,Organic Whole Milk 1gal,21,DAI-001,Dairy,68,3.2,30
+2026-06-30,Greek Yogurt 32oz,16,DAI-005,Dairy,81,2.8,20
+2026-06-30,Sourdough Bread Loaf,9,BAK-003,Bakery,35,2.5,25
+2026-06-30,Croissants 4pk,10,BAK-008,Bakery,45,3.0,15
+2026-06-30,Organic Bananas 3lb,28,PRO-002,Produce,133,1.2,45
+2026-06-30,Avocados 4pk,19,PRO-009,Produce,43,2.2,25
+2026-06-30,Sparkling Water 12pk,19,BEV-014,Beverages,104,4.0,30
+2026-06-30,Cold Brew Coffee 32oz,11,BEV-022,Beverages,35,3.5,20
+2026-06-30,Paper Towels 6pk,7,HOU-005,Household,54,6.0,15
+2026-06-30,Dish Soap 24oz,5,HOU-012,Household,40,2.4,10
+2026-06-30,Hand Soap 12oz,7,PER-006,Personal Care,20,1.8,10
+2026-06-30,Moisturizing Lotion 16oz,4,PER-019,Personal Care,12,5.5,8
+2026-07-01,Organic Whole Milk 1gal,37,DAI-001,Dairy,31,3.2,30
+2026-07-01,Greek Yogurt 32oz,19,DAI-005,Dairy,62,2.8,20
+2026-07-01,Sourdough Bread Loaf,19,BAK-003,Bakery,96,2.5,25
+2026-07-01,Croissants 4pk,11,BAK-008,Bakery,34,3.0,15
+2026-07-01,Organic Bananas 3lb,35,PRO-002,Produce,98,1.2,45
+2026-07-01,Avocados 4pk,18,PRO-009,Produce,125,2.2,25
+2026-07-01,Sparkling Water 12pk,28,BEV-014,Beverages,76,4.0,30
+2026-07-01,Cold Brew Coffee 32oz,22,BEV-022,Beverages,88,3.5,20
+2026-07-01,Paper Towels 6pk,9,HOU-005,Household,45,6.0,15
+2026-07-01,Dish Soap 24oz,11,HOU-012,Household,29,2.4,10
+2026-07-01,Hand Soap 12oz,7,PER-006,Personal Care,13,1.8,10
+2026-07-01,Moisturizing Lotion 16oz,7,PER-019,Personal Care,55,5.5,8
+2026-07-02,Organic Whole Milk 1gal,31,DAI-001,Dairy,125,3.2,30
+2026-07-02,Greek Yogurt 32oz,21,DAI-005,Dairy,41,2.8,20
+2026-07-02,Sourdough Bread Loaf,21,BAK-003,Bakery,75,2.5,25
+2026-07-02,Croissants 4pk,13,BAK-008,Bakery,21,3.0,15
+2026-07-02,Organic Bananas 3lb,33,PRO-002,Produce,65,1.2,45
+2026-07-02,Avocados 4pk,22,PRO-009,Produce,103,2.2,25
+2026-07-02,Sparkling Water 12pk,26,BEV-014,Beverages,50,4.0,30
+2026-07-02,Cold Brew Coffee 32oz,17,BEV-022,Beverages,71,3.5,20
+2026-07-02,Paper Towels 6pk,12,HOU-005,Household,33,6.0,15
+2026-07-02,Dish Soap 24oz,9,HOU-012,Household,20,2.4,10
+2026-07-02,Hand Soap 12oz,7,PER-006,Personal Care,56,1.8,10
+2026-07-02,Moisturizing Lotion 16oz,6,PER-019,Personal Care,49,5.5,8
+2026-07-03,Organic Whole Milk 1gal,45,DAI-001,Dairy,80,3.2,30
+2026-07-03,Greek Yogurt 32oz,29,DAI-005,Dairy,102,2.8,20
+2026-07-03,Sourdough Bread Loaf,29,BAK-003,Bakery,46,2.5,25
+2026-07-03,Croissants 4pk,21,BAK-008,Bakery,60,3.0,15
+2026-07-03,Organic Bananas 3lb,64,PRO-002,Produce,176,1.2,45
+2026-07-03,Avocados 4pk,36,PRO-009,Produce,67,2.2,25
+2026-07-03,Sparkling Water 12pk,43,BEV-014,Beverages,117,4.0,30
+2026-07-03,Cold Brew Coffee 32oz,31,BEV-022,Beverages,40,3.5,20
+2026-07-03,Paper Towels 6pk,20,HOU-005,Household,78,6.0,15
+2026-07-03,Dish Soap 24oz,14,HOU-012,Household,56,2.4,10
+2026-07-03,Hand Soap 12oz,11,PER-006,Personal Care,45,1.8,10
+2026-07-03,Moisturizing Lotion 16oz,10,PER-019,Personal Care,39,5.5,8
+2026-07-04,Organic Whole Milk 1gal,40,DAI-001,Dairy,40,3.2,30
+2026-07-04,Greek Yogurt 32oz,28,DAI-005,Dairy,74,2.8,20
+2026-07-04,Sourdough Bread Loaf,32,BAK-003,Bakery,94,2.5,25
+2026-07-04,Croissants 4pk,21,BAK-008,Bakery,39,3.0,15
+2026-07-04,Organic Bananas 3lb,64,PRO-002,Produce,112,1.2,45
+2026-07-04,Avocados 4pk,29,PRO-009,Produce,38,2.2,25
+2026-07-04,Sparkling Water 12pk,38,BEV-014,Beverages,79,4.0,30
+2026-07-04,Cold Brew Coffee 32oz,30,BEV-022,Beverages,85,3.5,20
+2026-07-04,Paper Towels 6pk,18,HOU-005,Household,60,6.0,15
+2026-07-04,Dish Soap 24oz,12,HOU-012,Household,44,2.4,10
+2026-07-04,Hand Soap 12oz,13,PER-006,Personal Care,32,1.8,10
+2026-07-04,Moisturizing Lotion 16oz,9,PER-019,Personal Care,30,5.5,8
+2026-07-05,Organic Whole Milk 1gal,40,DAI-001,Dairy,125,3.2,30
+2026-07-05,Greek Yogurt 32oz,26,DAI-005,Dairy,48,2.8,20
+2026-07-05,Sourdough Bread Loaf,26,BAK-003,Bakery,68,2.5,25
+2026-07-05,Croissants 4pk,24,BAK-008,Bakery,75,3.0,15
+2026-07-05,Organic Bananas 3lb,51,PRO-002,Produce,61,1.2,45
+2026-07-05,Avocados 4pk,35,PRO-009,Produce,103,2.2,25
+2026-07-05,Sparkling Water 12pk,40,BEV-014,Beverages,39,4.0,30
+2026-07-05,Cold Brew Coffee 32oz,24,BEV-022,Beverages,61,3.5,20
+2026-07-05,Paper Towels 6pk,19,HOU-005,Household,41,6.0,15
+2026-07-05,Dish Soap 24oz,12,HOU-012,Household,32,2.4,10
+2026-07-05,Hand Soap 12oz,11,PER-006,Personal Care,21,1.8,10
+2026-07-05,Moisturizing Lotion 16oz,9,PER-019,Personal Care,21,5.5,8
+2026-07-06,Organic Whole Milk 1gal,19,DAI-001,Dairy,106,3.2,30
+2026-07-06,Greek Yogurt 32oz,15,DAI-005,Dairy,33,2.8,20
+2026-07-06,Sourdough Bread Loaf,17,BAK-003,Bakery,51,2.5,25
+2026-07-06,Croissants 4pk,5,BAK-008,Bakery,70,3.0,15
+2026-07-06,Organic Bananas 3lb,35,PRO-002,Produce,201,1.2,45
+2026-07-06,Avocados 4pk,10,PRO-009,Produce,93,2.2,25
+2026-07-06,Sparkling Water 12pk,22,BEV-014,Beverages,127,4.0,30
+2026-07-06,Cold Brew Coffee 32oz,17,BEV-022,Beverages,44,3.5,20
+2026-07-06,Paper Towels 6pk,5,HOU-005,Household,36,6.0,15
+2026-07-06,Dish Soap 24oz,5,HOU-012,Household,27,2.4,10
+2026-07-06,Hand Soap 12oz,3,PER-006,Personal Care,18,1.8,10
+2026-07-06,Moisturizing Lotion 16oz,4,PER-019,Personal Care,17,5.5,8
+2026-07-07,Organic Whole Milk 1gal,19,DAI-001,Dairy,87,3.2,30
+2026-07-07,Greek Yogurt 32oz,15,DAI-005,Dairy,108,2.8,20
+2026-07-07,Sourdough Bread Loaf,18,BAK-003,Bakery,33,2.5,25
+2026-07-07,Croissants 4pk,13,BAK-008,Bakery,57,3.0,15
+2026-07-07,Organic Bananas 3lb,26,PRO-002,Produce,175,1.2,45
+2026-07-07,Avocados 4pk,15,PRO-009,Produce,78,2.2,25
+2026-07-07,Sparkling Water 12pk,11,BEV-014,Beverages,116,4.0,30
+2026-07-07,Cold Brew Coffee 32oz,11,BEV-022,Beverages,33,3.5,20
+2026-07-07,Paper Towels 6pk,10,HOU-005,Household,26,6.0,15
+2026-07-07,Dish Soap 24oz,9,HOU-012,Household,18,2.4,10
+2026-07-07,Hand Soap 12oz,3,PER-006,Personal Care,15,1.8,10
+2026-07-07,Moisturizing Lotion 16oz,3,PER-019,Personal Care,14,5.5,8
+2026-07-08,Organic Whole Milk 1gal,20,DAI-001,Dairy,67,3.2,30
+2026-07-08,Greek Yogurt 32oz,13,DAI-005,Dairy,95,2.8,20
+2026-07-08,Sourdough Bread Loaf,12,BAK-003,Bakery,101,2.5,25
+2026-07-08,Croissants 4pk,11,BAK-008,Bakery,46,3.0,15
+2026-07-08,Organic Bananas 3lb,27,PRO-002,Produce,148,1.2,45
+2026-07-08,Avocados 4pk,16,PRO-009,Produce,62,2.2,25
+2026-07-08,Sparkling Water 12pk,20,BEV-014,Beverages,96,4.0,30
+2026-07-08,Cold Brew Coffee 32oz,13,BEV-022,Beverages,95,3.5,20
+2026-07-08,Paper Towels 6pk,7,HOU-005,Household,19,6.0,15
+2026-07-08,Dish Soap 24oz,6,HOU-012,Household,12,2.4,10
+2026-07-08,Hand Soap 12oz,5,PER-006,Personal Care,60,1.8,10
+2026-07-08,Moisturizing Lotion 16oz,4,PER-019,Personal Care,10,5.5,8
+2026-07-09,Organic Whole Milk 1gal,19,DAI-001,Dairy,48,3.2,30
+2026-07-09,Greek Yogurt 32oz,17,DAI-005,Dairy,78,2.8,20
+2026-07-09,Sourdough Bread Loaf,16,BAK-003,Bakery,85,2.5,25
+2026-07-09,Croissants 4pk,9,BAK-008,Bakery,37,3.0,15
+2026-07-09,Organic Bananas 3lb,32,PRO-002,Produce,116,1.2,45
+2026-07-09,Avocados 4pk,15,PRO-009,Produce,47,2.2,25
+2026-07-09,Sparkling Water 12pk,23,BEV-014,Beverages,73,4.0,30
+2026-07-09,Cold Brew Coffee 32oz,14,BEV-022,Beverages,81,3.5,20
+2026-07-09,Paper Towels 6pk,8,HOU-005,Household,76,6.0,15
+2026-07-09,Dish Soap 24oz,7,HOU-012,Household,55,2.4,10
+2026-07-09,Hand Soap 12oz,3,PER-006,Personal Care,57,1.8,10
+2026-07-09,Moisturizing Lotion 16oz,3,PER-019,Personal Care,57,5.5,8
+2026-07-10,Organic Whole Milk 1gal,25,DAI-001,Dairy,148,3.2,30
+2026-07-10,Greek Yogurt 32oz,19,DAI-005,Dairy,59,2.8,20
+2026-07-10,Sourdough Bread Loaf,26,BAK-003,Bakery,59,2.5,25
+2026-07-10,Croissants 4pk,20,BAK-008,Bakery,17,3.0,15
+2026-07-10,Organic Bananas 3lb,46,PRO-002,Produce,70,1.2,45
+2026-07-10,Avocados 4pk,26,PRO-009,Produce,121,2.2,25
+2026-07-10,Sparkling Water 12pk,19,BEV-014,Beverages,54,4.0,30
+2026-07-10,Cold Brew Coffee 32oz,18,BEV-022,Beverages,63,3.5,20
+2026-07-10,Paper Towels 6pk,10,HOU-005,Household,66,6.0,15
+2026-07-10,Dish Soap 24oz,8,HOU-012,Household,47,2.4,10
+2026-07-10,Hand Soap 12oz,7,PER-006,Personal Care,50,1.8,10
+2026-07-10,Moisturizing Lotion 16oz,6,PER-019,Personal Care,51,5.5,8
+2026-07-11,Organic Whole Milk 1gal,22,DAI-001,Dairy,126,3.2,30
+2026-07-11,Greek Yogurt 32oz,20,DAI-005,Dairy,39,2.8,20
+2026-07-11,Sourdough Bread Loaf,18,BAK-003,Bakery,41,2.5,25
+2026-07-11,Croissants 4pk,15,BAK-008,Bakery,62,3.0,15
+2026-07-11,Organic Bananas 3lb,53,PRO-002,Produce,192,1.2,45
+2026-07-11,Avocados 4pk,20,PRO-009,Produce,101,2.2,25
+2026-07-11,Sparkling Water 12pk,16,BEV-014,Beverages,38,4.0,30
+2026-07-11,Cold Brew Coffee 32oz,19,BEV-022,Beverages,44,3.5,20
+2026-07-11,Paper Towels 6pk,14,HOU-005,Household,52,6.0,15
+2026-07-11,Dish Soap 24oz,12,HOU-012,Household,35,2.4,10
+2026-07-11,Hand Soap 12oz,6,PER-006,Personal Care,44,1.8,10
+2026-07-11,Moisturizing Lotion 16oz,7,PER-019,Personal Care,44,5.5,8
+2026-07-12,Organic Whole Milk 1gal,24,DAI-001,Dairy,102,3.2,30
+2026-07-12,Greek Yogurt 32oz,16,DAI-005,Dairy,23,2.8,20
+2026-07-12,Sourdough Bread Loaf,27,BAK-003,Bakery,94,2.5,25
+2026-07-12,Croissants 4pk,9,BAK-008,Bakery,53,3.0,15
+2026-07-12,Organic Bananas 3lb,39,PRO-002,Produce,153,1.2,45
+2026-07-12,Avocados 4pk,23,PRO-009,Produce,78,2.2,25
+2026-07-12,Sparkling Water 12pk,28,BEV-014,Beverages,120,4.0,30
+2026-07-12,Cold Brew Coffee 32oz,18,BEV-022,Beverages,26,3.5,20
+2026-07-12,Paper Towels 6pk,11,HOU-005,Household,41,6.0,15
+2026-07-12,Dish Soap 24oz,7,HOU-012,Household,28,2.4,10
+2026-07-12,Hand Soap 12oz,7,PER-006,Personal Care,37,1.8,10
+2026-07-12,Moisturizing Lotion 16oz,5,PER-019,Personal Care,39,5.5,8
+2026-07-13,Organic Whole Milk 1gal,22,DAI-001,Dairy,80,3.2,30
+2026-07-13,Greek Yogurt 32oz,11,DAI-005,Dairy,102,2.8,20
+2026-07-13,Sourdough Bread Loaf,15,BAK-003,Bakery,79,2.5,25
+2026-07-13,Croissants 4pk,10,BAK-008,Bakery,43,3.0,15
+2026-07-13,Organic Bananas 3lb,35,PRO-002,Produce,118,1.2,45
+2026-07-13,Avocados 4pk,16,PRO-009,Produce,62,2.2,25
+2026-07-13,Sparkling Water 12pk,10,BEV-014,Beverages,110,4.0,30
+2026-07-13,Cold Brew Coffee 32oz,17,BEV-022,Beverages,84,3.5,20
+2026-07-13,Paper Towels 6pk,6,HOU-005,Household,35,6.0,15
+2026-07-13,Dish Soap 24oz,5,HOU-012,Household,23,2.4,10
+2026-07-13,Hand Soap 12oz,4,PER-006,Personal Care,33,1.8,10
+2026-07-13,Moisturizing Lotion 16oz,6,PER-019,Personal Care,33,5.5,8
+2026-07-14,Organic Whole Milk 1gal,12,DAI-001,Dairy,68,3.2,30
+2026-07-14,Greek Yogurt 32oz,21,DAI-005,Dairy,81,2.8,20
+2026-07-14,Sourdough Bread Loaf,17,BAK-003,Bakery,62,2.5,25
+2026-07-14,Croissants 4pk,10,BAK-008,Bakery,33,3.0,15
+2026-07-14,Organic Bananas 3lb,29,PRO-002,Produce,89,1.2,45
+2026-07-14,Avocados 4pk,17,PRO-009,Produce,45,2.2,25
+2026-07-14,Sparkling Water 12pk,20,BEV-014,Beverages,90,4.0,30
+2026-07-14,Cold Brew Coffee 32oz,15,BEV-022,Beverages,69,3.5,20
+2026-07-14,Paper Towels 6pk,9,HOU-005,Household,26,6.0,15
+2026-07-14,Dish Soap 24oz,6,HOU-012,Household,17,2.4,10
+2026-07-14,Hand Soap 12oz,5,PER-006,Personal Care,28,1.8,10
+2026-07-14,Moisturizing Lotion 16oz,4,PER-019,Personal Care,29,5.5,8
+2026-07-15,Organic Whole Milk 1gal,19,DAI-001,Dairy,49,3.2,30
+2026-07-15,Greek Yogurt 32oz,16,DAI-005,Dairy,65,2.8,20
+2026-07-15,Sourdough Bread Loaf,16,BAK-003,Bakery,46,2.5,25
+2026-07-15,Croissants 4pk,3,BAK-008,Bakery,30,3.0,15
+2026-07-15,Organic Bananas 3lb,32,PRO-002,Produce,57,1.2,45
+2026-07-15,Avocados 4pk,17,PRO-009,Produce,28,2.2,25
+2026-07-15,Sparkling Water 12pk,18,BEV-014,Beverages,72,4.0,30
+2026-07-15,Cold Brew Coffee 32oz,12,BEV-022,Beverages,57,3.5,20
+2026-07-15,Paper Towels 6pk,10,HOU-005,Household,16,6.0,15
+2026-07-15,Dish Soap 24oz,7,HOU-012,Household,60,2.4,10
+2026-07-15,Hand Soap 12oz,4,PER-006,Personal Care,24,1.8,10
+2026-07-15,Moisturizing Lotion 16oz,5,PER-019,Personal Care,24,5.5,8
+2026-07-16,Organic Whole Milk 1gal,16,DAI-001,Dairy,33,3.2,30
+2026-07-16,Greek Yogurt 32oz,9,DAI-005,Dairy,56,2.8,20
+2026-07-16,Sourdough Bread Loaf,12,BAK-003,Bakery,34,2.5,25
+2026-07-16,Croissants 4pk,12,BAK-008,Bakery,18,3.0,15
+2026-07-16,Organic Bananas 3lb,34,PRO-002,Produce,198,1.2,45
+2026-07-16,Avocados 4pk,18,PRO-009,Produce,110,2.2,25
+2026-07-16,Sparkling Water 12pk,21,BEV-014,Beverages,51,4.0,30
+2026-07-16,Cold Brew Coffee 32oz,15,BEV-022,Beverages,42,3.5,20
+2026-07-16,Paper Towels 6pk,6,HOU-005,Household,75,6.0,15
+2026-07-16,Dish Soap 24oz,7,HOU-012,Household,53,2.4,10
+2026-07-16,Hand Soap 12oz,6,PER-006,Personal Care,18,1.8,10
+2026-07-16,Moisturizing Lotion 16oz,5,PER-019,Personal Care,19,5.5,8
+2026-07-17,Organic Whole Milk 1gal,33,DAI-001,Dairy,125,3.2,30
+2026-07-17,Greek Yogurt 32oz,20,DAI-005,Dairy,36,2.8,20
+2026-07-17,Sourdough Bread Loaf,22,BAK-003,Bakery,92,2.5,25
+2026-07-17,Croissants 4pk,17,BAK-008,Bakery,61,3.0,15
+2026-07-17,Organic Bananas 3lb,43,PRO-002,Produce,155,1.2,45
+2026-07-17,Avocados 4pk,20,PRO-009,Produce,90,2.2,25
+2026-07-17,Sparkling Water 12pk,26,BEV-014,Beverages,135,4.0,30
+2026-07-17,Cold Brew Coffee 32oz,17,BEV-022,Beverages,25,3.5,20
+2026-07-17,Paper Towels 6pk,10,HOU-005,Household,65,6.0,15
+2026-07-17,Dish Soap 24oz,9,HOU-012,Household,44,2.4,10
+2026-07-17,Hand Soap 12oz,6,PER-006,Personal Care,12,1.8,10
+2026-07-17,Moisturizing Lotion 16oz,6,PER-019,Personal Care,13,5.5,8
+2026-07-18,Organic Whole Milk 1gal,23,DAI-001,Dairy,102,3.2,30
+2026-07-18,Greek Yogurt 32oz,19,DAI-005,Dairy,107,2.8,20
+2026-07-18,Sourdough Bread Loaf,21,BAK-003,Bakery,71,2.5,25
+2026-07-18,Croissants 4pk,12,BAK-008,Bakery,49,3.0,15
+2026-07-18,Organic Bananas 3lb,46,PRO-002,Produce,109,1.2,45
+2026-07-18,Avocados 4pk,27,PRO-009,Produce,63,2.2,25
+2026-07-18,Sparkling Water 12pk,20,BEV-014,Beverages,115,4.0,30
+2026-07-18,Cold Brew Coffee 32oz,17,BEV-022,Beverages,83,3.5,20
+2026-07-18,Paper Towels 6pk,10,HOU-005,Household,55,6.0,15
+2026-07-18,Dish Soap 24oz,7,HOU-012,Household,37,2.4,10
+2026-07-18,Hand Soap 12oz,9,PER-006,Personal Care,53,1.8,10
+2026-07-18,Moisturizing Lotion 16oz,6,PER-019,Personal Care,57,5.5,8
+2026-07-19,Organic Whole Milk 1gal,25,DAI-001,Dairy,77,3.2,30
+2026-07-19,Greek Yogurt 32oz,11,DAI-005,Dairy,96,2.8,20
+2026-07-19,Sourdough Bread Loaf,21,BAK-003,Bakery,50,2.5,25
+2026-07-19,Croissants 4pk,10,BAK-008,Bakery,39,3.0,15
+2026-07-19,Organic Bananas 3lb,38,PRO-002,Produce,71,1.2,45
+2026-07-19,Avocados 4pk,22,PRO-009,Produce,41,2.2,25
+2026-07-19,Sparkling Water 12pk,29,BEV-014,Beverages,86,4.0,30
+2026-07-19,Cold Brew Coffee 32oz,13,BEV-022,Beverages,70,3.5,20
+2026-07-19,Paper Towels 6pk,4,HOU-005,Household,51,6.0,15
+2026-07-19,Dish Soap 24oz,8,HOU-012,Household,29,2.4,10
+2026-07-19,Hand Soap 12oz,9,PER-006,Personal Care,44,1.8,10
+2026-07-19,Moisturizing Lotion 16oz,7,PER-019,Personal Care,50,5.5,8
+2026-07-20,Organic Whole Milk 1gal,20,DAI-001,Dairy,57,3.2,30
+2026-07-20,Greek Yogurt 32oz,11,DAI-005,Dairy,85,2.8,20
+2026-07-20,Sourdough Bread Loaf,17,BAK-003,Bakery,33,2.5,25
+2026-07-20,Croissants 4pk,7,BAK-008,Bakery,32,3.0,15
+2026-07-20,Organic Bananas 3lb,31,PRO-002,Produce,215,1.2,45
+2026-07-20,Avocados 4pk,18,PRO-009,Produce,123,2.2,25
+2026-07-20,Sparkling Water 12pk,22,BEV-014,Beverages,64,4.0,30
+2026-07-20,Cold Brew Coffee 32oz,22,BEV-022,Beverages,48,3.5,20
+2026-07-20,Paper Towels 6pk,9,HOU-005,Household,42,6.0,15
+2026-07-20,Dish Soap 24oz,5,HOU-012,Household,24,2.4,10
+2026-07-20,Hand Soap 12oz,5,PER-006,Personal Care,39,1.8,10
+2026-07-20,Moisturizing Lotion 16oz,2,PER-019,Personal Care,48,5.5,8
+2026-07-21,Organic Whole Milk 1gal,17,DAI-001,Dairy,40,3.2,30
+2026-07-21,Greek Yogurt 32oz,11,DAI-005,Dairy,74,2.8,20
+2026-07-21,Sourdough Bread Loaf,13,BAK-003,Bakery,100,2.5,25
+2026-07-21,Croissants 4pk,10,BAK-008,Bakery,22,3.0,15
+2026-07-21,Organic Bananas 3lb,25,PRO-002,Produce,190,1.2,45
+2026-07-21,Avocados 4pk,20,PRO-009,Produce,103,2.2,25
+2026-07-21,Sparkling Water 12pk,18,BEV-014,Beverages,46,4.0,30
+2026-07-21,Cold Brew Coffee 32oz,13,BEV-022,Beverages,35,3.5,20
+2026-07-21,Paper Towels 6pk,7,HOU-005,Household,35,6.0,15
+2026-07-21,Dish Soap 24oz,6,HOU-012,Household,18,2.4,10
+2026-07-21,Hand Soap 12oz,6,PER-006,Personal Care,33,1.8,10
+2026-07-21,Moisturizing Lotion 16oz,3,PER-019,Personal Care,45,5.5,8
+2026-07-22,Organic Whole Milk 1gal,17,DAI-001,Dairy,148,3.2,30
+2026-07-22,Greek Yogurt 32oz,12,DAI-005,Dairy,62,2.8,20
+2026-07-22,Sourdough Bread Loaf,10,BAK-003,Bakery,90,2.5,25
+2026-07-22,Croissants 4pk,8,BAK-008,Bakery,74,3.0,15
+2026-07-22,Organic Bananas 3lb,27,PRO-002,Produce,163,1.2,45
+2026-07-22,Avocados 4pk,19,PRO-009,Produce,84,2.2,25
+2026-07-22,Sparkling Water 12pk,19,BEV-014,Beverages,137,4.0,30
+2026-07-22,Cold Brew Coffee 32oz,14,BEV-022,Beverages,21,3.5,20
+2026-07-22,Paper Towels 6pk,10,HOU-005,Household,25,6.0,15
+2026-07-22,Dish Soap 24oz,6,HOU-012,Household,12,2.4,10
+2026-07-22,Hand Soap 12oz,6,PER-006,Personal Care,27,1.8,10
+2026-07-22,Moisturizing Lotion 16oz,4,PER-019,Personal Care,41,5.5,8
+2026-07-23,Organic Whole Milk 1gal,21,DAI-001,Dairy,127,3.2,30
+2026-07-23,Greek Yogurt 32oz,11,DAI-005,Dairy,51,2.8,20
+2026-07-23,Sourdough Bread Loaf,7,BAK-003,Bakery,83,2.5,25
+2026-07-23,Croissants 4pk,9,BAK-008,Bakery,65,3.0,15
+2026-07-23,Organic Bananas 3lb,36,PRO-002,Produce,127,1.2,45
+2026-07-23,Avocados 4pk,20,PRO-009,Produce,64,2.2,25
+2026-07-23,Sparkling Water 12pk,22,BEV-014,Beverages,115,4.0,30
+2026-07-23,Cold Brew Coffee 32oz,17,BEV-022,Beverages,79,3.5,20
+2026-07-23,Paper Towels 6pk,8,HOU-005,Household,17,6.0,15
+2026-07-23,Dish Soap 24oz,6,HOU-012,Household,56,2.4,10
+2026-07-23,Hand Soap 12oz,4,PER-006,Personal Care,23,1.8,10
+2026-07-23,Moisturizing Lotion 16oz,4,PER-019,Personal Care,37,5.5,8
+2026-07-24,Organic Whole Milk 1gal,31,DAI-001,Dairy,96,3.2,30
+2026-07-24,Greek Yogurt 32oz,22,DAI-005,Dairy,29,2.8,20
+2026-07-24,Sourdough Bread Loaf,21,BAK-003,Bakery,62,2.5,25
+2026-07-24,Croissants 4pk,13,BAK-008,Bakery,52,3.0,15
+2026-07-24,Organic Bananas 3lb,43,PRO-002,Produce,84,1.2,45
+2026-07-24,Avocados 4pk,26,PRO-009,Produce,38,2.2,25
+2026-07-24,Sparkling Water 12pk,20,BEV-014,Beverages,95,4.0,30
+2026-07-24,Cold Brew Coffee 32oz,12,BEV-022,Beverages,67,3.5,20
+2026-07-24,Paper Towels 6pk,10,HOU-005,Household,72,6.0,15
+2026-07-24,Dish Soap 24oz,7,HOU-012,Household,49,2.4,10
+2026-07-24,Hand Soap 12oz,7,PER-006,Personal Care,16,1.8,10
+2026-07-24,Moisturizing Lotion 16oz,6,PER-019,Personal Care,31,5.5,8
+2026-07-25,Organic Whole Milk 1gal,28,DAI-001,Dairy,68,3.2,30
+2026-07-25,Greek Yogurt 32oz,22,DAI-005,Dairy,97,2.8,20
+2026-07-25,Sourdough Bread Loaf,22,BAK-003,Bakery,40,2.5,25
+2026-07-25,Croissants 4pk,15,BAK-008,Bakery,37,3.0,15
+2026-07-25,Organic Bananas 3lb,46,PRO-002,Produce,213,1.2,45
+2026-07-25,Avocados 4pk,19,PRO-009,Produce,119,2.2,25
+2026-07-25,Sparkling Water 12pk,31,BEV-014,Beverages,64,4.0,30
+2026-07-25,Cold Brew Coffee 32oz,20,BEV-022,Beverages,47,3.5,20
+2026-07-25,Paper Towels 6pk,13,HOU-005,Household,59,6.0,15
+2026-07-25,Dish Soap 24oz,7,HOU-012,Household,42,2.4,10
+2026-07-25,Hand Soap 12oz,5,PER-006,Personal Care,11,1.8,10
+2026-07-25,Moisturizing Lotion 16oz,7,PER-019,Personal Care,24,5.5,8
+2026-07-26,Organic Whole Milk 1gal,27,DAI-001,Dairy,41,3.2,30
+2026-07-26,Greek Yogurt 32oz,14,DAI-005,Dairy,83,2.8,20
+2026-07-26,Sourdough Bread Loaf,16,BAK-003,Bakery,104,2.5,25
+2026-07-26,Croissants 4pk,15,BAK-008,Bakery,22,3.0,15
+2026-07-26,Organic Bananas 3lb,32,PRO-002,Produce,181,1.2,45
+2026-07-26,Avocados 4pk,27,PRO-009,Produce,92,2.2,25
+2026-07-26,Sparkling Water 12pk,20,BEV-014,Beverages,44,4.0,30
+2026-07-26,Cold Brew Coffee 32oz,20,BEV-022,Beverages,27,3.5,20
+2026-07-26,Paper Towels 6pk,10,HOU-005,Household,49,6.0,15
+2026-07-26,Dish Soap 24oz,9,HOU-012,Household,33,2.4,10
+2026-07-26,Hand Soap 12oz,6,PER-006,Personal Care,55,1.8,10
+2026-07-26,Moisturizing Lotion 16oz,5,PER-019,Personal Care,19,5.5,8
+2026-07-27,Organic Whole Milk 1gal,20,DAI-001,Dairy,146,3.2,30
+2026-07-27,Greek Yogurt 32oz,10,DAI-005,Dairy,73,2.8,20
+2026-07-27,Sourdough Bread Loaf,16,BAK-003,Bakery,88,2.5,25
+2026-07-27,Croissants 4pk,8,BAK-008,Bakery,74,3.0,15
+2026-07-27,Organic Bananas 3lb,28,PRO-002,Produce,153,1.2,45
+2026-07-27,Avocados 4pk,12,PRO-009,Produce,80,2.2,25
+2026-07-27,Sparkling Water 12pk,7,BEV-014,Beverages,37,4.0,30
+2026-07-27,Cold Brew Coffee 32oz,13,BEV-022,Beverages,89,3.5,20
+2026-07-27,Paper Towels 6pk,13,HOU-005,Household,36,6.0,15
+2026-07-27,Dish Soap 24oz,7,HOU-012,Household,26,2.4,10
+2026-07-27,Hand Soap 12oz,5,PER-006,Personal Care,50,1.8,10
+2026-07-27,Moisturizing Lotion 16oz,4,PER-019,Personal Care,15,5.5,8
+2026-07-28,Organic Whole Milk 1gal,20,DAI-001,Dairy,126,3.2,30
+2026-07-28,Greek Yogurt 32oz,14,DAI-005,Dairy,59,2.8,20
+2026-07-28,Sourdough Bread Loaf,11,BAK-003,Bakery,77,2.5,25
+2026-07-28,Croissants 4pk,12,BAK-008,Bakery,62,3.0,15
+2026-07-28,Organic Bananas 3lb,33,PRO-002,Produce,120,1.2,45
+2026-07-28,Avocados 4pk,19,PRO-009,Produce,61,2.2,25
+2026-07-28,Sparkling Water 12pk,20,BEV-014,Beverages,127,4.0,30
+2026-07-28,Cold Brew Coffee 32oz,13,BEV-022,Beverages,76,3.5,20
+2026-07-28,Paper Towels 6pk,9,HOU-005,Household,27,6.0,15
+2026-07-28,Dish Soap 24oz,7,HOU-012,Household,19,2.4,10
+2026-07-28,Hand Soap 12oz,5,PER-006,Personal Care,45,1.8,10
+2026-07-28,Moisturizing Lotion 16oz,3,PER-019,Personal Care,12,5.5,8
+2026-07-29,Organic Whole Milk 1gal,20,DAI-001,Dairy,106,3.2,30
+2026-07-29,Greek Yogurt 32oz,17,DAI-005,Dairy,42,2.8,20
+2026-07-29,Sourdough Bread Loaf,11,BAK-003,Bakery,66,2.5,25
+2026-07-29,Croissants 4pk,6,BAK-008,Bakery,56,3.0,15
+2026-07-29,Organic Bananas 3lb,30,PRO-002,Produce,90,1.2,45
+2026-07-29,Avocados 4pk,16,PRO-009,Produce,45,2.2,25
+2026-07-29,Sparkling Water 12pk,19,BEV-014,Beverages,108,4.0,30
+2026-07-29,Cold Brew Coffee 32oz,14,BEV-022,Beverages,62,3.5,20
+2026-07-29,Paper Towels 6pk,7,HOU-005,Household,20,6.0,15
+2026-07-29,Dish Soap 24oz,8,HOU-012,Household,11,2.4,10
+2026-07-29,Hand Soap 12oz,3,PER-006,Personal Care,42,1.8,10
+2026-07-29,Moisturizing Lotion 16oz,3,PER-019,Personal Care,9,5.5,8
+2026-07-30,Organic Whole Milk 1gal,19,DAI-001,Dairy,87,3.2,30
+2026-07-30,Greek Yogurt 32oz,8,DAI-005,Dairy,34,2.8,20
+2026-07-30,Sourdough Bread Loaf,14,BAK-003,Bakery,52,2.5,25
+2026-07-30,Croissants 4pk,14,BAK-008,Bakery,42,3.0,15
+2026-07-30,Organic Bananas 3lb,29,PRO-002,Produce,61,1.2,45
+2026-07-30,Avocados 4pk,17,PRO-009,Produce,28,2.2,25
+2026-07-30,Sparkling Water 12pk,13,BEV-014,Beverages,95,4.0,30
+2026-07-30,Cold Brew Coffee 32oz,11,BEV-022,Beverages,51,3.5,20
+2026-07-30,Paper Towels 6pk,7,HOU-005,Household,78,6.0,15
+2026-07-30,Dish Soap 24oz,5,HOU-012,Household,56,2.4,10
+2026-07-30,Hand Soap 12oz,7,PER-006,Personal Care,35,1.8,10
+2026-07-30,Moisturizing Lotion 16oz,5,PER-019,Personal Care,54,5.5,8

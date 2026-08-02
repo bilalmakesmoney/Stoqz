@@ -1,36 +1,150 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# RetailPilot AI – Setup Instructions
 
-## Getting Started
+## Prerequisites
 
-First, run the development server:
+* Python 3.11+
+* Node.js 18+
+* npm
+
+---
+
+## Backend Setup
+
+1. Navigate to the backend folder:
+
+```bash
+cd backend
+```
+
+2. Create and activate a virtual environment:
+
+**Windows**
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+3. Install the required Python packages:
+
+```bash
+pip install fastapi
+pip install uvicorn
+pip install sqlalchemy
+pip install pandas
+pip install numpy
+pip install scikit-learn
+pip install xgboost
+pip install joblib
+pip install python-multipart
+pip install pydantic
+pip install openpyxl
+pip install python-dotenv
+```
+
+Or install everything at once:
+
+```bash
+pip install fastapi uvicorn sqlalchemy pandas numpy scikit-learn xgboost joblib python-multipart pydantic openpyxl python-dotenv
+```
+
+4. Run the backend:
+
+```bash
+uvicorn app.main:app --reload
+```
+
+Backend runs at:
+
+```
+http://localhost:8000
+```
+
+---
+
+## Frontend Setup
+
+Navigate to the frontend folder:
+
+```bash
+cd frontend
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+If required, install these packages:
+
+```bash
+npm install axios
+npm install recharts
+npm install framer-motion
+npm install lucide-react
+npm install @tabler/icons-react
+```
+
+Run the frontend:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Frontend runs at:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## AI & Development Tools Used
 
-To learn more about Next.js, take a look at the following resources:
+This project was built using the following tools:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* ChatGPT (OpenAI) — architecture planning, debugging, backend development assistance, frontend development assistance, and code generation.
+* Antigravity — AI-powered coding assistant used throughout development for implementation and rapid iteration.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Technologies Used
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Frontend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+* Axios
+* Framer Motion
+* Recharts
+* Lucide React
+* Tabler Icons
+
+### Backend
+
+* FastAPI
+* SQLAlchemy
+* Pandas
+* NumPy
+* Scikit-learn
+* XGBoost
+* Joblib
+* Pydantic
+
+### Database
+
+* SQLite
+
+### Machine Learning
+
+* XGBoost Regression
+* Feature Engineering
+* Inventory Recommendation Engine
+* Demand Forecasting
+
+---
+
+Thank you for reviewing RetailPilot AI!
